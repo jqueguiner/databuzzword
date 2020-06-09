@@ -28,7 +28,7 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 
 - [Author's Site](https://www.notion.so/Make-everyone-s-life-more-fun-using-AI-b15459d868bb490184e256cd95f26107€)
 ##### Selfie to Anime
-![https://github.com/jqueguiner/databuzzword/blob/master/images/A578852A-9A4D-4D90-88E0-A4D81C7D41B3.jpeg](images/A578852A-9A4D-4D90-88E0-A4D81C7D41B3.jpeg)
+![https://github.com/jqueguiner/databuzzword/blob/master/images/A578852A-9A4D-4D90-88E0-A4D81C7D41B3.jpeg](https://github.com/jqueguiner/databuzzword/blob/master/images/A578852A-9A4D-4D90-88E0-A4D81C7D41B3.jpeg?raw=true)
 - [Project Page](https://selfie2anime.com/)
 - [Code](https://github.com/t04glovern/selfie2anime)
 - [API](https://market-place.ai.ovh.net/#!/apis/59a0426c-c148-4cff-a042-6cc148fcffa5/pages/06641de1-1b1c-4bd2-a41d-e11b1c3bd230)
