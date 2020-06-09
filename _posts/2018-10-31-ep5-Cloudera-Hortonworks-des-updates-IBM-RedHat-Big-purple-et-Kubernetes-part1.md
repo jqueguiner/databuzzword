@@ -1,14 +1,13 @@
 ---
-title: "Episode 4 : Irénée Régnauld - Mais où va l'IA - Mouton Numérique"
-categories: [Irénée Régnauld, Jean-Louis Queguiner]
+title: "Episode 6 : Steven Le-Roux - Cloudera-Hortonworks (des updates) - IBM + RedHat Big purple et Kubernetes - 1/2"
+categories: [Steven Le-Roux, Jean-Louis Queguiner, Cloudera, Big Data, Hadoop, Hortonworks, IBM, RedHat]
 badges: true
 toc: true
 comments: true
 layout: post
-author: Jean-Louis Queguiner & Irénée Régnauld
+author: Jean-Louis Queguiner & Steven Le-Roux
 ---
 # Episode 6 : Steven Le-Roux - Cloudera-Hortonworks (des updates) - IBM + RedHat Big purple et Kubernetes - 1/2 
-
 
 1. TOC
 {:toc}
