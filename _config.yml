@@ -41,22 +41,13 @@ minima:
   social_links:
     twitter: jilijeanlouis
     github: jqueguiner
-
-
-footer-links:
-  dribbble:
-  email: databuzzword@gmail.com
-  facebook:
-  flickr:
-  github: jqueguiner
-  instagram: 
-  linkedin: jlqueguiner
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jilijeanlouis
-  stackoverflow: users/786021/guignol
-  youtube: UCwPhv5c2FQf6Ai3E6rT8_cw
-  googleplus: # anything in your profile username that comes after plus.google.com/
+    email: databuzzword@gmail.com
+    github: jqueguiner
+    linkedin: jlqueguiner
+    rss: rss
+    twitter: jilijeanlouis
+    stackoverflow: users/786021/guignol
+    youtube: UCwPhv5c2FQf6Ai3E6rT8_cw
 
 # Set this to true to get LaTeX math equation support
 use_math: 
