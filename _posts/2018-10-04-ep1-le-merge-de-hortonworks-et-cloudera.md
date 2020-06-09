@@ -1,5 +1,5 @@
 ---
-title: Episode 1 : Steven Le-Roux - le merge de hortonworks et cloudera
+title: Episode 1 - Steven Le-Roux - le merge de hortonworks et cloudera
 categories: [hortonwork, cloudera, big data, steven Le-Roux, Jean-Louis Queguiner, cloud, database, data]
 badges: true
 toc: true
