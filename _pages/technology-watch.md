@@ -100,9 +100,24 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 ### Sound/Speech to Video
 
 
-### Video to Video
 
 ## Video to Anything
+
+### Video to Video
+#### Segmentation
+##### MSeg: A Composite Dataset for Multi-domain Semantic Segmentation
+![https://user-images.githubusercontent.com/62491525/83893958-abb75e00-a71e-11ea-978c-ab4080b4e718.gif](https://user-images.githubusercontent.com/62491525/83893958-abb75e00-a71e-11ea-978c-ab4080b4e718.gif)
+- [Code](https://github.com/mseg-dataset)
+- [Paper](https://vladlen.info/papers/MSeg.pdf)
+```
+@InProceedings{MSeg_2020_CVPR,
+author = {Lambert, John and Zhuang, Liu and Sener, Ozan and Hays, James and Koltun, Vladlen},
+title = {{MSeg}: A Composite Dataset for Multi-domain Semantic Segmentation},
+booktitle = {Computer Vision and Pattern Recognition (CVPR)},
+year = {2020}
+}
+```
+
 
 ### Video to Image
 
