@@ -1,5 +1,5 @@
 ---
-title: Episode 2 : Thibault Neveu - apprendre l'IA par Youtube
+title: Episode 2 - Thibault Neveu - apprendre l'IA par Youtube
 categories: [Thibault Neveu, Jean-Louis Queguiner, artificial intelligence]
 badges: true
 toc: true
