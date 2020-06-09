@@ -119,6 +119,21 @@ year = {2020}
 ```
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/PzBK6K5gyyo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Motion Supervised co-part Segmentation
+[https://github.com/AliaksandrSiarohin/motion-cosegmentation/blob/master/sup-mat/beard-line.gif?raw=true](https://github.com/AliaksandrSiarohin/motion-cosegmentation/blob/master/sup-mat/beard-line.gif?raw=true)
+- [Code](https://github.com/AliaksandrSiarohin/motion-cosegmentation)
+- [Paper](http://arxiv.org/abs/2004.03234)
+```
+@article{Siarohin_2020_motion,
+  title={Motion Supervised co-part Segmentation},
+  author={Siarohin, Aliaksandr and Roy, Subhankar and Lathuilière, Stéphane and Tulyakov, Sergey and Ricci, Elisa and Sebe, Nicu},
+  journal={arXiv preprint},
+  year={2020}
+}
+```
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/RJ4Nj1wV5iA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Video to Image
 
 ### Video to Text
