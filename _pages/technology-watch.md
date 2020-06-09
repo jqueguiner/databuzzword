@@ -112,7 +112,7 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 ```
 @InProceedings{MSeg_2020_CVPR,
 author = {Lambert, John and Zhuang, Liu and Sener, Ozan and Hays, James and Koltun, Vladlen},
-title = {MSeg : A Composite Dataset for Multi-domain Semantic Segmentation},
+title = {MSeg A Composite Dataset for Multi-domain Semantic Segmentation},
 booktitle = {Computer Vision and Pattern Recognition (CVPR)},
 year = {2020}
 }
