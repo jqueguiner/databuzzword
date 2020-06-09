@@ -1,6 +1,6 @@
 ---
-title: Episode 1 : Steven Le-Roux - le merge de hortonworks et cloudera
-categories: [hortonwork, cloudera, big data, steven Le-Roux, Jean-Louis Queguiner, cloud, database, data]
+title: Episode 2 : Thibault Neveu - apprendre l'IA par Youtube
+categories: [Thibault Neveu, Jean-Louis Queguiner, artificial intelligence]
 badges: true
 toc: true
 ---
