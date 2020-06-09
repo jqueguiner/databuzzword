@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: DataBuzzWord Blog!
+description: This is the DataBuzzWord Podcast Blog for AI/Data Addicts❤
 github_username: jqueguiner
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "databuzzword"
@@ -39,8 +39,24 @@ baseurl: "/databuzzword" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
-    github: fastai
+    twitter: jilijeanlouis
+    github: jqueguiner
+
+
+footer-links:
+  dribbble:
+  email: databuzzword@gmail.com
+  facebook:
+  flickr:
+  github: jqueguiner
+  instagram: 
+  linkedin: jlqueguiner
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: jilijeanlouis
+  stackoverflow: users/786021/guignol
+  youtube: UCwPhv5c2FQf6Ai3E6rT8_cw
+  googleplus: # anything in your profile username that comes after plus.google.com/
 
 # Set this to true to get LaTeX math equation support
 use_math: 
@@ -112,3 +128,6 @@ kramdown:
   auto_ids: true
   hard_wrap: false
   syntax_highlighter: rouge
+  
+disqus:
+  shortname: jqueguiner-github-io
