@@ -25,6 +25,7 @@ permalink: /watch/
     year = {2020}
 }
 ```
+
 ### Image to Text
 
 ### Image to Sound/Speech
