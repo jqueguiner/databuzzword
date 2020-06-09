@@ -64,7 +64,7 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 ```
 
 ### Image to Text
-#### Image Captioning
+##### Image Captioning
 ![https://raw.githubusercontent.com/jayeshsaita/image_captioning_pytorch/master/data/sample_output/output_6774537791.jpg](https://raw.githubusercontent.com/jayeshsaita/image_captioning_pytorch/master/data/sample_output/output_6774537791.jpg)
 - [Code](https://github.com/jayeshsaita/image_captioning_pytorch)
 
@@ -95,10 +95,10 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 ## Sound/Speech to Anything
 
 ### Sound/Speech to Image
-#### Audio to Image Conversion
+##### Audio to Image Conversion
 - [Code](https://www.kaggle.com/timolee/audio-data-conversion-to-images-eda)
 ### Sound/Speech to Text
-#### Speech Command Reognitiob
+##### Speech Command Reognitiob
 - [Code](https://github.com/jayeshsaita/Speech-Commands-Recognition)
 - [Paper](https://www.linkedin.com/in/jayeshsaita)
 ### Sound/Speech to Sound/Speech
@@ -149,7 +149,7 @@ year = {2020}
 ### Video to Video
 
 
-# Inference News
+# Inference
 ## Fastai
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Happy to announce <a href="https://twitter.com/hashtag/fastinference?src=hash&amp;ref_src=twsrc%5Etfw">#fastinference</a>! The bad news: fastshap and ClassConfusion are gone. The good news: they moved to a new home! In this module we have all of the above plus some speed-up and QOL integrations into <a href="https://twitter.com/fastdotai?ref_src=twsrc%5Etfw">@fastdotai</a>&#39;s inference methods, see here: 1/<a href="https://t.co/SLgJahtSr5">https://t.co/SLgJahtSr5</a> <a href="https://t.co/1oFkMe4SsP">pic.twitter.com/1oFkMe4SsP</a></p>&mdash; Zach #masks4all Mueller (@TheZachMueller) <a href="https://twitter.com/TheZachMueller/status/1269818072577331200?ref_src=twsrc%5Etfw">June 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
