@@ -26,7 +26,7 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 }
 ```
 
-- [Author's Site](https://www.notion.so/Make-everyone-s-life-more-fun-using-AI-b15459d868bb490184e256cd95f26107€
+- [Author's Site](https://www.notion.so/Make-everyone-s-life-more-fun-using-AI-b15459d868bb490184e256cd95f26107€)
 ##### Selfie to Anime
 ![https://github.com/jqueguiner/databuzzword/blob/master/images/A578852A-9A4D-4D90-88E0-A4D81C7D41B3.jpeg](images/A578852A-9A4D-4D90-88E0-A4D81C7D41B3.jpeg)
 - [Project Page](https://selfie2anime.com/)
@@ -44,7 +44,7 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 }
 ```
 
-- [Author Site](https://www.notion.so/Make-everyone-s-life-more-fun-using-AI-b15459d868bb490184e256cd95f26107)
+- [Author's Site](https://www.notion.so/Make-everyone-s-life-more-fun-using-AI-b15459d868bb490184e256cd95f26107)
 
 
 #### Segmentation
