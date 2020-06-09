@@ -10,6 +10,43 @@ permalink: /watch/
 ## Image to Anything
 
 ### Image to Image
+#### Image-to-Image translation
+##### UGATIT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (ICLR 2020)
+![https://github.com/taki0112/UGATIT/blob/master/assets/teaser.png?raw=true](https://github.com/taki0112/UGATIT/blob/master/assets/teaser.png?raw=true)
+- [Code](https://github.com/taki0112/UGATIT#paper--official-pytorch-code)
+- [Paper](https://arxiv.org/abs/1907.10830)
+```
+@inproceedings{
+Kim2020U-GAT-IT:,
+title={U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation},
+author={Junho Kim and Minjae Kim and Hyeonwoo Kang and Kwang Hee Lee},
+booktitle={International Conference on Learning Representations},
+year={2020},
+url={https://openreview.net/forum?id=BJlZ5ySKPH}
+}
+```
+
+- [Author's Site](https://www.notion.so/Make-everyone-s-life-more-fun-using-AI-b15459d868bb490184e256cd95f26107€
+##### Selfie to Anime
+![https://github.com/jqueguiner/databuzzword/blob/master/images/A578852A-9A4D-4D90-88E0-A4D81C7D41B3.jpeg](images/A578852A-9A4D-4D90-88E0-A4D81C7D41B3.jpeg)
+- [Project Page](https://selfie2anime.com/)
+- [Code](https://github.com/t04glovern/selfie2anime)
+- [API]()
+- [Paper](https://github.com/t04glovern/selfie2anime/blob/master/assets/Deploying-Models-to-the-Masses.pdf)
+```
+@misc{kim2019ugatit,
+    title={U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation},
+    author={Junho Kim and Minjae Kim and Hyeonwoo Kang and Kwanghee Lee},
+    year={2019},
+    eprint={1907.10830},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+```
+
+- [Author Site](https://www.notion.so/Make-everyone-s-life-more-fun-using-AI-b15459d868bb490184e256cd95f26107)
+
+
 #### Segmentation
 ##### Attention-Guided Hierarchical Structure Aggregation for Image Matting
 ![https://wukaoliu.github.io/HAttMatting/figures/visualization.png](https://wukaoliu.github.io/HAttMatting/figures/visualization.png)
@@ -27,6 +64,7 @@ permalink: /watch/
 ```
 
 ### Image to Text
+
 
 ### Image to Sound/Speech
 
