@@ -104,9 +104,27 @@
   
 
   
+      ,"page2": {
+          "title": "DataBuzzWord Experiments",
+          "content": "About .",
+          "url": "https://jqueguiner.github.io/databuzzword/experimenta/",
+          "relUrl": "/experimenta/",
+          "date": ""
+      }
+      
+  
 
   
 
+  
+      ,"page4": {
+          "title": "Reading List",
+          "content": "About . Deep Learning . Machine Learning . Management . Personal Development . Other .",
+          "url": "https://jqueguiner.github.io/databuzzword/reading-list/",
+          "relUrl": "/reading-list/",
+          "date": ""
+      }
+      
   
 
   
