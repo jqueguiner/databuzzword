@@ -10,7 +10,20 @@ permalink: /watch/
 ## Image to Anything
 
 ### Image to Image
-
+#### Segmentation
+##### Attention-Guided Hierarchical Structure Aggregation for Image Matting
+- [Project Page](https://wukaoliu.github.io/HAttMatting/)
+- [Code](https://github.com/wukaoliu/CVPR2020-HAttMatting)
+- [Paper](https://wukaoliu.github.io/HAttMatting/)
+```
+@InProceedings{Qiao_2020_CVPR,
+    author = {Qiao, Yu and Liu, Yuhao and Yang, Xin and Zhou, Dongsheng and Xu, Mingliang and Zhang, Qiang and Wei, Xiaopeng},
+    title = {Attention-Guided Hierarchical Structure Aggregation for Image Matting},
+    booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month = {June},
+    year = {2020}
+}
+```
 ### Image to Text
 
 ### Image to Sound/Speech
@@ -25,11 +38,11 @@ permalink: /watch/
 ### Text to Text
 #### Code to Code
 ##### Unsupervised Translation of Programming Languages
+- [Paper](https://arxiv.org/pdf/2006.03511.pdf)
 - Marie-Anne Lachaux
 - Baptiste Roziere
 - Guillaume Lample
 - Lowik Chanussot
-- [Paper](https://arxiv.org/pdf/2006.03511.pdf)
 
 ### Text to Sound/Speech
 
