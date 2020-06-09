@@ -1,4 +1,66 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://jqueguiner.github.io/databuzzword/feed.xml" rel="self" type="application/atom+xml" /><link href="https://jqueguiner.github.io/databuzzword/" rel="alternate" type="text/html" /><updated>2020-06-09T10:00:04-05:00</updated><id>https://jqueguiner.github.io/databuzzword/feed.xml</id><title type="html">DataBuzzWord Blog!</title><subtitle>This is the DataBuzzWord Podcast Blog for AI/Data Addicts❤</subtitle><entry><title type="html">Episode 3 : Yoann Long - Nvidia GTC Europe 2018 - AMD - rocM - Intel python</title><link href="https://jqueguiner.github.io/databuzzword/yoann%20long/jean-louis%20queguiner/artificial%20intelligence/gpu/nvidia/rocm/intel/2018/10/31/ep3-NVIDIA-GTC-Europe-2018-AMD-rocM-Intel.html" rel="alternate" type="text/html" title="Episode 3 : Yoann Long - Nvidia GTC Europe 2018 - AMD - rocM - Intel python" /><published>2018-10-31T00:00:00-05:00</published><updated>2018-10-31T00:00:00-05:00</updated><id>https://jqueguiner.github.io/databuzzword/yoann%20long/jean-louis%20queguiner/artificial%20intelligence/gpu/nvidia/rocm/intel/2018/10/31/ep3-NVIDIA-GTC-Europe-2018-AMD-rocM-Intel</id><content type="html" xml:base="https://jqueguiner.github.io/databuzzword/yoann%20long/jean-louis%20queguiner/artificial%20intelligence/gpu/nvidia/rocm/intel/2018/10/31/ep3-NVIDIA-GTC-Europe-2018-AMD-rocM-Intel.html">&lt;h1 id=&quot;episode-3--yoann-long---nvidia-gtc-europe-2018---amd---rocm---intel-python&quot;&gt;Episode 3 : Yoann Long - Nvidia GTC Europe 2018 - AMD - rocM - Intel python&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://jqueguiner.github.io/databuzzword/feed.xml" rel="self" type="application/atom+xml" /><link href="https://jqueguiner.github.io/databuzzword/" rel="alternate" type="text/html" /><updated>2020-06-09T10:03:29-05:00</updated><id>https://jqueguiner.github.io/databuzzword/feed.xml</id><title type="html">DataBuzzWord Blog!</title><subtitle>This is the DataBuzzWord Podcast Blog for AI/Data Addicts❤</subtitle><entry><title type="html">Episode 3 : Yoann Long - Nvidia GTC Europe 2018 - AMD - rocM - Intel python</title><link href="https://jqueguiner.github.io/databuzzword/yoann%20long/jean-louis%20queguiner/artificial%20intelligence/gpu/nvidia/rocm/intel/2018/10/31/ep4-Irenee-regnauld-mais-ou-va-ia-mouton-numerique-part1.html" rel="alternate" type="text/html" title="Episode 3 : Yoann Long - Nvidia GTC Europe 2018 - AMD - rocM - Intel python" /><published>2018-10-31T00:00:00-05:00</published><updated>2018-10-31T00:00:00-05:00</updated><id>https://jqueguiner.github.io/databuzzword/yoann%20long/jean-louis%20queguiner/artificial%20intelligence/gpu/nvidia/rocm/intel/2018/10/31/ep4-Irenee-regnauld-mais-ou-va-ia-mouton-numerique-part1</id><content type="html" xml:base="https://jqueguiner.github.io/databuzzword/yoann%20long/jean-louis%20queguiner/artificial%20intelligence/gpu/nvidia/rocm/intel/2018/10/31/ep4-Irenee-regnauld-mais-ou-va-ia-mouton-numerique-part1.html">&lt;h1 id=&quot;episode-3--yoann-long---nvidia-gtc-europe-2018---amd---rocm---intel-python&quot;&gt;Episode 3 : Yoann Long - Nvidia GTC Europe 2018 - AMD - rocM - Intel python&lt;/h1&gt;
+
+&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#episode-3--yoann-long---nvidia-gtc-europe-2018---amd---rocm---intel-python&quot; id=&quot;markdown-toc-episode-3--yoann-long---nvidia-gtc-europe-2018---amd---rocm---intel-python&quot;&gt;Episode 3 : Yoann Long - Nvidia GTC Europe 2018 - AMD - rocM - Intel python&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#the-podcast&quot; id=&quot;markdown-toc-the-podcast&quot;&gt;The Podcast&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#cited-links&quot; id=&quot;markdown-toc-cited-links&quot;&gt;Cited links&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#le-replay-de-la-keynote-nvidia-gtc-europe-2018&quot; id=&quot;markdown-toc-le-replay-de-la-keynote-nvidia-gtc-europe-2018&quot;&gt;Le replay de la Keynote NVidia GTC EUROPE 2018&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#les-libs-python-intel&quot; id=&quot;markdown-toc-les-libs-python-intel&quot;&gt;Les libs python intel:&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#rocm-by-amd&quot; id=&quot;markdown-toc-rocm-by-amd&quot;&gt;Rocm by AMD&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#yoanns-project&quot; id=&quot;markdown-toc-yoanns-project&quot;&gt;Yoann’s Project&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#the-guest&quot; id=&quot;markdown-toc-the-guest&quot;&gt;The Guest&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#social-networks&quot; id=&quot;markdown-toc-social-networks&quot;&gt;Social Networks&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#yoann-long&quot; id=&quot;markdown-toc-yoann-long&quot;&gt;Yoann Long&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#jean-louis-queguiner&quot; id=&quot;markdown-toc-jean-louis-queguiner&quot;&gt;Jean-Louis Queguiner&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;the-podcast&quot;&gt;The Podcast&lt;/h2&gt;
+
+&lt;iframe src=&quot;https://widget.spreaker.com/player?episode_id=16038601&amp;amp;theme=light&amp;amp;autoplay=false&amp;amp;playlist=false&amp;amp;cover_image_url=https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F61d642b487f7157a1c1eb83d3b47e04a.jpg&quot; width=&quot;100%&quot; height=&quot;400px&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;cited-links&quot;&gt;Cited links&lt;/h2&gt;
+
+&lt;h3 id=&quot;le-replay-de-la-keynote-nvidia-gtc-europe-2018&quot;&gt;Le replay de la Keynote NVidia GTC EUROPE 2018&lt;/h3&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/G1kx_7NJJGA&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;les-libs-python-intel&quot;&gt;Les libs python intel:&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://software.intel.com/en-us/distribution-for-python&quot;&gt;https://software.intel.com/en-us/distribution-for-python&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;rocm-by-amd&quot;&gt;Rocm by AMD&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/RadeonOpenCompute/ROCm&quot;&gt;https://github.com/RadeonOpenCompute/ROCm&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;yoanns-project&quot;&gt;Yoann’s Project&lt;/h3&gt;
+&lt;p&gt;Lugdunum, a modern 3D engine using the Vulkan API&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/nCB7C-qphvY&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://lugdunum3d.github.io&quot;&gt;https://lugdunum3d.github.io&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.lyonisai.fr&quot;&gt;http://www.lyonisai.fr&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-guest&quot;&gt;The Guest&lt;/h2&gt;
+
+&lt;p&gt;Cette semaine on rencontre Yoann Long et on revient sur les annonces du NVidia GTC summit 2018 de Munich, DGX2, Rapids, La contribution de Intel sur les librairies Python et le framework deep learning RocM de AMD compatible tensorflow.&lt;/p&gt;
+
+&lt;h2 id=&quot;social-networks&quot;&gt;Social Networks&lt;/h2&gt;
+
+&lt;h3 id=&quot;yoann-long&quot;&gt;Yoann Long&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/sumenia&quot;&gt;Yoann Long on Twitter @sumenia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;jean-louis-queguiner&quot;&gt;Jean-Louis Queguiner&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCVso5UVvQeGAuwbksmA95iA&quot;&gt;Jean-Louis Queguiner on Youtube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/JiliJeanlouis&quot;&gt;Jean-Louis Queguiner on Twitter @JiliJeanlouis&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jqueguiner&quot;&gt;Jean-Louis Queguiner on Github&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fr.linkedin.com/in/jlqueguiner&quot;&gt;Jean-Louis Queguiner on Linkedin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Jean-Louis Queguiner &amp; Yoann Long</name></author><summary type="html">Episode 3 : Yoann Long - Nvidia GTC Europe 2018 - AMD - rocM - Intel python</summary></entry><entry><title type="html">Episode 3 : Yoann Long - Nvidia GTC Europe 2018 - AMD - rocM - Intel python</title><link href="https://jqueguiner.github.io/databuzzword/yoann%20long/jean-louis%20queguiner/artificial%20intelligence/gpu/nvidia/rocm/intel/2018/10/31/ep3-NVIDIA-GTC-Europe-2018-AMD-rocM-Intel.html" rel="alternate" type="text/html" title="Episode 3 : Yoann Long - Nvidia GTC Europe 2018 - AMD - rocM - Intel python" /><published>2018-10-31T00:00:00-05:00</published><updated>2018-10-31T00:00:00-05:00</updated><id>https://jqueguiner.github.io/databuzzword/yoann%20long/jean-louis%20queguiner/artificial%20intelligence/gpu/nvidia/rocm/intel/2018/10/31/ep3-NVIDIA-GTC-Europe-2018-AMD-rocM-Intel</id><content type="html" xml:base="https://jqueguiner.github.io/databuzzword/yoann%20long/jean-louis%20queguiner/artificial%20intelligence/gpu/nvidia/rocm/intel/2018/10/31/ep3-NVIDIA-GTC-Europe-2018-AMD-rocM-Intel.html">&lt;h1 id=&quot;episode-3--yoann-long---nvidia-gtc-europe-2018---amd---rocm---intel-python&quot;&gt;Episode 3 : Yoann Long - Nvidia GTC Europe 2018 - AMD - rocM - Intel python&lt;/h1&gt;
 
 &lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#episode-3--yoann-long---nvidia-gtc-europe-2018---amd---rocm---intel-python&quot; id=&quot;markdown-toc-episode-3--yoann-long---nvidia-gtc-europe-2018---amd---rocm---intel-python&quot;&gt;Episode 3 : Yoann Long - Nvidia GTC Europe 2018 - AMD - rocM - Intel python&lt;/a&gt;    &lt;ol&gt;
