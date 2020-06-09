@@ -121,7 +121,7 @@ year = {2020}
 <iframe width="100%" src="https://www.youtube.com/embed/PzBK6K5gyyo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Motion Supervised co-part Segmentation
-[https://github.com/AliaksandrSiarohin/motion-cosegmentation/blob/master/sup-mat/beard-line.gif?raw=true](https://github.com/AliaksandrSiarohin/motion-cosegmentation/blob/master/sup-mat/beard-line.gif?raw=true)
+![https://github.com/AliaksandrSiarohin/motion-cosegmentation/blob/master/sup-mat/beard-line.gif?raw=true](https://github.com/AliaksandrSiarohin/motion-cosegmentation/blob/master/sup-mat/beard-line.gif?raw=true)
 - [Code](https://github.com/AliaksandrSiarohin/motion-cosegmentation)
 - [Paper](http://arxiv.org/abs/2004.03234)
 ```
