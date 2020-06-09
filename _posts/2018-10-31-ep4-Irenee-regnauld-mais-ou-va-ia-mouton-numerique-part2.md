@@ -1,5 +1,5 @@
 ---
-title: "Episode 4 : Irénée Régnauld - Mais où va l'IA - Mouton Numérique"
+title: "Episode 5 : Irénée Régnauld - Mais où va l'IA - Mouton Numérique - 2/2"
 categories: [Irénée Régnauld, Jean-Louis Queguiner]
 badges: true
 toc: true
