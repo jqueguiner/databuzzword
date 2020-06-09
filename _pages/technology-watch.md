@@ -12,6 +12,7 @@ permalink: /watch/
 ### Image to Image
 #### Segmentation
 ##### Attention-Guided Hierarchical Structure Aggregation for Image Matting
+![https://wukaoliu.github.io/HAttMatting/figures/visualization.png](https://wukaoliu.github.io/HAttMatting/figures/visualization.png)
 - [Project Page](https://wukaoliu.github.io/HAttMatting/)
 - [Code](https://github.com/wukaoliu/CVPR2020-HAttMatting)
 - [Paper](https://wukaoliu.github.io/HAttMatting/)
