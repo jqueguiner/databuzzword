@@ -64,6 +64,9 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 ```
 
 ### Image to Text
+#### Image Captioning
+![https://raw.githubusercontent.com/jayeshsaita/image_captioning_pytorch/master/data/sample_output/output_6774537791.jpg](https://raw.githubusercontent.com/jayeshsaita/image_captioning_pytorch/master/data/sample_output/output_6774537791.jpg)
+- [Code](https://github.com/jayeshsaita/image_captioning_pytorch)
 
 
 ### Image to Sound/Speech
@@ -92,7 +95,8 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 ## Sound/Speech to Anything
 
 ### Sound/Speech to Image
-
+#### Audio to Image Conversion
+- [Code](https://www.kaggle.com/timolee/audio-data-conversion-to-images-eda)
 ### Sound/Speech to Text
 
 ### Sound/Speech to Sound/Speech
