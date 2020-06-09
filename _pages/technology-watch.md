@@ -117,7 +117,13 @@ booktitle = {Computer Vision and Pattern Recognition (CVPR)},
 year = {2020}
 }
 ```
+<iframe src="https://www.youtube.com/embed/jNQXAC9IVRw?loop=1&modestbranding=1" width="560" height="315" frameborder="0" allowfullscreen=""></iframe>
 
+https://www.youtube.com/watch?v=PzBK6K5gyyo
+
+<iframe id="ytplayer" type="text/html" width="640" height="360"
+  src="http://www.youtube.com/embed/PzBK6K5gyyo"
+  frameborder="0"/>
 
 ### Video to Image
 
