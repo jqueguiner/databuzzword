@@ -1,34 +1,44 @@
 ---
-title: "Episode 6 : Steven Le-Roux - Cloudera-Hortonworks (des updates) - IBM + RedHat Big purple et Kubernetes - 1/2"
-categories: [Steven Le-Roux, Jean-Louis Queguiner, Cloudera, Big Data, Hadoop, Hortonworks, IBM, RedHat]
+title: "Episode 7 :  Steven Le-Roux - Horacio Gonzales - Kevin Georges - Kubernetes est-il fait pour vous ? 2/2"
+categories: [Steven Le-Roux, Jean-Louis Queguiner, Kevin Georges, Horacio Gonzales, Kubernetes]
 badges: true
 toc: true
 comments: true
 layout: post
-author: Jean-Louis Queguiner & Steven Le-Roux
+author: Jean-Louis Queguiner, Steven Le-Roux, Kevin Georges & Horacio Gonzales
 ---
-# Episode 6 : Steven Le-Roux - Cloudera-Hortonworks (des updates) - IBM + RedHat Big purple et Kubernetes - 1/2 
+# Episode 7 :  Steven Le-Roux - Horacio Gonzales - Kevin Georges - Kubernetes est-il fait pour vous ? 2/2
 
 1. TOC
 {:toc}
 
 ## The Podcast
 
-<iframe src="https://widget.spreaker.com/player?episode_id=16278279&theme=light&autoplay=false&playlist=false&cover_image_url=https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F7a3995c37bb49670550a292596744393.jpg" width="100%" height="400px" frameborder="0"></iframe>
+<iframe src="https://widget.spreaker.com/player?episode_id=16306299&theme=light&playlist=false&playlist-continuous=false&autoplay=false&live-autoplay=false&chapters-image=true&episode_image_position=right&hide-logo=false&hide-likes=false&hide-comments=false&hide-sharing=false&hide-download=true" width="100%" height="200px" frameborder="0"></iframe>
 
 ## The Guest
-Cette semaine on a des upates sur l'annonce de la fusion Cloudera + Hortonworks mais on parlera également de kubernetes (K8s)
-Òn parlera également du rachat de Red Hat par IBM
 
-Partie 1/2
-- [https://www.cnbc.com/2018/10/03/cloudera-and-hortonworks-announce-all-stock-merger.html](https://www.cnbc.com/2018/10/03/cloudera-and-hortonworks-announce-all-stock-merger.html)
-- [https://techcrunch.com/2018/10/03/cloudera-and-hortonworks-announce-5-2-billion-merger/](https://techcrunch.com/2018/10/03/cloudera-and-hortonworks-announce-5-2-billion-merger/)
-- [https://www.lemonde.fr/long-format/article/2018/11/11/comment-linux-est-devenu-un-enjeu-strategique-majeur-pour-la-silicon-valley_5382061_5345421.html](https://www.lemonde.fr/long-format/article/2018/11/11/comment-linux-est-devenu-un-enjeu-strategique-majeur-pour-la-silicon-valley_5382061_5345421.html)
+
+
+### Kubernetes est-il fait pour vous ? 
+Quelle est sa maturité ? 
+Son coût opérationnel ? 
+Comment s'y mettre et quel est l'avenir du projet ? 
+
+Réponse dans cet épisode de #DataBuzzWord avec @JiliJeanlouis @stevenleroux @0xd33d33 et @LostInBrittany !
+
+
 
 ## Social Networks
 
 ### Steven Le-Roux
-- [Irénée Régnauld on Twitter @StevenLeRoux](https://twitter.com/StevenLeRoux)
+- [Steven Le-Roux on Twitter @StevenLeRoux](https://twitter.com/StevenLeRoux)
+
+### Kevin Georges
+- [Kevin Georges on Twitter](https://twitter.com/0xd33d33)
+
+### Horacio Gonzales
+- [Horacio Gonzales on Twitter](https://twitter.com/LostInBrittany)
 
 ### Jean-Louis Queguiner
 - [Jean-Louis Queguiner on Youtube](https://www.youtube.com/channel/UCVso5UVvQeGAuwbksmA95iA)
