@@ -105,7 +105,7 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 
 ### Video to Video
 #### Segmentation
-##### A Composite Dataset for Multi-domain Semantic Segmentation
+
 ![https://user-images.githubusercontent.com/62491525/83893958-abb75e00-a71e-11ea-978c-ab4080b4e718.gif](https://user-images.githubusercontent.com/62491525/83893958-abb75e00-a71e-11ea-978c-ab4080b4e718.gif)
 - [Code](https://github.com/mseg-dataset)
 - [Paper](https://vladlen.info/papers/MSeg.pdf)
@@ -117,6 +117,7 @@ booktitle = {Computer Vision and Pattern Recognition (CVPR)},
 year = {2020}
 }
 ```
+> youtube: https://youtu.be/PzBK6K5gyyo
 
 ### Video to Image
 
