@@ -67,7 +67,7 @@ permalink: /reading-list/
 ### Websites
 #### DEEPAI.ORG
 - [DeepAI Website](https://deepai.org/)
-- [DeepAI on Twitter@Deep__AI](https://twitter.com/deep__ai)
+- [DeepAI on Twitter @Deep__AI](https://twitter.com/deep__ai)
 
 #### Papers With Code
 - [Papers With Code Website](https://paperswithcode.com/)
