@@ -56,6 +56,15 @@ I consider [@SentDex](https://twitter.com/Sentdex) founder [pythonprogramming.ne
 
 
 #### SpaCy
+- [Project Page](https://spacy.io/)
+- [Code](https://github.com/explosion/spaCy)
+- [Doc](https://spacy.io/api/doc)
+- [Cheat Sheet](https://www.datacamp.com/community/blog/spacy-cheatsheet)
+
+A good Spacy tutorial Youtube serie here :
+
+<iframe width="100%" src="https://www.youtube.com/playlist?list=PLJ39kWiJXSiz1LK8d_fyxb7FTn4mBYOsD" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Transformers (HuggingFace)
 
 
