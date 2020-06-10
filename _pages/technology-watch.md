@@ -425,6 +425,7 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 
 ### Text to Sound/Speech
 #### Pitchtron: Towards audiobook generation from ordinary people’s voices 
+- [Project Page](https://sunghee.kaist.ac.kr/entry/pitchtron)
 - [Paper](https://arxiv.org/abs/2005.10456)
 - [Code](https://github.com/hash2430/pitchtron)
 - [Samples](https://sunghee.kaist.ac.kr/entry/pitchtron)
