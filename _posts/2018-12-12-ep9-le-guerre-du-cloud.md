@@ -40,7 +40,6 @@ Réponse dans cet épisode de #DataBuzzWord avec @waxzce @JiliJeanlouis @stevenl
 - [Horacio Gonzales on Twitter @LostInBrittany](https://twitter.com/LostInBrittany)
 - [Horacio Gonzales on GitHub](https://github.com/LostInBrittany)
 - [Horacio Gonzales on LinkedIn](https://www.linkedin.com/in/horaciogonzalez/)
-- 
 
 ### Jean-Louis Queguiner
 - [Jean-Louis Queguiner on Youtube](https://www.youtube.com/channel/UCVso5UVvQeGAuwbksmA95iA)
