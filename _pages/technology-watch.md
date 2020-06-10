@@ -2,7 +2,13 @@
 layout: page
 title: Technology Watch
 permalink: /watch/
+tcc: true
 ---
+
+# Table of Content
+
+1. TOC
+{:toc}
 
 # Deep Learning
 
