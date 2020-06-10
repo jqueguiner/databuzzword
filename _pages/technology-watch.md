@@ -221,6 +221,11 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 ### Text to Image
 
 ### Text to Text
+#### Text Generation
+##### Next Word Prediction
+![UI](https://raw.githubusercontent.com/renatoviolin/next_word_prediction/master/word_prediction.gif)
+- [Code](https://github.com/renatoviolin/next_word_prediction)
+
 #### Code to Code
 ##### Unsupervised Translation of Programming Languages
 - [Paper](https://arxiv.org/abs/2006.03511)
