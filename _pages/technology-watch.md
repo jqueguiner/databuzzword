@@ -146,7 +146,7 @@ result, model_outputs, wrong_predictions = model.eval_model(eval_df)
 |-|-|-|-|-|-|-|
 
 #### Structured Data
-### AutoMl
+### AutoML
 #### AutoKeras 
 
 [AutoKeras](https://autokeras.com)
@@ -181,6 +181,16 @@ print('Accuracy: {accuracy}'.format(
   organization={ACM}
 }
 ```
+
+#### OVHcloud autoML
+![Demo](https://labs.ovh.com/sites/default/files/inline-images/upload_source_1.png)
+![Demo2](https://labs.ovh.com/sites/default/files/inline-images/optimization_result_2.png)
+![Demo3](https://labs.ovh.com/sites/default/files/inline-images/model_kpi_2.png)
+
+- [Site](https://labs.ovh.com/machine-learning-platform)
+- [Code](https://github.com/ovh/prescience-client)
+- [Forum](https://gitter.im/ovh/ai)
+
 # Deep Learning use cases
 
 ## Nothing to Image
