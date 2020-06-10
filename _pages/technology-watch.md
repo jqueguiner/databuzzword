@@ -44,6 +44,10 @@ tcc: true
 #### Vision
 #### Text
 
+## Handons
+### NLP
+- [Modern NLP in Python](https://github.com/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb)
+
 
 | Tool                                             | Binary Classification | Multi-Label Classification | Question Answering | Tokenization | Generation | Named Entity Recognition |
 |-|-|-|-|-|-|-|
