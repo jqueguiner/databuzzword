@@ -88,7 +88,18 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
     year = {2020}
 }
 ```
-
+##### Foreground-aware Semantic Representations for Image Harmonization
+![https://github.com/saic-vul/image_harmonization/raw/master/images/ih_teaser.jpg](https://github.com/saic-vul/image_harmonization/raw/master/images/ih_teaser.jpg)
+- [Code](https://github.com/saic-vul/image_harmonization)
+- [Paper](https://arxiv.org/abs/2006.00809)
+```
+@article{sofiiuk2020harmonization,
+  title={Foreground-aware Semantic Representations for Image Harmonization},
+  author={Konstantin Sofiiuk, Polina Popenova, Anton Konushin},
+  journal={arXiv preprint arXiv:2006.00809},
+  year={2020}
+}
+```
 ### Image to Text
 ##### Image Captioning
 ![https://raw.githubusercontent.com/jayeshsaita/image_captioning_pytorch/master/data/sample_output/output_6774537791.jpg](https://raw.githubusercontent.com/jayeshsaita/image_captioning_pytorch/master/data/sample_output/output_6774537791.jpg)
