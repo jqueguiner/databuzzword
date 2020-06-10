@@ -6,6 +6,26 @@ permalink: /watch/
 
 # Deep Learning
 
+## Nothing to Image
+### Generative
+#### Face
+##### Disentangled Image Generation Through Structured Noise Injection
+![https://github.com/yalharbi/StructuredNoiseInjection/blob/master/example_fakes_mouth.png](https://github.com/yalharbi/StructuredNoiseInjection/blob/master/example_fakes_mouth.png)
+- [Code](https://github.com/yalharbi/StructuredNoiseInjection)
+- [Paper](https://arxiv.org/abs/2004.12411)
+
+```
+@misc{alharbi2020disentangled,
+    title={Disentangled Image Generation Through Structured Noise Injection},
+    author={Yazeed Alharbi and Peter Wonka},
+    year={2020},
+    eprint={2004.12411},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+```
+
+<iframe width="100%" src="https://www.youtube.com/embed/7h-7wso9E0k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Image to Anything
 
