@@ -40,9 +40,24 @@ tcc: true
 [Colab](https://arxiv.org/abs/2001.04451)
 
 ## Useful Libs
-### Wrappers
+### Wrapper
 #### Vision
 #### Text
+### Text
+#### NLTK
+- [Project Page](https://www.nltk.org)
+- [Code](https://github.com/nltk/nltk)
+- [Doc](https://www.nltk.org/index.html)
+- [Cheat Sheet](https://cheatography.com/murenei/cheat-sheets/natural-language-processing-with-python-and-nltk/)
+
+I consider [@SentDex](https://twitter.com/Sentdex) founder [pythonprogramming.net](https://pythonprogramming.net) and [https://www.youtube.com/channel/sentdex](https://www.youtube.com/channel/sentdex) as the best tutorial for NLTK
+
+<iframe width="100%" src="https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+#### SpaCy
+#### Transformers (HuggingFace)
+
 
 ## Handson
 ### NLP
