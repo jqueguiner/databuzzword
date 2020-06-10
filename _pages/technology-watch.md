@@ -2,14 +2,8 @@
 layout: page
 title: Technology Watch
 permalink: /watch/
-tcc: true
+toc: true
 ---
-
-# Table of Content
-
-1. TOC
-{:toc}
-
 
 # Machine/Deep Learning tools
 ## Technics
