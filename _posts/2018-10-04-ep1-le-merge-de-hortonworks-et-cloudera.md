@@ -10,8 +10,6 @@ author: Jean-Louis Queguiner & Steven Le-Roux
 
 # Episode 1 : le merge de hortonworks et cloudera 
 
-Here's the table of contents:
-
 1. TOC
 {:toc}
 
