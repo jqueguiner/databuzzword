@@ -12,6 +12,33 @@ tcc: true
 
 
 # Machine/Deep Learning tools
+## Technics
+### Transformers
+- [The illustrated Transformers](http://jalammar.github.io/illustrated-transformer/)
+- [Transformers explained](https://arxiv.org/abs/2001.04451)
+- [Paper](https://arxiv.org/abs/1706.03762)
+
+```
+@misc{vaswani2017attention,
+    title={Attention Is All You Need},
+    author={Ashish Vaswani and Noam Shazeer and Niki Parmar and Jakob Uszkoreit and Llion Jones and Aidan N. Gomez and Lukasz Kaiser and Illia Polosukhin},
+    year={2017},
+    eprint={1706.03762},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
+```
+
+### BERT
+### BART
+### XLNet
+### GPT
+### GPT2
+### GPT3
+
+### Reformers
+[Colab](https://arxiv.org/abs/2001.04451)
+
 ## Useful Libs
 ### Wrappers
 #### Vision
