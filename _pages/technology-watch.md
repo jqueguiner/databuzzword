@@ -17,6 +17,7 @@ permalink: /watch/
 - [Colab](https://colab.research.google.com/drive/1-cyGV0FoSrHcQSVq3gKOymGTMt0g63Xc?usp=sharing#sandboxMode=true)
 - [Code](https://github.com/adamian98/pulse)
 - [Paper](https://arxiv.org/abs/2003.03808)
+
 ```
 @InProceedings{PULSE_CVPR_2020, 
 author = {Menon, Sachit and Damian, Alex and Hu, McCourt and Ravi, Nikhil and Rudin, Cynthia}, 
@@ -26,10 +27,12 @@ month = {June},
 year = {2020} 
 }
 ```
+
 ##### Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining
 ![https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention/raw/master/Figs/Visual_3.png](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention/raw/master/Figs/Visual_3.png)
 - [Code](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention)
 - [Paper](https://arxiv.org/abs/2006.01424)
+
 ```
 @inproceedings{Mei2020image,
   title={Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining},
@@ -44,6 +47,7 @@ year = {2020}
   year = {2017}
 }
 ```
+
 #### Image-to-Image translation
 ##### DeepFaceDrawing: Deep Generation of Face Images from Sketches
 ![http://geometrylearning.com/DeepFaceDrawing/imgs/teaser.jpg](http://geometrylearning.com/DeepFaceDrawing/imgs/teaser.jpg)
@@ -55,6 +59,7 @@ year = {2020}
 ![https://github.com/taki0112/UGATIT/blob/master/assets/teaser.png?raw=true](https://github.com/taki0112/UGATIT/blob/master/assets/teaser.png?raw=true)
 - [Code](https://github.com/taki0112/UGATIT#paper--official-pytorch-code)
 - [Paper](https://arxiv.org/abs/1907.10830)
+
 ```
 @inproceedings{
 Kim2020U-GAT-IT:,
@@ -67,12 +72,14 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 ```
 
 - [Author's Site](https://www.notion.so/Make-everyone-s-life-more-fun-using-AI-b15459d868bb490184e256cd95f26107€)
+
 ##### Selfie to Anime
 ![https://github.com/jqueguiner/databuzzword/blob/master/images/A578852A-9A4D-4D90-88E0-A4D81C7D41B3.jpeg](https://github.com/jqueguiner/databuzzword/blob/master/images/A578852A-9A4D-4D90-88E0-A4D81C7D41B3.jpeg?raw=true)
 - [Project Page](https://selfie2anime.com/)
 - [Code](https://github.com/t04glovern/selfie2anime)
 - [API](https://market-place.ai.ovh.net/#!/apis/59a0426c-c148-4cff-a042-6cc148fcffa5/pages/06641de1-1b1c-4bd2-a41d-e11b1c3bd230)
 - [Paper](https://github.com/t04glovern/selfie2anime/blob/master/assets/Deploying-Models-to-the-Masses.pdf)
+
 ```
 @misc{kim2019ugatit,
     title={U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation},
@@ -83,9 +90,7 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
     primaryClass={cs.CV}
 }
 ```
-
 - [Author's Site](https://www.notion.so/Make-everyone-s-life-more-fun-using-AI-b15459d868bb490184e256cd95f26107)
-
 
 #### Segmentation
 ##### Attention-Guided Hierarchical Structure Aggregation for Image Matting
@@ -93,6 +98,7 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 - [Project Page](https://wukaoliu.github.io/HAttMatting/)
 - [Code](https://github.com/wukaoliu/CVPR2020-HAttMatting)
 - [Paper](https://wukaoliu.github.io/HAttMatting/)
+
 ```
 @InProceedings{Qiao_2020_CVPR,
     author = {Qiao, Yu and Liu, Yuhao and Yang, Xin and Zhou, Dongsheng and Xu, Mingliang and Zhang, Qiang and Wei, Xiaopeng},
@@ -102,10 +108,12 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
     year = {2020}
 }
 ```
+
 ##### Foreground-aware Semantic Representations for Image Harmonization
 ![https://github.com/saic-vul/image_harmonization/raw/master/images/ih_teaser.jpg](https://github.com/saic-vul/image_harmonization/raw/master/images/ih_teaser.jpg)
 - [Code](https://github.com/saic-vul/image_harmonization)
 - [Paper](https://arxiv.org/abs/2006.00809)
+
 ```
 @article{sofiiuk2020harmonization,
   title={Foreground-aware Semantic Representations for Image Harmonization},
@@ -114,6 +122,7 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
   year={2020}
 }
 ```
+
 ### Image to Text
 ##### Image Captioning
 ![https://raw.githubusercontent.com/jayeshsaita/image_captioning_pytorch/master/data/sample_output/output_6774537791.jpg](https://raw.githubusercontent.com/jayeshsaita/image_captioning_pytorch/master/data/sample_output/output_6774537791.jpg)
@@ -133,6 +142,7 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 #### Code to Code
 ##### Unsupervised Translation of Programming Languages
 - [Paper](https://arxiv.org/abs/2006.03511)
+
 ```
 @misc{lachaux2020unsupervised,
     title={Unsupervised Translation of Programming Languages},
@@ -155,10 +165,12 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 ### Sound/Speech to Image
 ##### Audio to Image Conversion
 - [Code](https://www.kaggle.com/timolee/audio-data-conversion-to-images-eda)
+
 ### Sound/Speech to Text
 ##### Speech Command Reognitiob
 - [Code](https://github.com/jayeshsaita/Speech-Commands-Recognition)
 - [Paper](https://www.linkedin.com/in/jayeshsaita)
+
 ### Sound/Speech to Sound/Speech
 
 ### Sound/Speech to Video
@@ -173,6 +185,7 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 ![https://user-images.githubusercontent.com/62491525/83893958-abb75e00-a71e-11ea-978c-ab4080b4e718.gif](https://user-images.githubusercontent.com/62491525/83893958-abb75e00-a71e-11ea-978c-ab4080b4e718.gif)
 - [Code](https://github.com/mseg-dataset)
 - [Paper](https://vladlen.info/papers/MSeg.pdf)
+
 ```
 @InProceedings{MSeg_2020_CVPR,
 author = {Lambert, John and Zhuang, Liu and Sener, Ozan and Hays, James and Koltun, Vladlen},
@@ -188,6 +201,7 @@ year = {2020}
 ![https://github.com/AliaksandrSiarohin/motion-cosegmentation/blob/master/sup-mat/beard-line.gif?raw=true](https://github.com/AliaksandrSiarohin/motion-cosegmentation/blob/master/sup-mat/beard-line.gif?raw=true)
 - [Code](https://github.com/AliaksandrSiarohin/motion-cosegmentation)
 - [Paper](http://arxiv.org/abs/2004.03234)
+
 ```
 @article{Siarohin_2020_motion,
   title={Motion Supervised co-part Segmentation},
@@ -196,6 +210,7 @@ year = {2020}
   year={2020}
 }
 ```
+
 <iframe width="100%" src="https://www.youtube.com/embed/RJ4Nj1wV5iA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Video to Image
