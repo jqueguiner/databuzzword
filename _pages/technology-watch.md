@@ -51,6 +51,23 @@ permalink: /watch/
 }
 ```
 
+##### Progressive Image Inpainting with Full-Resolution Residual Network
+![Before](https://github.com/zengxianyu/Inpainting_FRRN/blob/master/examples/ex_damaged2.png)
+![After](https://github.com/zengxianyu/Inpainting_FRRN/blob/master/examples/ex_final2.png)
+- [Code](https://github.com/zengxianyu/Inpainting_FRRN)
+- [Paper](https://arxiv.org/abs/1907.10478)
+
+```
+@misc{guo2019progressive,
+    title={Progressive Image Inpainting with Full-Resolution Residual Network},
+    author={Zongyu Guo and Zhibo Chen and Tao Yu and Jiale Chen and Sen Liu},
+    year={2019},
+    eprint={1907.10478},
+    archivePrefix={arXiv},
+    primaryClass={eess.IV}
+}
+```
+
 #### Super resolution
 ##### PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
 ![http://pulse.cs.duke.edu/assets/094.jpeg](http://pulse.cs.duke.edu/assets/094.jpeg)
