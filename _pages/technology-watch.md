@@ -11,6 +11,13 @@ permalink: /watch/
 
 ### Image to Image
 #### Image-to-Image translation
+##### DeepFaceDrawing: Deep Generation of Face Images from Sketches
+![http://geometrylearning.com/DeepFaceDrawing/imgs/teaser.jpg](http://geometrylearning.com/DeepFaceDrawing/imgs/teaser.jpg)
+- [Paper](http://geometrylearning.com/DeepFaceDrawing/)
+
+https://youtu.be/HSunooUTwKs
+<iframe width="100%" src="https://www.youtube.com/embed/HSunooUTwKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ##### UGATIT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (ICLR 2020)
 ![https://github.com/taki0112/UGATIT/blob/master/assets/teaser.png?raw=true](https://github.com/taki0112/UGATIT/blob/master/assets/teaser.png?raw=true)
 - [Code](https://github.com/taki0112/UGATIT#paper--official-pytorch-code)
