@@ -2,11 +2,11 @@
   
     
         "post0": {
-            "title": "Episode 13 : CEPH comment ça marche ?",
-            "content": "The Podcast . The Guest . Cette semaine Etienne Menguy nous explique comment fonctionne CEPH. . Social Networks . Etienne Menguy . Etienne Menguy on Twitter @menguyetienne | Etienne Menguy on GitHub | Etienne Menguy on LinkedIn | . Jean-Louis Queguiner . Jean-Louis Queguiner on Youtube | Jean-Louis Queguiner on Twitter @JiliJeanlouis | Jean-Louis Queguiner on Github | Jean-Louis Queguiner on LinkedIn | .",
-            "url": "https://jqueguiner.github.io/databuzzword/etienne%20menguy/jean-louis%20queguiner/ceph/2019/01/23/ep13-CEPH-comment-ca-marche.html",
-            "relUrl": "/etienne%20menguy/jean-louis%20queguiner/ceph/2019/01/23/ep13-CEPH-comment-ca-marche.html",
-            "date": " • Jan 23, 2019"
+            "title": "Episode 13 : Integration Continue - Deploiement continue Big Data et Machine Learning",
+            "content": "The Podcast . The Guest . Le slack de la communauté : https://bigdatahebdo.slack.com/ . Cette semaine on parle d’intégration continue et de déploiement continue en particulier sur les sujets du machine learning et du big data. . On parlera de l’outil open source CDS. . CDS : . https://ovh.github.io/cds/ https://ovh.github.io/cds/gettingstarted/init_workflow_with_cdsctl/ https://ovh.github.io/cds/hosting/ready-to-run/docker-compose/ . Social Networks . Yvonnick Esnault . Yvonnick Esnault on Twitter @yesnault | Yvonnick Esnault on GitHub | Yvonnick Esnault on LinkedIn | . François Samin . François Samin on Twitter @francoissamin | François Samin on GitHub | François Samin on LinkedIn | . Jean-Louis Queguiner . Jean-Louis Queguiner on Youtube | Jean-Louis Queguiner on Twitter @JiliJeanlouis | Jean-Louis Queguiner on Github | Jean-Louis Queguiner on LinkedIn | .",
+            "url": "https://jqueguiner.github.io/databuzzword/vonnick%20esnault/fran%C3%A7ois%20samin/jean-louis%20queguiner/continuous%20integration/machine%20learning/big%20data/2019/02/13/ep14-integration-continue-deploiement-continue-big-data-et-machine-learning.html",
+            "relUrl": "/vonnick%20esnault/fran%C3%A7ois%20samin/jean-louis%20queguiner/continuous%20integration/machine%20learning/big%20data/2019/02/13/ep14-integration-continue-deploiement-continue-big-data-et-machine-learning.html",
+            "date": " • Feb 13, 2019"
         }
         
     
@@ -14,9 +14,9 @@
     
         ,"post1": {
             "title": "Episode 13 : CEPH comment ça marche ?",
-            "content": "The Podcast . The Guest . Cette semaine Etienne Menguy nous explique comment fonctionne CEPH. . Social Networks . Etienne Menguy . Etienne Menguy on Twitter @marcaudefroy | Etienne Menguy on GitHub | Etienne Menguy on LinkedIn | . Jean-Louis Queguiner . Jean-Louis Queguiner on Youtube | Jean-Louis Queguiner on Twitter @JiliJeanlouis | Jean-Louis Queguiner on Github | Jean-Louis Queguiner on LinkedIn | .",
-            "url": "https://jqueguiner.github.io/databuzzword/etienne%20menguy/jean-louis%20queguiner/ceph/2019/01/23/ep13-CEPH-comment-ca-marche-2.html",
-            "relUrl": "/etienne%20menguy/jean-louis%20queguiner/ceph/2019/01/23/ep13-CEPH-comment-ca-marche-2.html",
+            "content": "The Podcast . The Guest . Cette semaine Etienne Menguy nous explique comment fonctionne CEPH. . Social Networks . Etienne Menguy . Etienne Menguy on Twitter @menguyetienne | Etienne Menguy on GitHub | Etienne Menguy on LinkedIn | . Jean-Louis Queguiner . Jean-Louis Queguiner on Youtube | Jean-Louis Queguiner on Twitter @JiliJeanlouis | Jean-Louis Queguiner on Github | Jean-Louis Queguiner on LinkedIn | .",
+            "url": "https://jqueguiner.github.io/databuzzword/etienne%20menguy/jean-louis%20queguiner/ceph/2019/01/23/ep13-CEPH-comment-ca-marche.html",
+            "relUrl": "/etienne%20menguy/jean-louis%20queguiner/ceph/2019/01/23/ep13-CEPH-comment-ca-marche.html",
             "date": " • Jan 23, 2019"
         }
         
