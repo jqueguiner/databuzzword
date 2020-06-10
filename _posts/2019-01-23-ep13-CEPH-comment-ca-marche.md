@@ -18,9 +18,9 @@ Cette semaine Etienne Menguy nous explique comment fonctionne CEPH.
 # Social Networks
 
 ## Etienne Menguy
-- [Etienne Menguy on Twitter @marcaudefroy](https://twitter.com/marcaudefroy)
-- [Etienne Menguy on GitHub](https://github.com/marcaudefroy)
-- [Etienne Menguy on LinkedIn](https://www.linkedin.com/in/marc-audefroy-b62b9b36/)
+- [Etienne Menguy on Twitter @menguyetienne](https://twitter.com/menguyetienne)
+- [Etienne Menguy on GitHub](https://github.com/emenguy)
+- [Etienne Menguy on LinkedIn](https://www.linkedin.com/in/etienne-menguy-895a8515/)
 
 ## Jean-Louis Queguiner
 - [Jean-Louis Queguiner on Youtube](https://www.youtube.com/channel/UCVso5UVvQeGAuwbksmA95iA)
