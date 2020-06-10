@@ -7,30 +7,26 @@ comments: true
 layout: post
 author: Jean-Louis Queguiner & Benjamin Barthe
 ---
-# Episode 10 : Benjamin Barthe - HPC aka High Performance Computing 
 
-1. TOC
-{:toc}
-
-## The Podcast
+# The Podcast
 
 <iframe src="https://widget.spreaker.com/player?episode_id=16391681&theme=light&autoplay=false&playlist=false&cover_image_url=https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F7a3995c37bb49670550a292596744393.jpg" width="100%" height="400px" frameborder="0"></iframe>
 
-## The Guest
+# The Guest
 topologie #Reseau #CPU #GPU #iA #stockage #lustre #CEPH mais aussi #conteneur mais pas #Docker ... on parle #CPUset et #CGroup : Le #HPC s'ouvre à vous
 
 
-### Lustre:
+## Lustre:
 [http://lustre.org/](http://lustre.org/)
 [https://ceph.com/](https://ceph.com/)
 
-## Social Networks
+# Social Networks
 
-### Steven Le-Roux
+## Steven Le-Roux
 - [Benjamin Barthe on Twitter @StevenLeRoux](https://twitter.com/b4mb0u)
 - [Benjamin Barthe on LinkedIn](https://www.linkedin.com/in/benjamin-barthe-48a30aba/)
 
-### Jean-Louis Queguiner
+## Jean-Louis Queguiner
 - [Jean-Louis Queguiner on Youtube](https://www.youtube.com/channel/UCVso5UVvQeGAuwbksmA95iA)
 - [Jean-Louis Queguiner on Twitter @JiliJeanlouis](https://twitter.com/JiliJeanlouis)
 - [Jean-Louis Queguiner on Github](https://github.com/jqueguiner)
