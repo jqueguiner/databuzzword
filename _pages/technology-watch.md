@@ -63,7 +63,7 @@ I consider [@SentDex](https://twitter.com/Sentdex) founder [pythonprogramming.ne
 
 A good Spacy tutorial Youtube serie here :
 
-<iframe width="100%" src="https://www.youtube.com/playlist?list=PLJ39kWiJXSiz1LK8d_fyxb7FTn4mBYOsD" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" src="src="https://www.youtube.com/embed/videoseries?list=PLJ39kWiJXSiz1LK8d_fyxb7FTn4mBYOsD" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Transformers (HuggingFace)
 
