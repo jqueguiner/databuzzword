@@ -11,9 +11,21 @@ tcc: true
 {:toc}
 
 
-# Machine Learning
-## AutoMl
-### AutoKeras 
+# Machine/Deep Learning tools
+## Useful Libs
+### Wrappers
+#### Vision
+#### Text
+
+
+| Tool                                             | Binary Classification | Multi-Label Classification | Question Answering | Tokenization | Generation | Named Entity Recognition |
+|--------------------------------------------------|-----------------------|----------------------------|--------------------|--------------|------------|--------------------------|
+| [Blurr](https://ohmeow.github.io/blurr/#Imports) |                       |                            |                    |              |            |                          |
+|                                                  |                       |                            |                    |              |            |                          |
+|                                                  |                       |                            |                    |              |            |                          |
+#### Structured Data
+### AutoMl
+#### AutoKeras 
 
 [AutoKeras](https://autokeras.com)
 
@@ -47,7 +59,7 @@ print('Accuracy: {accuracy}'.format(
   organization={ACM}
 }
 ```
-# Deep Learning
+# Deep Learning use cases
 
 ## Nothing to Image
 ### Generative
