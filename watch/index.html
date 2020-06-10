@@ -127,11 +127,12 @@ window.onload = wrap_img;
               <li><a href="#nltk" id="markdown-toc-nltk">NLTK</a></li>
               <li><a href="#spacy" id="markdown-toc-spacy">SpaCy</a></li>
               <li><a href="#transformers-huggingface" id="markdown-toc-transformers-huggingface">Transformers (HuggingFace)</a></li>
+              <li><a href="#simple-transformers-based-on-huggingface" id="markdown-toc-simple-transformers-based-on-huggingface">Simple Transformers (based on HuggingFace)</a></li>
             </ol>
           </li>
         </ol>
       </li>
-      <li><a href="#handson" id="markdown-toc-handson">Handson</a>        <ol>
+      <li><a href="#hands-on" id="markdown-toc-hands-on">Hands-on</a>        <ol>
           <li><a href="#nlp" id="markdown-toc-nlp">NLP</a>            <ol>
               <li><a href="#structured-data" id="markdown-toc-structured-data">Structured Data</a></li>
             </ol>
@@ -321,15 +322,64 @@ window.onload = wrap_img;
   <li><a href="https://github.com/explosion/spaCy">Code</a></li>
   <li><a href="https://spacy.io/api/doc">Doc</a></li>
   <li><a href="https://www.datacamp.com/community/blog/spacy-cheatsheet">Cheat Sheet</a></li>
+  <li><a href="https://twitter.com/spacy_io">Spacy on Twitter @spacy_io</a></li>
+  <li><a href="https://www.linkedin.com/company/explosion-ai/">Spacy on Linkedin</a></li>
+  <li><a href="https://www.youtube.com/c/ExplosionAI">Spacy on Youtube</a></li>
 </ul>
 
 <p>A good Spacy tutorial Youtube serie here :</p>
 
 <iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLJ39kWiJXSiz1LK8d_fyxb7FTn4mBYOsD" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<h4 id="transformers-huggingface">Transformers (HuggingFace)</h4>
+<p>Spacy channel :</p>
+<iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLBmcuObd5An559HbDr_alBnwVsGq-7uTF" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<h2 id="handson">Handson</h2>
+<h4 id="transformers-huggingface">Transformers (HuggingFace)</h4>
+<ul>
+  <li><a href="https://huggingface.co/">Project Page</a></li>
+  <li><a href="https://github.com/huggingface/transformers">Code</a></li>
+  <li><a href="https://huggingface.co/transformers/">Doc</a></li>
+  <li><a href="https://twitter.com/huggingface">HuggingFace on Twitter @HuggingFace</a></li>
+  <li><a href="https://www.linkedin.com/company/huggingface/">HuggingFace on Linkedin</a></li>
+</ul>
+
+<h4 id="simple-transformers-based-on-huggingface">Simple Transformers (based on HuggingFace)</h4>
+<ul>
+  <li><a href="https://simpletransformers.ai">Project Page</a></li>
+  <li><a href="https://github.com/ThilinaRajapakse/simpletransformers">Code</a></li>
+  <li><a href="https://simpletransformers.ai/docs/installation/">Doc</a></li>
+  <li><a href="https://towardsdatascience.com/simple-transformers-introducing-the-easiest-bert-roberta-xlnet-and-xlm-library-58bf8c59b2a3">Blog Post</a>
+Simple Transformers is a wrapper on top of HuggingFace’s Transformer Library take makes it easy to setup and use, here is an example of binary classification :</li>
+</ul>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">from</span> <span class="nn">simpletransformers.classification</span> <span class="kn">import</span> <span class="n">ClassificationModel</span>
+<span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="n">pd</span>
+<span class="kn">import</span> <span class="nn">logging</span>
+
+
+<span class="n">logging</span><span class="o">.</span><span class="n">basicConfig</span><span class="p">(</span><span class="n">level</span><span class="o">=</span><span class="n">logging</span><span class="o">.</span><span class="n">INFO</span><span class="p">)</span>
+<span class="n">transformers_logger</span> <span class="o">=</span> <span class="n">logging</span><span class="o">.</span><span class="n">getLogger</span><span class="p">(</span><span class="s">"transformers"</span><span class="p">)</span>
+<span class="n">transformers_logger</span><span class="o">.</span><span class="n">setLevel</span><span class="p">(</span><span class="n">logging</span><span class="o">.</span><span class="n">WARNING</span><span class="p">)</span>
+
+<span class="c1"># Train and Evaluation data needs to be in a Pandas Dataframe of two columns. The first column is the text with type str, and the second column is the label with type int.
+</span><span class="n">train_data</span> <span class="o">=</span> <span class="p">[[</span><span class="s">'Example sentence belonging to class 1'</span><span class="p">,</span> <span class="mi">1</span><span class="p">],</span> <span class="p">[</span><span class="s">'Example sentence belonging to class 0'</span><span class="p">,</span> <span class="mi">0</span><span class="p">]]</span>
+<span class="n">train_df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">train_data</span><span class="p">)</span>
+
+<span class="n">eval_data</span> <span class="o">=</span> <span class="p">[[</span><span class="s">'Example eval sentence belonging to class 1'</span><span class="p">,</span> <span class="mi">1</span><span class="p">],</span> <span class="p">[</span><span class="s">'Example eval sentence belonging to class 0'</span><span class="p">,</span> <span class="mi">0</span><span class="p">]]</span>
+<span class="n">eval_df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">eval_data</span><span class="p">)</span>
+
+<span class="c1"># Create a ClassificationModel
+</span><span class="n">model</span> <span class="o">=</span> <span class="n">ClassificationModel</span><span class="p">(</span><span class="s">'roberta'</span><span class="p">,</span> <span class="s">'roberta-base'</span><span class="p">)</span> <span class="c1"># You can set class weights by using the optional weight argument
+</span>
+<span class="c1"># Train the model
+</span><span class="n">model</span><span class="o">.</span><span class="n">train_model</span><span class="p">(</span><span class="n">train_df</span><span class="p">)</span>
+
+<span class="c1"># Evaluate the model
+</span><span class="n">result</span><span class="p">,</span> <span class="n">model_outputs</span><span class="p">,</span> <span class="n">wrong_predictions</span> <span class="o">=</span> <span class="n">model</span><span class="o">.</span><span class="n">eval_model</span><span class="p">(</span><span class="n">eval_df</span><span class="p">)</span>
+
+</code></pre></div></div>
+
+<h2 id="hands-on">Hands-on</h2>
 <h3 id="nlp">NLP</h3>
 <ul>
   <li><a href="https://github.com/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb">Modern NLP in Python</a></li>
