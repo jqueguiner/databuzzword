@@ -60,6 +60,14 @@ permalink: /reading-list/
 - [𝔊𝔴𝔢𝔯𝔫's Website](https://gwern.net)
 - [𝔊𝔴𝔢𝔯𝔫 on Twitter @gwern](https://twitter.com/gwern)
 
+#### Max Woolf
+- [Max Woolf's Website](https://minimaxir.com/)
+- [Max Woolf on Twitter @minimaxir](https://twitter.com/minimaxir)
+
+#### Axel Springer
+- [Axel Springer on Twitter @as_ideas](https://twitter.com/as_ideas)
+- [Axel Springer's Website](https://www.ideas-engineering.io/)
+
 #### Two Minute Papers
 - [Two Minute Papers on Youtube](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 - [Two Minute Papers on Twitter @twominutepapers](https://twitter.com/twominutepapers)
@@ -75,6 +83,7 @@ permalink: /reading-list/
 ## Machine Learning
 ### NLP
 - [NLP with Python](http://www.datascienceassn.org/sites/default/files/Natural%20Language%20Processing%20with%20Python.pdf)
+
 ## Management
 
 ## Personal Development

@@ -6,6 +6,11 @@ toc: true
 ---
 
 # Machine/Deep Learning tools
+## Common issues
+### Unbalanced Dataset
+#### Solution : Oversampling
+- [Oversampling with FastAI](https://www.kaggle.com/tanlikesmath/oversampling-mnist-with-fastai)
+
 ## Technics
 ### Text summarization
 Great tutorial serie here
@@ -37,15 +42,34 @@ Great tutorial serie here
 }
 ```
 
-
-- [Blog Text Classification using Transformers](https://app.wandb.ai/cayush/bert-finetuning/reports/Sentence-classification-with-Huggingface-BERT-and-W%26B--Vmlldzo4MDMwNA)
-
 ### BERT
-### BART
-### XLNet
-### GPT
+#### Blogs
+- [Blog Text Classification using Transformers](https://app.wandb.ai/cayush/bert-finetuning/reports/Sentence-classification-with-Huggingface-BERT-and-W%26B--Vmlldzo4MDMwNA)
+- [Community Notebooks](https://github.com/huggingface/transformers/tree/master/notebooks#community-notebooks)
+
+#### BERTweet: A pre-trained language model for English Tweets
+- [Code](https://github.com/VinAIResearch/BERTweet/blob/master/README.md#models2)
+
+#### COVID-Twitter-BERT
+- [Code](https://github.com/digitalepidemiologylab/covid-twitter-bert)
+- [Paper](https://arxiv.org/abs/2005.07503)
+
+```
+@article{muller2020covid,
+  title={COVID-Twitter-BERT: A Natural Language Processing Model to Analyse COVID-19 Content on Twitter},
+  author={M{\"u}ller, Martin and Salath{\'e}, Marcel and Kummervold, Per E},
+  journal={arXiv preprint arXiv:2005.07503},
+  year={2020}
+}
+```
+
 ### GPT2
-### GPT3
+#### aitextgen -- Train a GPT-2 Text-Generating Model w/ GPU
+- [Code](https://github.com/minimaxir/aitextgen)
+- [Doc](https://docs.aitextgen.io/)
+- [Sample](https://colab.research.google.com/drive/15qBZx5y9rdaQSyWpsreMDnTiZ5IlN0zD?usp=sharing)
+- [Author](https://twitter.com/minimaxir)
+
 
 ### Reformers
 [Colab](https://arxiv.org/abs/2001.04451)
@@ -59,7 +83,8 @@ Great tutorial serie here
 - [Code](https://github.com/fastai/course-nlp)
 
 here is the associated tutorial serie:
-<iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="50%" min-height="75%" src="https://www.youtube.com/embed/videoseries?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Text
 #### NLTK
@@ -70,7 +95,7 @@ here is the associated tutorial serie:
 
 I consider [@SentDex](https://twitter.com/Sentdex) founder [pythonprogramming.net](https://pythonprogramming.net) and [https://www.youtube.com/channel/sentdex](https://www.youtube.com/channel/sentdex) as the best tutorial for NLTK
 
-<iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLI142kNg_e0Q57BmOF9H4UnXiWNSVZZ-O" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="50%" min-height="75%" src="https://www.youtube.com/embed/videoseries?list=PLI142kNg_e0Q57BmOF9H4UnXiWNSVZZ-O" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 #### SpaCy
@@ -84,10 +109,11 @@ I consider [@SentDex](https://twitter.com/Sentdex) founder [pythonprogramming.ne
 
 A good Spacy tutorial Youtube serie here :
 
-<iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLJ39kWiJXSiz1LK8d_fyxb7FTn4mBYOsD" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="50%" min-height="75%" src="https://www.youtube.com/embed/videoseries?list=PLJ39kWiJXSiz1LK8d_fyxb7FTn4mBYOsD" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Spacy channel :
-<iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLBmcuObd5An559HbDr_alBnwVsGq-7uTF" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="50%" min-height="75%" src="https://www.youtube.com/embed/videoseries?list=PLBmcuObd5An559HbDr_alBnwVsGq-7uTF" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Transformers (HuggingFace)
 - [Project Page](https://huggingface.co/)
@@ -141,7 +167,7 @@ result, model_outputs, wrong_predictions = model.eval_model(eval_df)
 - [Modern NLP in Python](https://github.com/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb)
 
 
-| Tool                                             | Binary Classification | Multi-Label Classification | Question Answering | Tokenization | Generation | Named Entity Recognition |
+| Tool | Binary Classification | Multi-Label Classification | Question Answering | Tokenization | Generation | Named Entity Recognition |
 |-|-|-|-|-|-|-|
 
 #### Structured Data
@@ -432,6 +458,16 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 
 <audio controls="controls">
     <source src="https://www.dropbox.com/s/g9ch0aw2wbgmwek/hard_emotive_1.wav?dl=1" type="audio/wav"></source>
+    <p>Your browser does not support the audio element.</p>
+</audio>
+
+#### Transformers TTS
+- [Project Page](https://as-ideas.github.io/TransformerTTS/)
+- [Code](https://github.com/as-ideas/TransformerTTS)
+- [Samples](https://as-ideas.github.io/TransformerTTS/)
+
+<audio controls="controls">
+    <source src="https://github.com/as-ideas/tts_model_outputs/blob/master/ljspeech_transformertts/Trump.wav?raw=true" type="audio/wav"></source>
     <p>Your browser does not support the audio element.</p>
 </audio>
 
