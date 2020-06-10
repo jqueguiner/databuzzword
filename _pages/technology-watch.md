@@ -10,7 +10,7 @@ permalink: /watch/
 ### Generative
 #### Face
 ##### Disentangled Image Generation Through Structured Noise Injection
-![https://github.com/yalharbi/StructuredNoiseInjection/blob/master/example_fakes_mouth.png](https://github.com/yalharbi/StructuredNoiseInjection/blob/master/example_fakes_mouth.png)
+![https://github.com/yalharbi/StructuredNoiseInjection/raw/master/example_fakes_alllocal.png](https://github.com/yalharbi/StructuredNoiseInjection/raw/master/example_fakes_alllocal.png)
 - [Code](https://github.com/yalharbi/StructuredNoiseInjection)
 - [Paper](https://arxiv.org/abs/2004.12411)
 
