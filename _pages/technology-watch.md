@@ -208,9 +208,9 @@ print('Accuracy: {accuracy}'.format(
 ```
 
 #### OVHcloud autoML
-![Demo](https://labs.ovh.com/sites/default/files/inline-images/upload_source_1.png)
-![Demo2](https://labs.ovh.com/sites/default/files/inline-images/optimization_result_2.png)
-![Demo3](https://labs.ovh.com/sites/default/files/inline-images/model_kpi_2.png)
+![Demo](https://labs.ovh.com/sites/default/files/inline-images/upload_source_1.png =250x)
+![Demo2](https://labs.ovh.com/sites/default/files/inline-images/optimization_result_2.png =250x)
+![Demo3](https://labs.ovh.com/sites/default/files/inline-images/model_kpi_2.png =250x)
 
 - [Site](https://labs.ovh.com/machine-learning-platform)
 - [Code](https://github.com/ovh/prescience-client)
@@ -222,7 +222,7 @@ print('Accuracy: {accuracy}'.format(
 ### Generative
 #### Face
 ##### Disentangled Image Generation Through Structured Noise Injection
-![https://github.com/yalharbi/StructuredNoiseInjection/raw/master/example_fakes_alllocal.png](https://github.com/yalharbi/StructuredNoiseInjection/raw/master/example_fakes_alllocal.png)
+![https://github.com/yalharbi/StructuredNoiseInjection/raw/master/example_fakes_alllocal.png](https://github.com/yalharbi/StructuredNoiseInjection/raw/master/example_fakes_alllocal.png =250x)
 - [Code](https://github.com/yalharbi/StructuredNoiseInjection)
 - [Paper](https://arxiv.org/abs/2004.12411)
 
@@ -244,13 +244,13 @@ print('Accuracy: {accuracy}'.format(
 ### Image to Image
 #### Inpainting
 ##### High-Resolution Image Inpainting with Iterative Confidence Feedback and Guided Upsampling
-![https://s1.ax1x.com/2020/03/18/8wQG5T.jpg](https://s1.ax1x.com/2020/03/18/8wQG5T.jpg)
+![https://s1.ax1x.com/2020/03/18/8wQG5T.jpg](https://s1.ax1x.com/2020/03/18/8wQG5T.jpg =250x)
 - [Project Page](https://zengxianyu.github.io/iic/)
 - [APP](http://47.57.135.203:2333/)
 - [Paper](https://arxiv.org/abs/2005.11742)
 
 ##### EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning
-![https://user-images.githubusercontent.com/1743048/50673917-aac15080-0faf-11e9-9100-ef10864087c8.png](https://user-images.githubusercontent.com/1743048/50673917-aac15080-0faf-11e9-9100-ef10864087c8.png)
+![https://user-images.githubusercontent.com/1743048/50673917-aac15080-0faf-11e9-9100-ef10864087c8.png](https://user-images.githubusercontent.com/1743048/50673917-aac15080-0faf-11e9-9100-ef10864087c8.png =250x)
 - [Code](https://github.com/zengxianyu/edge-connect)
 - [Paper](https://arxiv.org/abs/1901.00212)
 
@@ -264,8 +264,8 @@ print('Accuracy: {accuracy}'.format(
 ```
 
 ##### Progressive Image Inpainting with Full-Resolution Residual Network
-![Before](https://github.com/zengxianyu/Inpainting_FRRN/blob/master/examples/ex_damaged2.png?raw=true)
-![After](https://github.com/zengxianyu/Inpainting_FRRN/blob/master/examples/ex_final2.png?raw=true)
+![Before](https://github.com/zengxianyu/Inpainting_FRRN/blob/master/examples/ex_damaged2.png?raw=true =250x)
+![After](https://github.com/zengxianyu/Inpainting_FRRN/blob/master/examples/ex_final2.png?raw=true =250x)
 - [Code](https://github.com/zengxianyu/Inpainting_FRRN)
 - [Paper](https://arxiv.org/abs/1907.10478)
 
@@ -282,7 +282,7 @@ print('Accuracy: {accuracy}'.format(
 
 #### Super resolution
 ##### PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
-![http://pulse.cs.duke.edu/assets/094.jpeg](http://pulse.cs.duke.edu/assets/094.jpeg)
+![http://pulse.cs.duke.edu/assets/094.jpeg](http://pulse.cs.duke.edu/assets/094.jpeg =250x)
 - [Project Page](PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models)
 - [Colab](https://colab.research.google.com/drive/1-cyGV0FoSrHcQSVq3gKOymGTMt0g63Xc?usp=sharing#sandboxMode=true)
 - [Code](https://github.com/adamian98/pulse)
@@ -299,7 +299,7 @@ year = {2020}
 ```
 
 ##### Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining
-![https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention/raw/master/Figs/Visual_3.png](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention/raw/master/Figs/Visual_3.png)
+![https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention/raw/master/Figs/Visual_3.png](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention/raw/master/Figs/Visual_3.png =250x)
 - [Code](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention)
 - [Paper](https://arxiv.org/abs/2006.01424)
 
@@ -320,13 +320,13 @@ year = {2020}
 
 #### Image-to-Image translation
 ##### DeepFaceDrawing: Deep Generation of Face Images from Sketches
-![http://geometrylearning.com/DeepFaceDrawing/imgs/teaser.jpg](http://geometrylearning.com/DeepFaceDrawing/imgs/teaser.jpg)
+![http://geometrylearning.com/DeepFaceDrawing/imgs/teaser.jpg](http://geometrylearning.com/DeepFaceDrawing/imgs/teaser.jpg =250x)
 - [Paper](http://geometrylearning.com/DeepFaceDrawing/)
 
-<iframe width="100%" src="https://www.youtube.com/embed/HSunooUTwKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="50%" src="https://www.youtube.com/embed/HSunooUTwKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### UGATIT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (ICLR 2020)
-![https://github.com/taki0112/UGATIT/blob/master/assets/teaser.png?raw=true](https://github.com/taki0112/UGATIT/blob/master/assets/teaser.png?raw=true)
+![https://github.com/taki0112/UGATIT/blob/master/assets/teaser.png?raw=true](https://github.com/taki0112/UGATIT/blob/master/assets/teaser.png?raw=true =250x)
 - [Code](https://github.com/taki0112/UGATIT#paper--official-pytorch-code)
 - [Paper](https://arxiv.org/abs/1907.10830)
 
@@ -344,7 +344,7 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 - [Author's Site](https://www.notion.so/Make-everyone-s-life-more-fun-using-AI-b15459d868bb490184e256cd95f26107€)
 
 ##### Selfie to Anime
-![https://github.com/jqueguiner/databuzzword/blob/master/images/A578852A-9A4D-4D90-88E0-A4D81C7D41B3.jpeg](https://github.com/jqueguiner/databuzzword/blob/master/images/A578852A-9A4D-4D90-88E0-A4D81C7D41B3.jpeg?raw=true)
+![https://github.com/jqueguiner/databuzzword/blob/master/images/A578852A-9A4D-4D90-88E0-A4D81C7D41B3.jpeg](https://github.com/jqueguiner/databuzzword/blob/master/images/A578852A-9A4D-4D90-88E0-A4D81C7D41B3.jpeg?raw=true =250x)
 - [Project Page](https://selfie2anime.com/)
 - [Code](https://github.com/t04glovern/selfie2anime)
 - [API](https://market-place.ai.ovh.net/#!/apis/59a0426c-c148-4cff-a042-6cc148fcffa5/pages/06641de1-1b1c-4bd2-a41d-e11b1c3bd230)
@@ -364,7 +364,7 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 
 #### Segmentation
 ##### Poly-YOLO: higher speed, more precise detection and instance segmentation for YOLOv3
-![https://gitlab.com/irafm-ai/poly-yolo/-/raw/master/poly-yolo-titlepage-image.jpg?inline=false](https://gitlab.com/irafm-ai/poly-yolo/-/raw/master/poly-yolo-titlepage-image.jpg?inline=false)
+![https://gitlab.com/irafm-ai/poly-yolo/-/raw/master/poly-yolo-titlepage-image.jpg?inline=false](https://gitlab.com/irafm-ai/poly-yolo/-/raw/master/poly-yolo-titlepage-image.jpg?inline=false =250x)
 - [Code](https://gitlab.com/irafm-ai/poly-yolo)
 - [Paper](https://arxiv.org/abs/2005.13243)
 
@@ -382,7 +382,7 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 <iframe width="100%" src="https://www.youtube.com/embed/2KxNnEV-Zes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### Attention-Guided Hierarchical Structure Aggregation for Image Matting
-![https://wukaoliu.github.io/HAttMatting/figures/visualization.png](https://wukaoliu.github.io/HAttMatting/figures/visualization.png)
+![https://wukaoliu.github.io/HAttMatting/figures/visualization.png](https://wukaoliu.github.io/HAttMatting/figures/visualization.png =250x)
 - [Project Page](https://wukaoliu.github.io/HAttMatting/)
 - [Code](https://github.com/wukaoliu/CVPR2020-HAttMatting)
 - [Paper](https://wukaoliu.github.io/HAttMatting/)
@@ -398,7 +398,7 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 ```
 
 ##### Foreground-aware Semantic Representations for Image Harmonization
-![https://github.com/saic-vul/image_harmonization/raw/master/images/ih_teaser.jpg](https://github.com/saic-vul/image_harmonization/raw/master/images/ih_teaser.jpg)
+![https://github.com/saic-vul/image_harmonization/raw/master/images/ih_teaser.jpg](https://github.com/saic-vul/image_harmonization/raw/master/images/ih_teaser.jpg =250x)
 - [Code](https://github.com/saic-vul/image_harmonization)
 - [Paper](https://arxiv.org/abs/2006.00809)
 
@@ -410,6 +410,9 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
   year={2020}
 }
 ```
+##### Single-Stage Semantic Segmentation from Image Labels
+
+- [Code](https://github.com/visinf/1-stage-wseg)
 
 ### Image to Text
 ##### Image Captioning
