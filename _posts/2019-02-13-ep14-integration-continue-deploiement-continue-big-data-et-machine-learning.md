@@ -1,5 +1,5 @@
 ---
-title: "Episode 13 : Integration Continue - Deploiement continue Big Data et Machine Learning"
+title: "Episode 14 : Integration Continue - Deploiement continue Big Data et Machine Learning"
 categories: [vonnick Esnault, François Samin, Jean-Louis Queguiner, Continuous Integration, Machine Learning, Big Data]
 badges: true
 toc: true
