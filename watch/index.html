@@ -101,6 +101,13 @@ window.onload = wrap_img;
 
 <ol id="markdown-toc">
   <li><a href="#table-of-content" id="markdown-toc-table-of-content">Table of Content</a></li>
+  <li><a href="#machine-learning" id="markdown-toc-machine-learning">Machine Learning</a>    <ol>
+      <li><a href="#automl" id="markdown-toc-automl">AutoMl</a>        <ol>
+          <li><a href="#autokeras" id="markdown-toc-autokeras">AutoKeras</a></li>
+        </ol>
+      </li>
+    </ol>
+  </li>
   <li><a href="#deep-learning" id="markdown-toc-deep-learning">Deep Learning</a>    <ol>
       <li><a href="#nothing-to-image" id="markdown-toc-nothing-to-image">Nothing to Image</a>        <ol>
           <li><a href="#generative" id="markdown-toc-generative">Generative</a>            <ol>
@@ -201,6 +208,40 @@ window.onload = wrap_img;
   </li>
 </ol>
 
+<h1 id="machine-learning">Machine Learning</h1>
+<h2 id="automl">AutoMl</h2>
+<h3 id="autokeras">AutoKeras</h3>
+
+<p><a href="https://autokeras.com">AutoKeras</a></p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">from</span> <span class="nn">tensorflow.keras.datasets</span> <span class="kn">import</span> <span class="n">mnist</span>
+
+<span class="kn">import</span> <span class="nn">autokeras</span> <span class="k">as</span> <span class="n">ak</span>
+
+<span class="c1"># Prepare the dataset.
+</span><span class="p">(</span><span class="n">x_train</span><span class="p">,</span> <span class="n">y_train</span><span class="p">),</span> <span class="p">(</span><span class="n">x_test</span><span class="p">,</span> <span class="n">y_test</span><span class="p">)</span> <span class="o">=</span> <span class="n">mnist</span><span class="o">.</span><span class="n">load_data</span><span class="p">()</span>
+<span class="k">print</span><span class="p">(</span><span class="n">x_train</span><span class="o">.</span><span class="n">shape</span><span class="p">)</span>  <span class="c1"># (60000, 28, 28)
+</span><span class="k">print</span><span class="p">(</span><span class="n">y_train</span><span class="o">.</span><span class="n">shape</span><span class="p">)</span>  <span class="c1"># (60000,)
+</span><span class="k">print</span><span class="p">(</span><span class="n">y_train</span><span class="p">[:</span><span class="mi">3</span><span class="p">])</span>  <span class="c1"># array([7, 2, 1], dtype=uint8)
+</span>
+<span class="c1"># Initialize the ImageClassifier.
+</span><span class="n">clf</span> <span class="o">=</span> <span class="n">ak</span><span class="o">.</span><span class="n">ImageClassifier</span><span class="p">(</span><span class="n">max_trials</span><span class="o">=</span><span class="mi">3</span><span class="p">)</span>
+<span class="c1"># Search for the best model.
+</span><span class="n">clf</span><span class="o">.</span><span class="n">fit</span><span class="p">(</span><span class="n">x_train</span><span class="p">,</span> <span class="n">y_train</span><span class="p">,</span> <span class="n">epochs</span><span class="o">=</span><span class="mi">10</span><span class="p">)</span>
+<span class="c1"># Evaluate on the testing data.
+</span><span class="k">print</span><span class="p">(</span><span class="s">'Accuracy: {accuracy}'</span><span class="o">.</span><span class="nb">format</span><span class="p">(</span>
+    <span class="n">accuracy</span><span class="o">=</span><span class="n">clf</span><span class="o">.</span><span class="n">evaluate</span><span class="p">(</span><span class="n">x_test</span><span class="p">,</span> <span class="n">y_test</span><span class="p">)))</span>
+</code></pre></div></div>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>@inproceedings{jin2019auto,
+  title={Auto-Keras: An Efficient Neural Architecture Search System},
+  author={Jin, Haifeng and Song, Qingquan and Hu, Xia},
+  booktitle={Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \&amp; Data Mining},
+  pages={1946--1956},
+  year={2019},
+  organization={ACM}
+}
+</code></pre></div></div>
 <h1 id="deep-learning">Deep Learning</h1>
 
 <h2 id="nothing-to-image">Nothing to Image</h2>
