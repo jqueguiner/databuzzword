@@ -30,6 +30,27 @@ permalink: /watch/
 ## Image to Anything
 
 ### Image to Image
+#### Inpainting
+##### High-Resolution Image Inpainting with Iterative Confidence Feedback and Guided Upsampling
+![https://s1.ax1x.com/2020/03/18/8wQG5T.jpg](https://s1.ax1x.com/2020/03/18/8wQG5T.jpg)
+- [Project Page](https://zengxianyu.github.io/iic/)
+- [APP](http://47.57.135.203:2333/)
+- [Paper](https://arxiv.org/abs/2005.11742)
+
+##### EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning
+![https://user-images.githubusercontent.com/1743048/50673917-aac15080-0faf-11e9-9100-ef10864087c8.png](https://user-images.githubusercontent.com/1743048/50673917-aac15080-0faf-11e9-9100-ef10864087c8.png)
+- [Code](https://github.com/zengxianyu/edge-connect)
+- [Paper](https://arxiv.org/abs/1901.00212)
+
+```
+@inproceedings{nazeri2019edgeconnect,
+  title={EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning},
+  author={Nazeri, Kamyar and Ng, Eric and Joseph, Tony and Qureshi, Faisal and Ebrahimi, Mehran},
+  journal={arXiv preprint},
+  year={2019},
+}
+```
+
 #### Super resolution
 ##### PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
 ![http://pulse.cs.duke.edu/assets/094.jpeg](http://pulse.cs.duke.edu/assets/094.jpeg)
