@@ -1,4 +1,76 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://jqueguiner.github.io/databuzzword/feed.xml" rel="self" type="application/atom+xml" /><link href="https://jqueguiner.github.io/databuzzword/" rel="alternate" type="text/html" /><updated>2020-06-10T03:18:27-05:00</updated><id>https://jqueguiner.github.io/databuzzword/feed.xml</id><title type="html">DataBuzzWord Blog!</title><subtitle>This is the DataBuzzWord Podcast Blog for AI/Data Addicts❤</subtitle><entry><title type="html">Episode 10 : Benjamin Barthe - HPC aka High Performance Computing</title><link href="https://jqueguiner.github.io/databuzzword/benjamin%20barthe/jean-louis%20queguiner/hpc/storage/lustre/ceph/2018/12/19/ep10-hpc-aka-high-performance-computing.html" rel="alternate" type="text/html" title="Episode 10 : Benjamin Barthe - HPC aka High Performance Computing " /><published>2018-12-19T00:00:00-06:00</published><updated>2018-12-19T00:00:00-06:00</updated><id>https://jqueguiner.github.io/databuzzword/benjamin%20barthe/jean-louis%20queguiner/hpc/storage/lustre/ceph/2018/12/19/ep10-hpc-aka-high-performance-computing</id><content type="html" xml:base="https://jqueguiner.github.io/databuzzword/benjamin%20barthe/jean-louis%20queguiner/hpc/storage/lustre/ceph/2018/12/19/ep10-hpc-aka-high-performance-computing.html">&lt;h1 id=&quot;episode-10--benjamin-barthe---hpc-aka-high-performance-computing&quot;&gt;Episode 10 : Benjamin Barthe - HPC aka High Performance Computing&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://jqueguiner.github.io/databuzzword/feed.xml" rel="self" type="application/atom+xml" /><link href="https://jqueguiner.github.io/databuzzword/" rel="alternate" type="text/html" /><updated>2020-06-10T03:28:14-05:00</updated><id>https://jqueguiner.github.io/databuzzword/feed.xml</id><title type="html">DataBuzzWord Blog!</title><subtitle>This is the DataBuzzWord Podcast Blog for AI/Data Addicts❤</subtitle><entry><title type="html">Il Y A La Bonne Et La Mauvaise Bi</title><link href="https://jqueguiner.github.io/databuzzword/2019/01/19/Il-y-a-la-bonne-et-la-mauvaise-bi.html" rel="alternate" type="text/html" title="Il Y A La Bonne Et La Mauvaise Bi" /><published>2019-01-19T00:00:00-06:00</published><updated>2019-01-19T00:00:00-06:00</updated><id>https://jqueguiner.github.io/databuzzword/2019/01/19/Il-y-a-la-bonne-et-la-mauvaise-bi</id><content type="html" xml:base="https://jqueguiner.github.io/databuzzword/2019/01/19/Il-y-a-la-bonne-et-la-mauvaise-bi.html">&lt;hr /&gt;
+&lt;p&gt;title: “Episode 11 : Youen Chene - Saagie - Il y a la bonne et la mauvaise BI”
+categories: [Youen Chene, Jean-Louis Queguiner, BI, Saagie]
+badges: true
+toc: true
+comments: true
+layout: post
+author: Jean-Louis Queguiner, Youen Chene&lt;/p&gt;
+
+&lt;h1 id=&quot;episode-11--youen-chene---saagie---il-y-a-la-bonne-et-la-mauvaise-bi&quot;&gt;Episode 11 : Youen Chene - Saagie - Il y a la bonne et la mauvaise BI&lt;/h1&gt;
+
+&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#episode-11--youen-chene---saagie---il-y-a-la-bonne-et-la-mauvaise-bi&quot; id=&quot;markdown-toc-episode-11--youen-chene---saagie---il-y-a-la-bonne-et-la-mauvaise-bi&quot;&gt;Episode 11 : Youen Chene - Saagie - Il y a la bonne et la mauvaise BI&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#the-podcast&quot; id=&quot;markdown-toc-the-podcast&quot;&gt;The Podcast&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#the-guest&quot; id=&quot;markdown-toc-the-guest&quot;&gt;The Guest&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#normandy-jug&quot; id=&quot;markdown-toc-normandy-jug&quot;&gt;Normandy JUG&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#codeurs-en-seine&quot; id=&quot;markdown-toc-codeurs-en-seine&quot;&gt;Codeurs en Seine&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#social-networks&quot; id=&quot;markdown-toc-social-networks&quot;&gt;Social Networks&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#youen-chéné&quot; id=&quot;markdown-toc-youen-chéné&quot;&gt;Youen Chéné&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#jean-louis-queguiner&quot; id=&quot;markdown-toc-jean-louis-queguiner&quot;&gt;Jean-Louis Queguiner&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;the-podcast&quot;&gt;The Podcast&lt;/h2&gt;
+
+&lt;iframe src=&quot;https://widget.spreaker.com/player?episode_id=16646433&amp;amp;theme=light&amp;amp;autoplay=false&amp;amp;playlist=false&amp;amp;cover_image_url=https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F7a3995c37bb49670550a292596744393.jpg&quot; width=&quot;100%&quot; height=&quot;400px&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;the-guest&quot;&gt;The Guest&lt;/h2&gt;
+&lt;p&gt;#AI #BigData #BI #DataScience #Machine Learning #DataLab #Innovation
+mais aussi #KouignAmann&lt;/p&gt;
+
+&lt;p&gt;Cette semaine Youen Chéné CTO de Saagie &lt;a href=&quot;https://www.saagie.com&quot;&gt;https://www.saagie.com&lt;/a&gt; nous accompagne pour un petit tour dans le magnifique monde de la mise en place de projets BI et Big Data.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Quelles sont les différentes approches projets BI et Big Data.&lt;/li&gt;
+  &lt;li&gt;Comment aborder sereinement la transformation vers une BI plus Agile grâce au Big Data, les erreurs à éviter.&lt;/li&gt;
+  &lt;li&gt;Un peu d’analyse sur l’innovation dans les grandes structures.&lt;/li&gt;
+  &lt;li&gt;Et surtout du Kouign Amann !&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;normandy-jug&quot;&gt;Normandy JUG&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://normandyjug.org&quot;&gt;Normandy JUG’s Website&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/normandyjug&quot;&gt;Nomandy JUG on Twitter @normandyjug&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;codeurs-en-seine&quot;&gt;Codeurs en Seine&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/codeursenseine&quot;&gt;Codeurs en Seine on Twitter @codeursenseine&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;social-networks&quot;&gt;Social Networks&lt;/h2&gt;
+
+&lt;h3 id=&quot;youen-chéné&quot;&gt;Youen Chéné&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youenchene.fr&quot;&gt;Youen Chéné’s Website&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/youen_chene&quot;&gt;Youen Chéné’s on Twitter @youen_chene&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/youenchene&quot;&gt;Youen Chéné’s on GitHub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/youenchene/&quot;&gt;Youen Chéné’s on LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;jean-louis-queguiner&quot;&gt;Jean-Louis Queguiner&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCVso5UVvQeGAuwbksmA95iA&quot;&gt;Jean-Louis Queguiner on Youtube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/JiliJeanlouis&quot;&gt;Jean-Louis Queguiner on Twitter @JiliJeanlouis&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jqueguiner&quot;&gt;Jean-Louis Queguiner on Github&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fr.linkedin.com/in/jlqueguiner&quot;&gt;Jean-Louis Queguiner on LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">title: “Episode 11 : Youen Chene - Saagie - Il y a la bonne et la mauvaise BI” categories: [Youen Chene, Jean-Louis Queguiner, BI, Saagie] badges: true toc: true comments: true layout: post author: Jean-Louis Queguiner, Youen Chene</summary></entry><entry><title type="html">Episode 10 : Benjamin Barthe - HPC aka High Performance Computing</title><link href="https://jqueguiner.github.io/databuzzword/benjamin%20barthe/jean-louis%20queguiner/hpc/storage/lustre/ceph/2018/12/19/ep10-hpc-aka-high-performance-computing.html" rel="alternate" type="text/html" title="Episode 10 : Benjamin Barthe - HPC aka High Performance Computing " /><published>2018-12-19T00:00:00-06:00</published><updated>2018-12-19T00:00:00-06:00</updated><id>https://jqueguiner.github.io/databuzzword/benjamin%20barthe/jean-louis%20queguiner/hpc/storage/lustre/ceph/2018/12/19/ep10-hpc-aka-high-performance-computing</id><content type="html" xml:base="https://jqueguiner.github.io/databuzzword/benjamin%20barthe/jean-louis%20queguiner/hpc/storage/lustre/ceph/2018/12/19/ep10-hpc-aka-high-performance-computing.html">&lt;h1 id=&quot;episode-10--benjamin-barthe---hpc-aka-high-performance-computing&quot;&gt;Episode 10 : Benjamin Barthe - HPC aka High Performance Computing&lt;/h1&gt;
 
 &lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#episode-10--benjamin-barthe---hpc-aka-high-performance-computing&quot; id=&quot;markdown-toc-episode-10--benjamin-barthe---hpc-aka-high-performance-computing&quot;&gt;Episode 10 : Benjamin Barthe - HPC aka High Performance Computing&lt;/a&gt;    &lt;ol&gt;
@@ -315,53 +387,7 @@ Dans cet épisode on parle d’éthique sur l’IA et des enjeux encore plus lar
   &lt;li&gt;&lt;a href=&quot;https://twitter.com/JiliJeanlouis&quot;&gt;Jean-Louis Queguiner on Twitter @JiliJeanlouis&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/jqueguiner&quot;&gt;Jean-Louis Queguiner on Github&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://fr.linkedin.com/in/jlqueguiner&quot;&gt;Jean-Louis Queguiner on LinkedIn&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Jean-Louis Queguiner &amp; Irénée Régnauld</name></author><summary type="html">Episode 5 : Irénée Régnauld - Mais où va l’IA - Mouton Numérique - 2/2</summary></entry><entry><title type="html">Episode 4 : Irénée Régnauld - Mais où va l’IA - Mouton Numérique - 1/2</title><link href="https://jqueguiner.github.io/databuzzword/ir%C3%A9n%C3%A9e%20r%C3%A9gnauld/jean-louis%20queguiner/2018/10/31/ep4-Irenee-regnauld-mais-ou-va-ia-mouton-numerique-part1.html" rel="alternate" type="text/html" title="Episode 4 : Irénée Régnauld - Mais où va l'IA - Mouton Numérique - 1/2" /><published>2018-10-31T00:00:00-05:00</published><updated>2018-10-31T00:00:00-05:00</updated><id>https://jqueguiner.github.io/databuzzword/ir%C3%A9n%C3%A9e%20r%C3%A9gnauld/jean-louis%20queguiner/2018/10/31/ep4-Irenee-regnauld-mais-ou-va-ia-mouton-numerique-part1</id><content type="html" xml:base="https://jqueguiner.github.io/databuzzword/ir%C3%A9n%C3%A9e%20r%C3%A9gnauld/jean-louis%20queguiner/2018/10/31/ep4-Irenee-regnauld-mais-ou-va-ia-mouton-numerique-part1.html">&lt;h1 id=&quot;episode-4--irénée-régnauld---mais-où-va-lia---mouton-numérique&quot;&gt;Episode 4 : Irénée Régnauld - Mais où va l’IA - Mouton Numérique&lt;/h1&gt;
-
-&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#episode-4--irénée-régnauld---mais-où-va-lia---mouton-numérique&quot; id=&quot;markdown-toc-episode-4--irénée-régnauld---mais-où-va-lia---mouton-numérique&quot;&gt;Episode 4 : Irénée Régnauld - Mais où va l’IA - Mouton Numérique&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#the-podcast&quot; id=&quot;markdown-toc-the-podcast&quot;&gt;The Podcast&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#the-guest&quot; id=&quot;markdown-toc-the-guest&quot;&gt;The Guest&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#le-site-du-mouton-numérique&quot; id=&quot;markdown-toc-le-site-du-mouton-numérique&quot;&gt;Le site du mouton numérique:&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#social-networks&quot; id=&quot;markdown-toc-social-networks&quot;&gt;Social Networks&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#irénée-régnauld&quot; id=&quot;markdown-toc-irénée-régnauld&quot;&gt;Irénée Régnauld&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#jean-louis-queguiner&quot; id=&quot;markdown-toc-jean-louis-queguiner&quot;&gt;Jean-Louis Queguiner&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;the-podcast&quot;&gt;The Podcast&lt;/h2&gt;
-
-&lt;iframe src=&quot;https://widget.spreaker.com/player?episode_id=16159896&amp;amp;theme=light&amp;amp;autoplay=false&amp;amp;playlist=false&amp;amp;cover_image_url=https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F206cc8e8caa456809cd0d1cc5498ecb1.jpg&quot; width=&quot;100%&quot; height=&quot;400px&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&quot;the-guest&quot;&gt;The Guest&lt;/h2&gt;
-&lt;p&gt;Partie 1/2
-Dans cet épisode on parle d’éthique sur l’IA et des enjeux encore plus larges avec les moutons numériques !&lt;/p&gt;
-
-&lt;h3 id=&quot;le-site-du-mouton-numérique&quot;&gt;Le site du mouton numérique:&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://mouton-numerique.org/equipe-mouton -numerique/&quot;&gt;https://mouton-numerique.org/equipe-mouton -numerique/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://maisouvaleweb.fr&quot;&gt;http://maisouvaleweb.fr&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;social-networks&quot;&gt;Social Networks&lt;/h2&gt;
-
-&lt;h3 id=&quot;irénée-régnauld&quot;&gt;Irénée Régnauld&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/IreR1&quot;&gt;Irénée Régnauld on Twitter @IreR1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/ireneeregnauld/&quot;&gt;Irénée Régnauld on LinkedIn&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;jean-louis-queguiner&quot;&gt;Jean-Louis Queguiner&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCVso5UVvQeGAuwbksmA95iA&quot;&gt;Jean-Louis Queguiner on Youtube&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/JiliJeanlouis&quot;&gt;Jean-Louis Queguiner on Twitter @JiliJeanlouis&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/jqueguiner&quot;&gt;Jean-Louis Queguiner on Github&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://fr.linkedin.com/in/jlqueguiner&quot;&gt;Jean-Louis Queguiner on LinkedIn&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Jean-Louis Queguiner &amp; Irénée Régnauld</name></author><summary type="html">Episode 4 : Irénée Régnauld - Mais où va l’IA - Mouton Numérique</summary></entry><entry><title type="html">Episode 3 : Yoann Long - Nvidia GTC Europe 2018 - AMD - rocM - Intel python</title><link href="https://jqueguiner.github.io/databuzzword/yoann%20long/jean-louis%20queguiner/artificial%20intelligence/gpu/nvidia/rocm/intel/2018/10/31/ep3-NVIDIA-GTC-Europe-2018-AMD-rocM-Intel.html" rel="alternate" type="text/html" title="Episode 3 : Yoann Long - Nvidia GTC Europe 2018 - AMD - rocM - Intel python" /><published>2018-10-31T00:00:00-05:00</published><updated>2018-10-31T00:00:00-05:00</updated><id>https://jqueguiner.github.io/databuzzword/yoann%20long/jean-louis%20queguiner/artificial%20intelligence/gpu/nvidia/rocm/intel/2018/10/31/ep3-NVIDIA-GTC-Europe-2018-AMD-rocM-Intel</id><content type="html" xml:base="https://jqueguiner.github.io/databuzzword/yoann%20long/jean-louis%20queguiner/artificial%20intelligence/gpu/nvidia/rocm/intel/2018/10/31/ep3-NVIDIA-GTC-Europe-2018-AMD-rocM-Intel.html">&lt;h1 id=&quot;episode-3--yoann-long---nvidia-gtc-europe-2018---amd---rocm---intel-python&quot;&gt;Episode 3 : Yoann Long - Nvidia GTC Europe 2018 - AMD - rocM - Intel python&lt;/h1&gt;
+&lt;/ul&gt;</content><author><name>Jean-Louis Queguiner &amp; Irénée Régnauld</name></author><summary type="html">Episode 5 : Irénée Régnauld - Mais où va l’IA - Mouton Numérique - 2/2</summary></entry><entry><title type="html">Episode 3 : Yoann Long - Nvidia GTC Europe 2018 - AMD - rocM - Intel python</title><link href="https://jqueguiner.github.io/databuzzword/yoann%20long/jean-louis%20queguiner/artificial%20intelligence/gpu/nvidia/rocm/intel/2018/10/31/ep3-NVIDIA-GTC-Europe-2018-AMD-rocM-Intel.html" rel="alternate" type="text/html" title="Episode 3 : Yoann Long - Nvidia GTC Europe 2018 - AMD - rocM - Intel python" /><published>2018-10-31T00:00:00-05:00</published><updated>2018-10-31T00:00:00-05:00</updated><id>https://jqueguiner.github.io/databuzzword/yoann%20long/jean-louis%20queguiner/artificial%20intelligence/gpu/nvidia/rocm/intel/2018/10/31/ep3-NVIDIA-GTC-Europe-2018-AMD-rocM-Intel</id><content type="html" xml:base="https://jqueguiner.github.io/databuzzword/yoann%20long/jean-louis%20queguiner/artificial%20intelligence/gpu/nvidia/rocm/intel/2018/10/31/ep3-NVIDIA-GTC-Europe-2018-AMD-rocM-Intel.html">&lt;h1 id=&quot;episode-3--yoann-long---nvidia-gtc-europe-2018---amd---rocm---intel-python&quot;&gt;Episode 3 : Yoann Long - Nvidia GTC Europe 2018 - AMD - rocM - Intel python&lt;/h1&gt;
 
 &lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#episode-3--yoann-long---nvidia-gtc-europe-2018---amd---rocm---intel-python&quot; id=&quot;markdown-toc-episode-3--yoann-long---nvidia-gtc-europe-2018---amd---rocm---intel-python&quot;&gt;Episode 3 : Yoann Long - Nvidia GTC Europe 2018 - AMD - rocM - Intel python&lt;/a&gt;    &lt;ol&gt;
@@ -423,7 +449,53 @@ Dans cet épisode on parle d’éthique sur l’IA et des enjeux encore plus lar
   &lt;li&gt;&lt;a href=&quot;https://twitter.com/JiliJeanlouis&quot;&gt;Jean-Louis Queguiner on Twitter @JiliJeanlouis&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/jqueguiner&quot;&gt;Jean-Louis Queguiner on Github&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://fr.linkedin.com/in/jlqueguiner&quot;&gt;Jean-Louis Queguiner on LinkedIn&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Jean-Louis Queguiner &amp; Yoann Long</name></author><summary type="html">Episode 3 : Yoann Long - Nvidia GTC Europe 2018 - AMD - rocM - Intel python</summary></entry><entry><title type="html">Episode 2 : Thibault Neveu - apprendre l’IA par Youtube</title><link href="https://jqueguiner.github.io/databuzzword/thibault%20neveu/jean-louis%20queguiner/artificial%20intelligence/2018/10/24/ep2-apprendre-IA-par-youtube.html" rel="alternate" type="text/html" title="Episode 2 : Thibault Neveu - apprendre l'IA par Youtube" /><published>2018-10-24T00:00:00-05:00</published><updated>2018-10-24T00:00:00-05:00</updated><id>https://jqueguiner.github.io/databuzzword/thibault%20neveu/jean-louis%20queguiner/artificial%20intelligence/2018/10/24/ep2-apprendre-IA-par-youtube</id><content type="html" xml:base="https://jqueguiner.github.io/databuzzword/thibault%20neveu/jean-louis%20queguiner/artificial%20intelligence/2018/10/24/ep2-apprendre-IA-par-youtube.html">&lt;h1 id=&quot;episode-2--apprendre-lia-par-youtube-avec-thibault-neveu&quot;&gt;Episode 2 : Apprendre l’IA par Youtube avec Thibault Neveu&lt;/h1&gt;
+&lt;/ul&gt;</content><author><name>Jean-Louis Queguiner &amp; Yoann Long</name></author><summary type="html">Episode 3 : Yoann Long - Nvidia GTC Europe 2018 - AMD - rocM - Intel python</summary></entry><entry><title type="html">Episode 4 : Irénée Régnauld - Mais où va l’IA - Mouton Numérique - 1/2</title><link href="https://jqueguiner.github.io/databuzzword/ir%C3%A9n%C3%A9e%20r%C3%A9gnauld/jean-louis%20queguiner/2018/10/31/ep4-Irenee-regnauld-mais-ou-va-ia-mouton-numerique-part1.html" rel="alternate" type="text/html" title="Episode 4 : Irénée Régnauld - Mais où va l'IA - Mouton Numérique - 1/2" /><published>2018-10-31T00:00:00-05:00</published><updated>2018-10-31T00:00:00-05:00</updated><id>https://jqueguiner.github.io/databuzzword/ir%C3%A9n%C3%A9e%20r%C3%A9gnauld/jean-louis%20queguiner/2018/10/31/ep4-Irenee-regnauld-mais-ou-va-ia-mouton-numerique-part1</id><content type="html" xml:base="https://jqueguiner.github.io/databuzzword/ir%C3%A9n%C3%A9e%20r%C3%A9gnauld/jean-louis%20queguiner/2018/10/31/ep4-Irenee-regnauld-mais-ou-va-ia-mouton-numerique-part1.html">&lt;h1 id=&quot;episode-4--irénée-régnauld---mais-où-va-lia---mouton-numérique&quot;&gt;Episode 4 : Irénée Régnauld - Mais où va l’IA - Mouton Numérique&lt;/h1&gt;
+
+&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#episode-4--irénée-régnauld---mais-où-va-lia---mouton-numérique&quot; id=&quot;markdown-toc-episode-4--irénée-régnauld---mais-où-va-lia---mouton-numérique&quot;&gt;Episode 4 : Irénée Régnauld - Mais où va l’IA - Mouton Numérique&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#the-podcast&quot; id=&quot;markdown-toc-the-podcast&quot;&gt;The Podcast&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#the-guest&quot; id=&quot;markdown-toc-the-guest&quot;&gt;The Guest&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#le-site-du-mouton-numérique&quot; id=&quot;markdown-toc-le-site-du-mouton-numérique&quot;&gt;Le site du mouton numérique:&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#social-networks&quot; id=&quot;markdown-toc-social-networks&quot;&gt;Social Networks&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#irénée-régnauld&quot; id=&quot;markdown-toc-irénée-régnauld&quot;&gt;Irénée Régnauld&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#jean-louis-queguiner&quot; id=&quot;markdown-toc-jean-louis-queguiner&quot;&gt;Jean-Louis Queguiner&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;the-podcast&quot;&gt;The Podcast&lt;/h2&gt;
+
+&lt;iframe src=&quot;https://widget.spreaker.com/player?episode_id=16159896&amp;amp;theme=light&amp;amp;autoplay=false&amp;amp;playlist=false&amp;amp;cover_image_url=https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F206cc8e8caa456809cd0d1cc5498ecb1.jpg&quot; width=&quot;100%&quot; height=&quot;400px&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;the-guest&quot;&gt;The Guest&lt;/h2&gt;
+&lt;p&gt;Partie 1/2
+Dans cet épisode on parle d’éthique sur l’IA et des enjeux encore plus larges avec les moutons numériques !&lt;/p&gt;
+
+&lt;h3 id=&quot;le-site-du-mouton-numérique&quot;&gt;Le site du mouton numérique:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mouton-numerique.org/equipe-mouton -numerique/&quot;&gt;https://mouton-numerique.org/equipe-mouton -numerique/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://maisouvaleweb.fr&quot;&gt;http://maisouvaleweb.fr&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;social-networks&quot;&gt;Social Networks&lt;/h2&gt;
+
+&lt;h3 id=&quot;irénée-régnauld&quot;&gt;Irénée Régnauld&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/IreR1&quot;&gt;Irénée Régnauld on Twitter @IreR1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/ireneeregnauld/&quot;&gt;Irénée Régnauld on LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;jean-louis-queguiner&quot;&gt;Jean-Louis Queguiner&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCVso5UVvQeGAuwbksmA95iA&quot;&gt;Jean-Louis Queguiner on Youtube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/JiliJeanlouis&quot;&gt;Jean-Louis Queguiner on Twitter @JiliJeanlouis&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jqueguiner&quot;&gt;Jean-Louis Queguiner on Github&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fr.linkedin.com/in/jlqueguiner&quot;&gt;Jean-Louis Queguiner on LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Jean-Louis Queguiner &amp; Irénée Régnauld</name></author><summary type="html">Episode 4 : Irénée Régnauld - Mais où va l’IA - Mouton Numérique</summary></entry><entry><title type="html">Episode 2 : Thibault Neveu - apprendre l’IA par Youtube</title><link href="https://jqueguiner.github.io/databuzzword/thibault%20neveu/jean-louis%20queguiner/artificial%20intelligence/2018/10/24/ep2-apprendre-IA-par-youtube.html" rel="alternate" type="text/html" title="Episode 2 : Thibault Neveu - apprendre l'IA par Youtube" /><published>2018-10-24T00:00:00-05:00</published><updated>2018-10-24T00:00:00-05:00</updated><id>https://jqueguiner.github.io/databuzzword/thibault%20neveu/jean-louis%20queguiner/artificial%20intelligence/2018/10/24/ep2-apprendre-IA-par-youtube</id><content type="html" xml:base="https://jqueguiner.github.io/databuzzword/thibault%20neveu/jean-louis%20queguiner/artificial%20intelligence/2018/10/24/ep2-apprendre-IA-par-youtube.html">&lt;h1 id=&quot;episode-2--apprendre-lia-par-youtube-avec-thibault-neveu&quot;&gt;Episode 2 : Apprendre l’IA par Youtube avec Thibault Neveu&lt;/h1&gt;
 
 &lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#episode-2--apprendre-lia-par-youtube-avec-thibault-neveu&quot; id=&quot;markdown-toc-episode-2--apprendre-lia-par-youtube-avec-thibault-neveu&quot;&gt;Episode 2 : Apprendre l’IA par Youtube avec Thibault Neveu&lt;/a&gt;    &lt;ol&gt;
@@ -463,45 +535,4 @@ Dans cet épisode on parle d’éthique sur l’IA et des enjeux encore plus lar
   &lt;li&gt;&lt;a href=&quot;https://twitter.com/JiliJeanlouis&quot;&gt;Jean-Louis Queguiner on Twitter @JiliJeanlouis&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/jqueguiner&quot;&gt;Jean-Louis Queguiner on Github&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://fr.linkedin.com/in/jlqueguiner&quot;&gt;Jean-Louis Queguiner on LinkedIn&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Jean-Louis Queguiner &amp; Thibault Neveu</name></author><summary type="html">Episode 2 : Apprendre l’IA par Youtube avec Thibault Neveu</summary></entry><entry><title type="html">Episode 1 : Steven Le-Roux - le merge de hortonworks et cloudera</title><link href="https://jqueguiner.github.io/databuzzword/hortonwork/cloudera/big%20data/steven%20le-roux/jean-louis%20queguiner/cloud/database/data/2018/10/04/ep1-le-merge-de-hortonworks-et-cloudera.html" rel="alternate" type="text/html" title="Episode 1 : Steven Le-Roux - le merge de hortonworks et cloudera" /><published>2018-10-04T00:00:00-05:00</published><updated>2018-10-04T00:00:00-05:00</updated><id>https://jqueguiner.github.io/databuzzword/hortonwork/cloudera/big%20data/steven%20le-roux/jean-louis%20queguiner/cloud/database/data/2018/10/04/ep1-le-merge-de-hortonworks-et-cloudera</id><content type="html" xml:base="https://jqueguiner.github.io/databuzzword/hortonwork/cloudera/big%20data/steven%20le-roux/jean-louis%20queguiner/cloud/database/data/2018/10/04/ep1-le-merge-de-hortonworks-et-cloudera.html">&lt;h1 id=&quot;episode-1--le-merge-de-hortonworks-et-cloudera&quot;&gt;Episode 1 : le merge de hortonworks et cloudera&lt;/h1&gt;
-
-&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#episode-1--le-merge-de-hortonworks-et-cloudera&quot; id=&quot;markdown-toc-episode-1--le-merge-de-hortonworks-et-cloudera&quot;&gt;Episode 1 : le merge de hortonworks et cloudera&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#the-podcast&quot; id=&quot;markdown-toc-the-podcast&quot;&gt;The Podcast&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#the-guest&quot; id=&quot;markdown-toc-the-guest&quot;&gt;The Guest&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#social-networks&quot; id=&quot;markdown-toc-social-networks&quot;&gt;Social Networks&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#steven-le-roux&quot; id=&quot;markdown-toc-steven-le-roux&quot;&gt;Steven Le-Roux&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#jean-louis-queguiner&quot; id=&quot;markdown-toc-jean-louis-queguiner&quot;&gt;Jean-Louis Queguiner&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;the-podcast&quot;&gt;The Podcast&lt;/h2&gt;
-
-&lt;iframe src=&quot;https://widget.spreaker.com/player?episode_id=15881687&amp;amp;theme=light&amp;amp;autoplay=false&amp;amp;playlist=false&amp;amp;cover_image_url=https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F67fb7777adcc0b62ea827a002b23d1a5.jpg&quot; width=&quot;100%&quot; height=&quot;400px&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&quot;the-guest&quot;&gt;The Guest&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.cnbc.com/2018/10/03/cloudera-and-hortonworks-announce-all-stock-merger.html&quot;&gt;https://www.cnbc.com/2018/10/03/cloudera-and-hortonworks-announce-all-stock-merger.html&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techcrunch.com/2018/10/03/cloudera-and-hortonworks-announce-5-2-billion-merger/&quot;&gt;https://techcrunch.com/2018/10/03/cloudera-and-hortonworks-announce-5-2-billion-merger/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;social-networks&quot;&gt;Social Networks&lt;/h2&gt;
-
-&lt;h3 id=&quot;steven-le-roux&quot;&gt;Steven Le-Roux&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/StevenLeRoux&quot;&gt;Steven Le-Roux on Twitter @StevenLeRoux&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/StevenLeRoux&quot;&gt;Steven Le-Roux on GitHub&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/stevenleroux/&quot;&gt;Steven Le-Roux on LinkedIn&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;jean-louis-queguiner&quot;&gt;Jean-Louis Queguiner&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCVso5UVvQeGAuwbksmA95iA&quot;&gt;Jean-Louis Queguiner on Youtube&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/JiliJeanlouis&quot;&gt;Jean-Louis Queguiner on Twitter @JiliJeanlouis&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/jqueguiner&quot;&gt;Jean-Louis Queguiner on Github&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://fr.linkedin.com/in/jlqueguiner&quot;&gt;Jean-Louis Queguiner on LinkedIn&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Jean-Louis Queguiner &amp; Steven Le-Roux</name></author><summary type="html">Episode 1 : le merge de hortonworks et cloudera</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>Jean-Louis Queguiner &amp; Thibault Neveu</name></author><summary type="html">Episode 2 : Apprendre l’IA par Youtube avec Thibault Neveu</summary></entry></feed>
