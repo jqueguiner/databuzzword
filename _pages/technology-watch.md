@@ -81,12 +81,19 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 ### Text to Text
 #### Code to Code
 ##### Unsupervised Translation of Programming Languages
-- [Paper](https://arxiv.org/pdf/2006.03511.pdf)
-- Marie-Anne Lachaux
-- Baptiste Roziere
-- Guillaume Lample
-- Lowik Chanussot
+- [Paper](https://arxiv.org/abs/2006.03511)
+```
+@misc{lachaux2020unsupervised,
+    title={Unsupervised Translation of Programming Languages},
+    author={Marie-Anne Lachaux and Baptiste Roziere and Lowik Chanussot and Guillaume Lample},
+    year={2020},
+    eprint={2006.03511},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
+```
 
+<iframe width="100%" src="https://www.youtube.com/embed/xTzFJIknh7E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Text to Sound/Speech
 
 ### Text to Video
