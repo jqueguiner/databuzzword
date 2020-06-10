@@ -509,3 +509,10 @@ year = {2020}
 [How to deploy Fastai on Ubuntu](https://jianjye.com/p/deploy-fastai-digitalocean-ubuntu-flask-supervisor/)
 ## HuggingFace
 [Deploying HuggingFace to Production](https://medium.com/analytics-vidhya/deploy-huggingface-s-bert-to-production-with-pytorch-serve-27b068026d18)
+
+
+## Hummingbird 
+python library that compiles trained ML models into tensor computation for faster inference. Supported models include sklearn decision trees, random forest, lightgbm, xgboost.   
+
+- [Code](https://github.com/microsoft/hummingbird)
+- [Examples](https://github.com/microsoft/hummingbird/tree/master/notebooks)
