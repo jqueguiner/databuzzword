@@ -11,6 +11,21 @@ permalink: /watch/
 
 ### Image to Image
 #### Super resolution
+##### PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
+![http://pulse.cs.duke.edu/assets/094.jpeg](http://pulse.cs.duke.edu/assets/094.jpeg)
+- [Project Page](PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models)
+- [Colab](https://colab.research.google.com/drive/1-cyGV0FoSrHcQSVq3gKOymGTMt0g63Xc?usp=sharing#sandboxMode=true)
+- [Code](https://github.com/adamian98/pulse)
+- [Paper](https://arxiv.org/abs/2003.03808)
+```
+@InProceedings{PULSE_CVPR_2020, 
+author = {Menon, Sachit and Damian, Alex and Hu, McCourt and Ravi, Nikhil and Rudin, Cynthia}, 
+title = {PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models}, 
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}, 
+month = {June}, 
+year = {2020} 
+}
+```
 ##### Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining
 ![https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention/raw/master/Figs/Visual_3.png](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention/raw/master/Figs/Visual_3.png)
 - [Code](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention)
