@@ -64,7 +64,7 @@ Great tutorial serie here
 here is the associated tutorial serie:
 <iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Tex###t
+### Text
 #### NLTK
 - [Project Page](https://www.nltk.org)
 - [Code](https://github.com/nltk/nltk)
