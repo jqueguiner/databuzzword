@@ -76,21 +76,68 @@ I consider [@SentDex](https://twitter.com/Sentdex) founder [pythonprogramming.ne
 <iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLI142kNg_e0Q57BmOF9H4UnXiWNSVZZ-O" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
 #### SpaCy
 - [Project Page](https://spacy.io/)
 - [Code](https://github.com/explosion/spaCy)
 - [Doc](https://spacy.io/api/doc)
 - [Cheat Sheet](https://www.datacamp.com/community/blog/spacy-cheatsheet)
+- [Spacy on Twitter @spacy_io](https://twitter.com/spacy_io)
+- [Spacy on Linkedin](https://www.linkedin.com/company/explosion-ai/)
+- [Spacy on Youtube](https://www.youtube.com/c/ExplosionAI)
 
 A good Spacy tutorial Youtube serie here :
 
 <iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLJ39kWiJXSiz1LK8d_fyxb7FTn4mBYOsD" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Spacy channel :
+<iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLBmcuObd5An559HbDr_alBnwVsGq-7uTF" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Transformers (HuggingFace)
+- [Project Page](https://huggingface.co/)
+- [Code](https://github.com/huggingface/transformers)
+- [Doc](https://huggingface.co/transformers/)
+- [HuggingFace on Twitter @HuggingFace](https://twitter.com/huggingface)
+- [HuggingFace on Linkedin](https://www.linkedin.com/company/huggingface/)
 
 
-## Handson
+#### Simple Transformers (based on HuggingFace)
+- [Project Page](https://simpletransformers.ai)
+- [Code](https://github.com/ThilinaRajapakse/simpletransformers)
+- [Doc](https://simpletransformers.ai/docs/installation/)
+- [Blog Post](https://towardsdatascience.com/simple-transformers-introducing-the-easiest-bert-roberta-xlnet-and-xlm-library-58bf8c59b2a3)
+Simple Transformers is a wrapper on top of HuggingFace's Transformer Library take makes it easy to setup and use, here is an example of binary classification :
+
+```python
+from simpletransformers.classification import ClassificationModel
+import pandas as pd
+import logging
+
+
+logging.basicConfig(level=logging.INFO)
+transformers_logger = logging.getLogger("transformers")
+transformers_logger.setLevel(logging.WARNING)
+
+# Train and Evaluation data needs to be in a Pandas Dataframe of two columns. The first column is the text with type str, and the second column is the label with type int.
+train_data = [['Example sentence belonging to class 1', 1], ['Example sentence belonging to class 0', 0]]
+train_df = pd.DataFrame(train_data)
+
+eval_data = [['Example eval sentence belonging to class 1', 1], ['Example eval sentence belonging to class 0', 0]]
+eval_df = pd.DataFrame(eval_data)
+
+# Create a ClassificationModel
+model = ClassificationModel('roberta', 'roberta-base') # You can set class weights by using the optional weight argument
+
+# Train the model
+model.train_model(train_df)
+
+# Evaluate the model
+result, model_outputs, wrong_predictions = model.eval_model(eval_df)
+
+```
+
+
+
+## Hands-on
 ### NLP
 - [Modern NLP in Python](https://github.com/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb)
 
