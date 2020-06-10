@@ -423,6 +423,10 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 
 <iframe width="100%" src="https://www.youtube.com/embed/xTzFJIknh7E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Text to Sound/Speech
+#### Pitchtron: Towards audiobook generation from ordinary people’s voices 
+- [Paper](https://arxiv.org/abs/2005.10456)
+- [Code](https://github.com/hash2430/pitchtron)
+
 
 ### Text to Video
 
@@ -434,9 +438,10 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 - [Code](https://www.kaggle.com/timolee/audio-data-conversion-to-images-eda)
 
 ### Sound/Speech to Text
-##### Speech Command Reognitiob
+##### Speech Command Reognition
 - [Code](https://github.com/jayeshsaita/Speech-Commands-Recognition)
 - [Paper](https://www.linkedin.com/in/jayeshsaita)
+
 
 ### Sound/Speech to Sound/Speech
 
