@@ -422,11 +422,17 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 ```
 
 <iframe width="100%" src="https://www.youtube.com/embed/xTzFJIknh7E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Text to Sound/Speech
 #### Pitchtron: Towards audiobook generation from ordinary people’s voices 
 - [Paper](https://arxiv.org/abs/2005.10456)
 - [Code](https://github.com/hash2430/pitchtron)
+- [Samples](https://sunghee.kaist.ac.kr/entry/pitchtron)
 
+<audio controls="controls">
+    <source src="https://www.dropbox.com/s/g9ch0aw2wbgmwek/hard_emotive_1.wav?dl=1" type="audio/wav"></source>
+    <p>Your browser does not support the audio element.</p>
+</audio>
 
 ### Text to Video
 
