@@ -118,6 +118,7 @@ Spacy channel :
 #### Transformers (HuggingFace)
 - [Project Page](https://huggingface.co/)
 - [Code](https://github.com/huggingface/transformers)
+- [Colab](https://colab.research.google.com/github/huggingface/blog/blob/master/notebooks/01_how_to_train.ipynb)
 - [Doc](https://huggingface.co/transformers/)
 - [HuggingFace on Twitter @HuggingFace](https://twitter.com/huggingface)
 - [HuggingFace on Linkedin](https://www.linkedin.com/company/huggingface/)
@@ -510,6 +511,10 @@ year={2020}
 
 ### Text to Text
 #### Text Generation
+##### Lyrics Generation
+- [Colab](https://colab.research.google.com/drive/12g07FS2WkNctNy_bYb7a5ZNFAsJcN0dz?usp=sharing)
+- [Author](https://eilab.gatech.edu/mark-riedl)
+
 ##### Next Word Prediction
 ![UI](https://raw.githubusercontent.com/renatoviolin/next_word_prediction/master/word_prediction.gif =250x)
 - [Code](https://github.com/renatoviolin/next_word_prediction)
@@ -563,12 +568,28 @@ year={2020}
 - [Code](https://www.kaggle.com/timolee/audio-data-conversion-to-images-eda)
 
 ### Sound/Speech to Text
-##### Speech Command Reognition
+##### Speech Command Recognition
 - [Code](https://github.com/jayeshsaita/Speech-Commands-Recognition)
-- [Paper](https://www.linkedin.com/in/jayeshsaita)
+- [Author](https://www.linkedin.com/in/jayeshsaita)
 
 
 ### Sound/Speech to Sound/Speech
+#### Speaker-independent-emotional-voice-conversion-based-on-conditional-VAW-GAN-and-CWT
+- [Project Page](https://kunzhou9646.github.io/speaker-independent-emotional-vc/)
+- [Code](https://github.com/KunZhou9646/Speaker-independent-emotional-voice-conversion-based-on-conditional-VAW-GAN-and-CWT)
+- [Paper](https://www.researchgate.net/publication/341388058_Converting_Anyone's_Emotion_Towards_Speaker-Independent_Emotional_Voice_Conversion)
+- [Sample](https://kunzhou9646.github.io/speaker-independent-emotional-vc/)
+
+```
+@unknown{unknown,
+author = {Zhou, Kun and Sisman, Berrak and Zhang, Mingyang and Li, Haizhou},
+year = {2020},
+month = {05},
+pages = {},
+title = {Converting Anyone's Emotion: Towards Speaker-Independent Emotional Voice Conversion},
+doi = {10.13140/RG.2.2.20921.60006}
+}
+```
 
 ### Sound/Speech to Video
 
