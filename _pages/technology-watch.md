@@ -13,6 +13,20 @@ tcc: true
 
 # Machine/Deep Learning tools
 ## Technics
+### Text summarization
+Great tutorial serie here
+- [Part 1](https://medium.com/hackernoon/text-summarizer-using-deep-learning-made-easy-490880df6cd)
+- [Part 2](https://medium.com/hackernoon/abstractive-text-summarization-tutorial-2-text-representation-made-very-easy-ef4511a1a46)
+- [Part 3](https://medium.com/hackernoon/tutorial-3-what-is-seq2seq-for-text-summarization-and-why-68ebaa644db0)
+- [Part 4](https://medium.com/hackernoon/multilayer-bidirectional-lstm-gru-for-text-summarization-made-easy-tutorial-4-a63db108b44f)
+- [Part 5](https://medium.com/hackernoon/beam-search-attention-for-text-summarization-made-easy-tutorial-5-3b7186df7086)
+- [Part 6](https://medium.com/hackernoon/build-an-abstractive-text-summarizer-in-94-lines-of-tensorflow-tutorial-6-f0e1b4d88b55)
+- [Part 7](https://medium.com/hackernoon/combination-of-abstractive-extractive-methods-for-text-summarization-tutorial-7-8a4fb85d67e2)
+- [Part 8](https://medium.com/hackernoon/teach-seq2seq-models-to-learn-from-their-mistakes-using-deep-curriculum-learning-tutorial-8-a730a387754)
+- [Part 9](https://medium.com/analytics-vidhya/deep-reinforcement-learning-deeprl-for-abstractive-text-summarization-made-easy-tutorial-9-c6914999c76c)
+- [Part 10](https://medium.com/analytics-vidhya/deep-reinforcement-learning-deeprl-for-abstractive-text-summarization-made-easy-tutorial-9-c6914999c76c)
+- [Code](https://github.com/theamrzaki/text_summurization_abstractive_methods)
+
 ### Transformers
 - [The illustrated Transformers](http://jalammar.github.io/illustrated-transformer/)
 - [Transformers explained](https://arxiv.org/abs/2001.04451)
@@ -43,7 +57,7 @@ tcc: true
 ### Wrapper
 #### Vision
 #### Text
-### Text
+### Tex###t
 #### NLTK
 - [Project Page](https://www.nltk.org)
 - [Code](https://github.com/nltk/nltk)
