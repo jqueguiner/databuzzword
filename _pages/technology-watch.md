@@ -113,6 +113,24 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 - [Author's Site](https://www.notion.so/Make-everyone-s-life-more-fun-using-AI-b15459d868bb490184e256cd95f26107)
 
 #### Segmentation
+##### Poly-YOLO: higher speed, more precise detection and instance segmentation for YOLOv3
+![https://gitlab.com/irafm-ai/poly-yolo/-/raw/master/poly-yolo-titlepage-image.jpg?inline=false](https://gitlab.com/irafm-ai/poly-yolo/-/raw/master/poly-yolo-titlepage-image.jpg?inline=false)
+- [Code](https://gitlab.com/irafm-ai/poly-yolo)
+- [Paper](https://arxiv.org/abs/2005.13243)
+
+```
+@misc{hurtik2020polyyolo,
+    title={Poly-YOLO: higher speed, more precise detection and instance segmentation for YOLOv3},
+    author={Petr Hurtik and Vojtech Molek and Jan Hula and Marek Vajgl and Pavel Vlasanek and Tomas Nejezchleba},
+    year={2020},
+    eprint={2005.13243},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+```
+
+<iframe width="100%" src="https://www.youtube.com/embed/2KxNnEV-Zes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ##### Attention-Guided Hierarchical Structure Aggregation for Image Matting
 ![https://wukaoliu.github.io/HAttMatting/figures/visualization.png](https://wukaoliu.github.io/HAttMatting/figures/visualization.png)
 - [Project Page](https://wukaoliu.github.io/HAttMatting/)
