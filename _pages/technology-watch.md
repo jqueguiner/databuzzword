@@ -52,8 +52,8 @@ permalink: /watch/
 ```
 
 ##### Progressive Image Inpainting with Full-Resolution Residual Network
-![Before](https://github.com/zengxianyu/Inpainting_FRRN/blob/master/examples/ex_damaged2.png)
-![After](https://github.com/zengxianyu/Inpainting_FRRN/blob/master/examples/ex_final2.png)
+![Before](https://github.com/zengxianyu/Inpainting_FRRN/blob/master/examples/ex_damaged2.png?raw=true)
+![After](https://github.com/zengxianyu/Inpainting_FRRN/blob/master/examples/ex_final2.png?raw=true)
 - [Code](https://github.com/zengxianyu/Inpainting_FRRN)
 - [Paper](https://arxiv.org/abs/1907.10478)
 
