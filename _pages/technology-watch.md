@@ -46,10 +46,8 @@ tcc: true
 
 
 | Tool                                             | Binary Classification | Multi-Label Classification | Question Answering | Tokenization | Generation | Named Entity Recognition |
-|--------------------------------------------------|-----------------------|----------------------------|--------------------|--------------|------------|--------------------------|
-| [Blurr](https://ohmeow.github.io/blurr/#Imports) |                       |                            |                    |              |            |                          |
-|                                                  |                       |                            |                    |              |            |                          |
-|                                                  |                       |                            |                    |              |            |                          |
+|-|-|-|-|-|-|-|
+
 #### Structured Data
 ### AutoMl
 #### AutoKeras 
