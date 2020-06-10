@@ -60,6 +60,9 @@ permalink: /reading-list/
 - [𝔊𝔴𝔢𝔯𝔫's Website](https://gwern.net)
 - [𝔊𝔴𝔢𝔯𝔫 on Twitter @gwern](https://twitter.com/gwern)
 
+#### Two Minute Papers
+- [Two Minute Papers on Youtube](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
+- [Two Minute Papers on Twitter @twominutepapers](https://twitter.com/twominutepapers)
 
 ### Websites
 #### DEEPAI.ORG
