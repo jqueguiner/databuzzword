@@ -44,7 +44,7 @@ tcc: true
 #### Vision
 #### Text
 
-## Handons
+## Handson
 ### NLP
 - [Modern NLP in Python](https://github.com/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb)
 
