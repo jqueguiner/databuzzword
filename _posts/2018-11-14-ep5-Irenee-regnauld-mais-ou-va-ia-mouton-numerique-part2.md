@@ -21,17 +21,18 @@ author: Jean-Louis Queguiner & Irénée Régnauld
 Partie 2/2
 Dans cet épisode on parle d'éthique sur l'IA et des enjeux encore plus larges avec les moutons numériques !
 
+### Le site du mouton numérique:
+- [https://mouton-numerique.org/equipe-mouton -numerique/](https://mouton-numerique.org/equipe-mouton -numerique/)
+- [http://maisouvaleweb.fr](http://maisouvaleweb.fr)
+
 ## Social Networks
 
 ### Irénée Régnauld
 - [Irénée Régnauld on Twitter @IreR1](https://twitter.com/IreR1)
-
-### Le site du mouton numérique:
-- [https://mouton-numerique.org/equipe-mouton -numerique/](https://mouton-numerique.org/equipe-mouton -numerique/)
-- [http://maisouvaleweb.fr](http://maisouvaleweb.fr)
+- [Irénée Régnauld on LinkedIn](https://www.linkedin.com/in/ireneeregnauld/)
 
 ### Jean-Louis Queguiner
 - [Jean-Louis Queguiner on Youtube](https://www.youtube.com/channel/UCVso5UVvQeGAuwbksmA95iA)
 - [Jean-Louis Queguiner on Twitter @JiliJeanlouis](https://twitter.com/JiliJeanlouis)
 - [Jean-Louis Queguiner on Github](https://github.com/jqueguiner)
-- [Jean-Louis Queguiner on Linkedin](https://fr.linkedin.com/in/jlqueguiner)
+- [Jean-Louis Queguiner on LinkedIn](https://fr.linkedin.com/in/jlqueguiner)
