@@ -313,3 +313,5 @@ year = {2020}
 ## Fastai
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Happy to announce <a href="https://twitter.com/hashtag/fastinference?src=hash&amp;ref_src=twsrc%5Etfw">#fastinference</a>! The bad news: fastshap and ClassConfusion are gone. The good news: they moved to a new home! In this module we have all of the above plus some speed-up and QOL integrations into <a href="https://twitter.com/fastdotai?ref_src=twsrc%5Etfw">@fastdotai</a>&#39;s inference methods, see here: 1/<a href="https://t.co/SLgJahtSr5">https://t.co/SLgJahtSr5</a> <a href="https://t.co/1oFkMe4SsP">pic.twitter.com/1oFkMe4SsP</a></p>&mdash; Zach #masks4all Mueller (@TheZachMueller) <a href="https://twitter.com/TheZachMueller/status/1269818072577331200?ref_src=twsrc%5Etfw">June 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+## HuggingFace
+[Deploying HuggingFace to Production](https://medium.com/analytics-vidhya/deploy-huggingface-s-bert-to-production-with-pytorch-serve-27b068026d18)
