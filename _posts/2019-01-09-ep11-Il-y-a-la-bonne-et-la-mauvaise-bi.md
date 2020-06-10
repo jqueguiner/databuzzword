@@ -34,9 +34,9 @@ Cette semaine Youen Chéné CTO de Saagie [https://www.saagie.com](https://www.s
 
 ## Youen Chéné
 - [Youen Chéné's Website](https://youenchene.fr)
-- [Youen Chéné's on Twitter @youen_chene](https://twitter.com/youen_chene)
-- [Youen Chéné's on GitHub](https://github.com/youenchene)
-- [Youen Chéné's on LinkedIn](https://www.linkedin.com/in/youenchene/)
+- [Youen Chéné on Twitter @youen_chene](https://twitter.com/youen_chene)
+- [Youen Chéné on GitHub](https://github.com/youenchene)
+- [Youen Chéné on LinkedIn](https://www.linkedin.com/in/youenchene/)
 
 ## Jean-Louis Queguiner
 - [Jean-Louis Queguiner on Youtube](https://www.youtube.com/channel/UCVso5UVvQeGAuwbksmA95iA)
