@@ -42,6 +42,7 @@ Lugdunum, a modern 3D engine using the Vulkan API
 
 ### Yoann Long
 - [Yoann Long on Twitter @sumenia](https://twitter.com/sumenia)
+- [Yoann Long on Github](https://github.com/sumenia)
 - [Yoann Long on LinkedIn](https://www.linkedin.com/in/sumenia/)
 
 ### Jean-Louis Queguiner
