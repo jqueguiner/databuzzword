@@ -10,6 +10,25 @@ permalink: /watch/
 ## Image to Anything
 
 ### Image to Image
+#### Super resolution
+##### Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining
+![https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention/raw/master/Figs/Visual_3.png](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention/raw/master/Figs/Visual_3.png)
+- [Code](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention)
+- [Paper](https://arxiv.org/abs/2006.01424)
+```
+@inproceedings{Mei2020image,
+  title={Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining},
+  author={Mei, Yiqun and Fan, Yuchen and Zhou, Yuqian and Huang, Lichao and Huang, Thomas S and Shi, Humphrey},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2020}
+@InProceedings{Lim_2017_CVPR_Workshops,
+  author = {Lim, Bee and Son, Sanghyun and Kim, Heewon and Nah, Seungjun and Lee, Kyoung Mu},
+  title = {Enhanced Deep Residual Networks for Single Image Super-Resolution},
+  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+  month = {July},
+  year = {2017}
+}
+```
 #### Image-to-Image translation
 ##### DeepFaceDrawing: Deep Generation of Face Images from Sketches
 ![http://geometrylearning.com/DeepFaceDrawing/imgs/teaser.jpg](http://geometrylearning.com/DeepFaceDrawing/imgs/teaser.jpg)
