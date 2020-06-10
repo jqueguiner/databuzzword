@@ -57,6 +57,13 @@ Great tutorial serie here
 ### Wrapper
 #### Vision
 #### Text
+##### fast.ai Code-First Intro to Natural Language Processing
+- [Project Page](https://www.fast.ai/2019/07/08/fastai-nlp/)
+- [Code](https://github.com/fastai/course-nlp)
+
+here is the associated tutorial serie:
+<iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Tex###t
 #### NLTK
 - [Project Page](https://www.nltk.org)
@@ -67,6 +74,7 @@ Great tutorial serie here
 I consider [@SentDex](https://twitter.com/Sentdex) founder [pythonprogramming.net](https://pythonprogramming.net) and [https://www.youtube.com/channel/sentdex](https://www.youtube.com/channel/sentdex) as the best tutorial for NLTK
 
 <iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLI142kNg_e0Q57BmOF9H4UnXiWNSVZZ-O" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 #### SpaCy
