@@ -52,7 +52,7 @@ tcc: true
 
 I consider [@SentDex](https://twitter.com/Sentdex) founder [pythonprogramming.net](https://pythonprogramming.net) and [https://www.youtube.com/channel/sentdex](https://www.youtube.com/channel/sentdex) as the best tutorial for NLTK
 
-<iframe width="100%" src="https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" src="src="https://www.youtube.com/embed/videoseries?list=PLI142kNg_e0Q57BmOF9H4UnXiWNSVZZ-O" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 #### SpaCy
