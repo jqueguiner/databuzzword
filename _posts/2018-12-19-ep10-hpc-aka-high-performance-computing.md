@@ -10,7 +10,7 @@ author: Jean-Louis Queguiner & Benjamin Barthe
 
 # The Podcast
 
-<iframe src="https://widget.spreaker.com/player?episode_id=16391681&theme=light&autoplay=false&playlist=false&cover_image_url=https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F7a3995c37bb49670550a292596744393.jpg" width="100%" height="400px" frameborder="0"></iframe>
+<iframe src="https://widget.spreaker.com/player?episode_id=16482796&theme=light&autoplay=false&playlist=false&cover_image_url=https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F7a3995c37bb49670550a292596744393.jpg" width="100%" height="400px" frameborder="0"></iframe>
 
 # The Guest
 topologie #Reseau #CPU #GPU #iA #stockage #lustre #CEPH mais aussi #conteneur mais pas #Docker ... on parle #CPUset et #CGroup : Le #HPC s'ouvre à vous
