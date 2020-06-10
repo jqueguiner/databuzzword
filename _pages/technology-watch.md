@@ -161,6 +161,23 @@ result, model_outputs, wrong_predictions = model.eval_model(eval_df)
 ```
 
 
+### Others
+#### Facebook MMF
+A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
+![](https://camo.githubusercontent.com/fa3fcc9fb23c9d5e4ba8a7a822c15d53dc892ef7/68747470733a2f2f692e696d6775722e636f6d2f42503873596e6b2e6a7067)
+- [Code](https://github.com/facebookresearch/mmf)
+- [Doc](https://mmf.readthedocs.io/en/latest/)
+- [Paper](http://learningsys.org/nips18/assets/papers/35CameraReadySubmissionPythia___A_platform_for_vision_language_multi_modal_research.pdf) 
+
+```
+@inproceedings{singh2018pythia,
+  title={Pythia-a platform for vision \& language research},
+  author={Singh, Amanpreet and Goswami, Vedanuj and Natarajan, Vivek and Jiang, Yu and Chen, Xinlei and Shah, Meet and Rohrbach, Marcus and Batra, Dhruv and Parikh, Devi},
+  booktitle={SysML Workshop, NeurIPS},
+  volume={2018},
+  year={2018}
+}
+```
 
 ## Hands-on
 ### NLP
@@ -208,9 +225,9 @@ print('Accuracy: {accuracy}'.format(
 ```
 
 #### OVHcloud autoML
-![Demo](https://labs.ovh.com/sites/default/files/inline-images/upload_source_1.png =250x)
-![Demo2](https://labs.ovh.com/sites/default/files/inline-images/optimization_result_2.png =250x)
-![Demo3](https://labs.ovh.com/sites/default/files/inline-images/model_kpi_2.png =250x)
+![Demo](https://labs.ovh.com/sites/default/files/inline-images/upload_source_1.png| width=250)
+![Demo2](https://labs.ovh.com/sites/default/files/inline-images/optimization_result_2.png | width=250)
+![Demo3](https://labs.ovh.com/sites/default/files/inline-images/model_kpi_2.png | width=250)
 
 - [Site](https://labs.ovh.com/machine-learning-platform)
 - [Code](https://github.com/ovh/prescience-client)
@@ -222,7 +239,7 @@ print('Accuracy: {accuracy}'.format(
 ### Generative
 #### Face
 ##### Disentangled Image Generation Through Structured Noise Injection
-![https://github.com/yalharbi/StructuredNoiseInjection/raw/master/example_fakes_alllocal.png](https://github.com/yalharbi/StructuredNoiseInjection/raw/master/example_fakes_alllocal.png =250x)
+![https://github.com/yalharbi/StructuredNoiseInjection/raw/master/example_fakes_alllocal.png](https://github.com/yalharbi/StructuredNoiseInjection/raw/master/example_fakes_alllocal.png?raw=true | width=250)
 - [Code](https://github.com/yalharbi/StructuredNoiseInjection)
 - [Paper](https://arxiv.org/abs/2004.12411)
 
@@ -237,20 +254,20 @@ print('Accuracy: {accuracy}'.format(
 }
 ```
 
-<iframe width="100%" src="https://www.youtube.com/embed/7h-7wso9E0k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="50%" src="https://www.youtube.com/embed/7h-7wso9E0k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Image to Anything
 
 ### Image to Image
 #### Inpainting
 ##### High-Resolution Image Inpainting with Iterative Confidence Feedback and Guided Upsampling
-![https://s1.ax1x.com/2020/03/18/8wQG5T.jpg](https://s1.ax1x.com/2020/03/18/8wQG5T.jpg =250x)
+![https://s1.ax1x.com/2020/03/18/8wQG5T.jpg](https://s1.ax1x.com/2020/03/18/8wQG5T.jpg | width=250)
 - [Project Page](https://zengxianyu.github.io/iic/)
 - [APP](http://47.57.135.203:2333/)
 - [Paper](https://arxiv.org/abs/2005.11742)
 
 ##### EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning
-![https://user-images.githubusercontent.com/1743048/50673917-aac15080-0faf-11e9-9100-ef10864087c8.png](https://user-images.githubusercontent.com/1743048/50673917-aac15080-0faf-11e9-9100-ef10864087c8.png =250x)
+![https://user-images.githubusercontent.com/1743048/50673917-aac15080-0faf-11e9-9100-ef10864087c8.png](https://user-images.githubusercontent.com/1743048/50673917-aac15080-0faf-11e9-9100-ef10864087c8.png | width=250)
 - [Code](https://github.com/zengxianyu/edge-connect)
 - [Paper](https://arxiv.org/abs/1901.00212)
 
@@ -264,8 +281,8 @@ print('Accuracy: {accuracy}'.format(
 ```
 
 ##### Progressive Image Inpainting with Full-Resolution Residual Network
-![Before](https://github.com/zengxianyu/Inpainting_FRRN/blob/master/examples/ex_damaged2.png?raw=true =250x)
-![After](https://github.com/zengxianyu/Inpainting_FRRN/blob/master/examples/ex_final2.png?raw=true =250x)
+![Before](https://github.com/zengxianyu/Inpainting_FRRN/blob/master/examples/ex_damaged2.png?raw=true | width=250)
+![After](https://github.com/zengxianyu/Inpainting_FRRN/blob/master/examples/ex_final2.png?raw=true | width=250)
 - [Code](https://github.com/zengxianyu/Inpainting_FRRN)
 - [Paper](https://arxiv.org/abs/1907.10478)
 
@@ -282,7 +299,7 @@ print('Accuracy: {accuracy}'.format(
 
 #### Super resolution
 ##### PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
-![http://pulse.cs.duke.edu/assets/094.jpeg](http://pulse.cs.duke.edu/assets/094.jpeg =250x)
+![http://pulse.cs.duke.edu/assets/094.jpeg](http://pulse.cs.duke.edu/assets/094.jpeg | width=250)
 - [Project Page](PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models)
 - [Colab](https://colab.research.google.com/drive/1-cyGV0FoSrHcQSVq3gKOymGTMt0g63Xc?usp=sharing#sandboxMode=true)
 - [Code](https://github.com/adamian98/pulse)
@@ -299,7 +316,7 @@ year = {2020}
 ```
 
 ##### Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining
-![https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention/raw/master/Figs/Visual_3.png](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention/raw/master/Figs/Visual_3.png =250x)
+![https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention/raw/master/Figs/Visual_3.png](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention/raw/master/Figs/Visual_3.png | width=250)
 - [Code](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention)
 - [Paper](https://arxiv.org/abs/2006.01424)
 
@@ -320,13 +337,13 @@ year = {2020}
 
 #### Image-to-Image translation
 ##### DeepFaceDrawing: Deep Generation of Face Images from Sketches
-![http://geometrylearning.com/DeepFaceDrawing/imgs/teaser.jpg](http://geometrylearning.com/DeepFaceDrawing/imgs/teaser.jpg =250x)
+![http://geometrylearning.com/DeepFaceDrawing/imgs/teaser.jpg](http://geometrylearning.com/DeepFaceDrawing/imgs/teaser.jpg | width=250)
 - [Paper](http://geometrylearning.com/DeepFaceDrawing/)
 
 <iframe width="50%" src="https://www.youtube.com/embed/HSunooUTwKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### UGATIT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (ICLR 2020)
-![https://github.com/taki0112/UGATIT/blob/master/assets/teaser.png?raw=true](https://github.com/taki0112/UGATIT/blob/master/assets/teaser.png?raw=true =250x)
+![https://github.com/taki0112/UGATIT/blob/master/assets/teaser.png?raw=true](https://github.com/taki0112/UGATIT/blob/master/assets/teaser.png?raw=true | width=250)
 - [Code](https://github.com/taki0112/UGATIT#paper--official-pytorch-code)
 - [Paper](https://arxiv.org/abs/1907.10830)
 
@@ -341,10 +358,8 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 }
 ```
 
-- [Author's Site](https://www.notion.so/Make-everyone-s-life-more-fun-using-AI-b15459d868bb490184e256cd95f26107€)
-
 ##### Selfie to Anime
-![https://github.com/jqueguiner/databuzzword/blob/master/images/A578852A-9A4D-4D90-88E0-A4D81C7D41B3.jpeg](https://github.com/jqueguiner/databuzzword/blob/master/images/A578852A-9A4D-4D90-88E0-A4D81C7D41B3.jpeg?raw=true =250x)
+![https://github.com/jqueguiner/databuzzword/blob/master/images/A578852A-9A4D-4D90-88E0-A4D81C7D41B3.jpeg](https://github.com/jqueguiner/databuzzword/blob/master/images/A578852A-9A4D-4D90-88E0-A4D81C7D41B3.jpeg?raw=true | width=250)
 - [Project Page](https://selfie2anime.com/)
 - [Code](https://github.com/t04glovern/selfie2anime)
 - [API](https://market-place.ai.ovh.net/#!/apis/59a0426c-c148-4cff-a042-6cc148fcffa5/pages/06641de1-1b1c-4bd2-a41d-e11b1c3bd230)
@@ -360,11 +375,12 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
     primaryClass={cs.CV}
 }
 ```
+
 - [Author's Site](https://www.notion.so/Make-everyone-s-life-more-fun-using-AI-b15459d868bb490184e256cd95f26107)
 
 #### Segmentation
 ##### Poly-YOLO: higher speed, more precise detection and instance segmentation for YOLOv3
-![https://gitlab.com/irafm-ai/poly-yolo/-/raw/master/poly-yolo-titlepage-image.jpg?inline=false](https://gitlab.com/irafm-ai/poly-yolo/-/raw/master/poly-yolo-titlepage-image.jpg?inline=false =250x)
+![https://gitlab.com/irafm-ai/poly-yolo/-/raw/master/poly-yolo-titlepage-image.jpg?inline=false](https://gitlab.com/irafm-ai/poly-yolo/-/raw/master/poly-yolo-titlepage-image.jpg?inline=false | width=250)
 - [Code](https://gitlab.com/irafm-ai/poly-yolo)
 - [Paper](https://arxiv.org/abs/2005.13243)
 
@@ -379,10 +395,10 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 }
 ```
 
-<iframe width="100%" src="https://www.youtube.com/embed/2KxNnEV-Zes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="50%" src="https://www.youtube.com/embed/2KxNnEV-Zes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### Attention-Guided Hierarchical Structure Aggregation for Image Matting
-![https://wukaoliu.github.io/HAttMatting/figures/visualization.png](https://wukaoliu.github.io/HAttMatting/figures/visualization.png =250x)
+![https://wukaoliu.github.io/HAttMatting/figures/visualization.png](https://wukaoliu.github.io/HAttMatting/figures/visualization.png?raw=true | width=250)
 - [Project Page](https://wukaoliu.github.io/HAttMatting/)
 - [Code](https://github.com/wukaoliu/CVPR2020-HAttMatting)
 - [Paper](https://wukaoliu.github.io/HAttMatting/)
@@ -398,7 +414,7 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 ```
 
 ##### Foreground-aware Semantic Representations for Image Harmonization
-![https://github.com/saic-vul/image_harmonization/raw/master/images/ih_teaser.jpg](https://github.com/saic-vul/image_harmonization/raw/master/images/ih_teaser.jpg =250x)
+![https://github.com/saic-vul/image_harmonization/raw/master/images/ih_teaser.jpg](https://github.com/saic-vul/image_harmonization/raw/master/images/ih_teaser.jpg?raw=true | width=250)
 - [Code](https://github.com/saic-vul/image_harmonization)
 - [Paper](https://arxiv.org/abs/2006.00809)
 
@@ -410,15 +426,78 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
   year={2020}
 }
 ```
-##### Single-Stage Semantic Segmentation from Image Labels
 
+##### Single-Stage Semantic Segmentation from Image Labels (CVPR 2020)
+![https://github.com/visinf/1-stage-wseg/blob/master/figures/results.gif?raw=true](https://github.com/visinf/1-stage-wseg/blob/master/figures/results.gif?raw=true | width=250)
 - [Code](https://github.com/visinf/1-stage-wseg)
+- [Paper](https://arxiv.org/abs/2005.08104)
+
+```
+@inproceedings{Araslanov:2020:WSEG,
+  title     = {Single-Stage Semantic Segmentation from Image Labels},
+  author    = {Araslanov, Nikita and and Roth, Stefan},
+  booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year = {2020}
+}
+```
+
+### Others
+#### Background Matting: The World is Your Green Screen
+![](https://camo.githubusercontent.com/89ad795b21ae7c739811372739e53985b1e7feab/68747470733a2f2f686f6d65732e63732e77617368696e67746f6e2e6564752f7e736f756d796139312f70617065725f7468756d626e61696c732f6d617474696e672e706e67 | width=250)
+- [Project Page](http://grail.cs.washington.edu/projects/background-matting/)
+- [Code](https://github.com/senguptaumd/Background-Matting)
+- [Paper](https://arxiv.org/abs/2004.00626)
+
+```
+@InProceedings{BMSengupta20,
+  title={Background Matting: The World is Your Green Screen},
+  author = {Soumyadip Sengupta and Vivek Jayaram and Brian Curless and Steve Seitz and Ira Kemelmacher-Shlizerman},
+  booktitle={Computer Vision and Pattern Regognition (CVPR)},
+  year={2020}
+}
+```
+
+- [Blog Post](https://link.medium.com/suCEIzEed7)
+
+#### 3D Photography using Context-aware Layered Depth Inpainting (CVPR 2020)
+![](https://camo.githubusercontent.com/8dd5b529c99cdfcedd043c8239b68c4d7a23a148/68747470733a2f2f66696c65626f782e6563652e76742e6564752f7e6a626875616e672f70726f6a6563742f334450686f746f2f334450686f746f5f7465617365722e6a7067 | width=250)
+- [Project Page](https://shihmengli.github.io/3D-Photo-Inpainting/)
+- [Code](https://github.com/vt-vl-lab/3d-photo-inpainting/blob/master/README.md)
+- [Colab](https://colab.research.google.com/drive/1706ToQrkIZshRSJSHvZ1RuCiM__YX3Bz)
+- [Paper](https://arxiv.org/abs/2004.04727)
+
+```
+@inproceedings{Shih3DP20,
+  author = {Shih, Meng-Li and Su, Shih-Yang and Kopf, Johannes and Huang, Jia-Bin},
+  title = {3D Photography using Context-aware Layered Depth Inpainting},
+  booktitle = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year = {2020}
+}
+```
+
+#### Project an image centroid to another image using OpenCV
+![https://github.com/cyrildiagne/screenpoint/blob/master/example/match_debug.png?raw=true](https://github.com/cyrildiagne/screenpoint/blob/master/example/match_debug.png?raw=true)
+- [Code](https://github.com/cyrildiagne/screenpoint/blob/master/README.md)
+#### 
 
 ### Image to Text
 ##### Image Captioning
-![https://raw.githubusercontent.com/jayeshsaita/image_captioning_pytorch/master/data/sample_output/output_6774537791.jpg](https://raw.githubusercontent.com/jayeshsaita/image_captioning_pytorch/master/data/sample_output/output_6774537791.jpg)
+![https://raw.githubusercontent.com/jayeshsaita/image_captioning_pytorch/master/data/sample_output/output_6774537791.jpg](https://raw.githubusercontent.com/jayeshsaita/image_captioning_pytorch/master/data/sample_output/output_6774537791.jpg | width=250)
 - [Code](https://github.com/jayeshsaita/image_captioning_pytorch)
 
+##### ResNeSt: Split-Attention Networks
+![](https://raw.githubusercontent.com/zhanghang1989/ResNeSt/master/miscs/abstract.jpg)
+- [Code](https://github.com/zhanghang1989/ResNeSt)
+- [Paper](https://arxiv.org/abs/2004.08955)
+
+```
+@article{zhang2020resnest,
+title={ResNeSt: Split-Attention Networks},
+author={Zhang, Hang and Wu, Chongruo and Zhang, Zhongyue and Zhu, Yi and Zhang, Zhi and Lin, Haibin and Sun, Yue and He, Tong and Muller, Jonas and Manmatha, R. and Li, Mu and Smola, Alexander},
+journal={arXiv preprint arXiv:2004.08955},
+year={2020}
+}
+```
 
 ### Image to Sound/Speech
 
@@ -432,7 +511,7 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 ### Text to Text
 #### Text Generation
 ##### Next Word Prediction
-![UI](https://raw.githubusercontent.com/renatoviolin/next_word_prediction/master/word_prediction.gif)
+![UI](https://raw.githubusercontent.com/renatoviolin/next_word_prediction/master/word_prediction.gif =250x)
 - [Code](https://github.com/renatoviolin/next_word_prediction)
 
 #### Code to Code
@@ -450,7 +529,7 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 }
 ```
 
-<iframe width="100%" src="https://www.youtube.com/embed/xTzFJIknh7E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="50%" src="https://www.youtube.com/embed/xTzFJIknh7E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Text to Sound/Speech
 #### Pitchtron: Towards audiobook generation from ordinary people’s voices 
@@ -500,7 +579,7 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 ### Video to Video
 #### Segmentation
 ##### MSeg : A Composite Dataset for Multi-domain Semantic Segmentation
-![https://user-images.githubusercontent.com/62491525/83893958-abb75e00-a71e-11ea-978c-ab4080b4e718.gif](https://user-images.githubusercontent.com/62491525/83893958-abb75e00-a71e-11ea-978c-ab4080b4e718.gif)
+![https://user-images.githubusercontent.com/62491525/83893958-abb75e00-a71e-11ea-978c-ab4080b4e718.gif](https://user-images.githubusercontent.com/62491525/83893958-abb75e00-a71e-11ea-978c-ab4080b4e718.gif | width=250)
 - [Code](https://github.com/mseg-dataset)
 - [Paper](https://vladlen.info/papers/MSeg.pdf)
 
@@ -513,10 +592,10 @@ year = {2020}
 }
 ```
 
-<iframe width="100%" src="https://www.youtube.com/embed/PzBK6K5gyyo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="50%" src="https://www.youtube.com/embed/PzBK6K5gyyo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### Motion Supervised co-part Segmentation
-![https://github.com/AliaksandrSiarohin/motion-cosegmentation/blob/master/sup-mat/beard-line.gif?raw=true](https://github.com/AliaksandrSiarohin/motion-cosegmentation/blob/master/sup-mat/beard-line.gif?raw=true)
+![https://github.com/AliaksandrSiarohin/motion-cosegmentation/blob/master/sup-mat/beard-line.gif?raw=true](https://github.com/AliaksandrSiarohin/motion-cosegmentation/blob/master/sup-mat/beard-line.gif?raw=true | width=250)
 - [Code](https://github.com/AliaksandrSiarohin/motion-cosegmentation)
 - [Paper](http://arxiv.org/abs/2004.03234)
 
@@ -529,7 +608,7 @@ year = {2020}
 }
 ```
 
-<iframe width="100%" src="https://www.youtube.com/embed/RJ4Nj1wV5iA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="50%" src="https://www.youtube.com/embed/RJ4Nj1wV5iA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Video to Image
 
@@ -555,3 +634,13 @@ python library that compiles trained ML models into tensor computation for faste
 
 - [Code](https://github.com/microsoft/hummingbird)
 - [Examples](https://github.com/microsoft/hummingbird/tree/master/notebooks)
+
+
+# Tools
+## Terminal
+### Rich 
+Rich is a Python library for rich text and beautiful formatting in the terminal
+![https://github.com/willmcgugan/rich/raw/master/imgs/features.png?raw=true](https://github.com/willmcgugan/rich/raw/master/imgs/features.png?raw=true)
+- [Code](https://github.com/willmcgugan/rich)
+- [Doc](https://rich.readthedocs.io/en/latest/)
+
