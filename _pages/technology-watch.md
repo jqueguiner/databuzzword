@@ -105,6 +105,8 @@ Spacy channel :
 - [Code](https://github.com/ThilinaRajapakse/simpletransformers)
 - [Doc](https://simpletransformers.ai/docs/installation/)
 - [Blog Post](https://towardsdatascience.com/simple-transformers-introducing-the-easiest-bert-roberta-xlnet-and-xlm-library-58bf8c59b2a3)
+
+
 Simple Transformers is a wrapper on top of HuggingFace's Transformer Library take makes it easy to setup and use, here is an example of binary classification :
 
 ```python
