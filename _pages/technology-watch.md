@@ -37,6 +37,9 @@ Great tutorial serie here
 }
 ```
 
+
+- [Blog Text Classification using Transformers](https://app.wandb.ai/cayush/bert-finetuning/reports/Sentence-classification-with-Huggingface-BERT-and-W%26B--Vmlldzo4MDMwNA)
+
 ### BERT
 ### BART
 ### XLNet
