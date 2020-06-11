@@ -81,6 +81,9 @@ permalink: /reading-list/
 #### Papers With Code
 - [Papers With Code Website](https://paperswithcode.com/)
 
+#### AI development maturity
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IUrME1t21gc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Machine Learning
 ### NLP
 - [NLP with Python](http://www.datascienceassn.org/sites/default/files/Natural%20Language%20Processing%20with%20Python.pdf)
