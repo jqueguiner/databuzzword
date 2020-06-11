@@ -67,6 +67,7 @@ permalink: /reading-list/
 #### Axel Springer
 - [Axel Springer on Twitter @as_ideas](https://twitter.com/as_ideas)
 - [Axel Springer's Website](https://www.ideas-engineering.io/)
+- [AI at Axel Springer](https://ai.axelspringer.com/)
 
 #### Two Minute Papers
 - [Two Minute Papers on Youtube](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
