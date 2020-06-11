@@ -161,6 +161,13 @@ result, model_outputs, wrong_predictions = model.eval_model(eval_df)
 
 ```
 
+#### cdQA: Unsupervised QA
+- [Project Page](https://cdqa-suite.github.io/cdQA-website/)
+- [Code](https://github.com/cdqa-suite/cdQA)
+
+#### Facebook UnsupervisedQA
+- [Code](https://github.com/facebookresearch/UnsupervisedQA)
+- [Blog](https://medium.com/illuin/unsupervised-question-answering-4758e5f2be9b)
 
 ### Others
 #### Facebook MMF
