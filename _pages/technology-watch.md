@@ -534,6 +534,9 @@ year={2020}
 ## Text to Anything
 
 ### Text to Image
+#### Network Fusion for Content Creation with Conditional INNs (CVPR 2020)
+- [Project Page](https://compvis.github.io/network-fusion/)
+- [Paper](https://arxiv.org/abs/2005.13580)
 
 ### Text to Text
 #### Text Translation
