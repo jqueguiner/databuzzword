@@ -13,6 +13,9 @@ toc: true
 - [Oversampling with FastAI](https://www.kaggle.com/tanlikesmath/oversampling-mnist-with-fastai)
 
 ## Technics
+### Text few shot learning
+- [Zero shot learning](https://joeddav.github.io/blog/2020/05/29/ZSL.html)
+
 ### Text summarization
 Great tutorial serie here
 - [Part 1](https://medium.com/hackernoon/text-summarizer-using-deep-learning-made-easy-490880df6cd)
@@ -487,7 +490,6 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 #### Project an image centroid to another image using OpenCV
 ![https://github.com/cyrildiagne/screenpoint/blob/master/example/match_debug.png?raw=true](https://github.com/cyrildiagne/screenpoint/blob/master/example/match_debug.png?raw=true)
 - [Code](https://github.com/cyrildiagne/screenpoint/blob/master/README.md)
-#### 
 
 ### Image to Text
 ##### YOLOv4: Optimal Speed and Accuracy of Object Detection
