@@ -534,6 +534,9 @@ year={2020}
 ### Text to Image
 
 ### Text to Text
+#### Text Translation
+- [Blog](https://towardsdatascience.com/build-your-own-machine-translation-service-with-transformers-d0709df0791b)
+
 #### Text Generation
 ##### Lyrics Generation
 - [Colab](https://colab.research.google.com/drive/12g07FS2WkNctNy_bYb7a5ZNFAsJcN0dz?usp=sharing)
