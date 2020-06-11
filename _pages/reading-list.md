@@ -5,9 +5,6 @@ permalink: /reading-list/
 ---
 
 # About
-
-
-
 ## Deep Learning
 ### People to Follow
 #### Abhishek Thakur : Kaggle Grand Master
@@ -72,6 +69,10 @@ permalink: /reading-list/
 #### Two Minute Papers
 - [Two Minute Papers on Youtube](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 - [Two Minute Papers on Twitter @twominutepapers](https://twitter.com/twominutepapers)
+
+#### Kayo Yin
+- [Kayo Yin on Twitter @kayo_yin](https://twitter.com/kayo_yin)
+- [Kayo Yin on LinkedIn](https://www.linkedin.com/in/kayoyin/)
 
 ### Websites
 #### DEEPAI.ORG
