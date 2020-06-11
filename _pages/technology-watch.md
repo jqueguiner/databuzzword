@@ -680,13 +680,10 @@ Rich is a Python library for rich text and beautiful formatting in the terminal
 - [Code](https://github.com/willmcgugan/rich)
 - [Doc](https://rich.readthedocs.io/en/latest/)
 
-
 ## Python
 ### PyAudio FFT
 ![https://raw.githubusercontent.com/tr1pzz/Realtime_PyAudio_FFT/master/assets/teaser.gif](https://raw.githubusercontent.com/tr1pzz/Realtime_PyAudio_FFT/master/assets/teaser.gif)
 [https://github.com/tr1pzz/Realtime_PyAudio_FFT](https://github.com/tr1pzz/Realtime_PyAudio_FFT)
-
-
 
 # Cool projects
 ## Web based
