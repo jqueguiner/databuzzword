@@ -1,1 +1,1 @@
-Sitemap: https://jqueguiner.github.io/databuzzword/sitemap.xml
+Sitemap: https://databuzzword.com/databuzzword/sitemap.xml
