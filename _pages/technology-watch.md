@@ -4,6 +4,7 @@ title: Technology Watch
 permalink: /watch/
 toc: true
 ---
+1. TOC
 {:toc}
 # Machine/Deep Learning tools
 ## Common issues
