@@ -2,6 +2,7 @@
 layout: page
 title: Reading List
 permalink: /reading-list/
+toc: true
 ---
 
 # My Reading List
