@@ -4,7 +4,7 @@ title: Technology Watch
 permalink: /watch/
 toc: true
 ---
-
+{:toc}
 # Machine/Deep Learning tools
 ## Common issues
 ### Unbalanced Dataset
