@@ -644,11 +644,10 @@ year = {2020}
 ## Fastai
 {% twitter https://twitter.com/TheZachMueller/status/1269818072577331200?ref_src=twsrc%5Etfw %}
 
-
 [How to deploy Fastai on Ubuntu](https://jianjye.com/p/deploy-fastai-digitalocean-ubuntu-flask-supervisor/)
+
 ## HuggingFace
 [Deploying HuggingFace to Production](https://medium.com/analytics-vidhya/deploy-huggingface-s-bert-to-production-with-pytorch-serve-27b068026d18)
-
 
 ## Hummingbird 
 python library that compiles trained ML models into tensor computation for faster inference. Supported models include sklearn decision trees, random forest, lightgbm, xgboost.   
@@ -670,3 +669,9 @@ Rich is a Python library for rich text and beautiful formatting in the terminal
 ### PyAudio FFT
 ![https://raw.githubusercontent.com/tr1pzz/Realtime_PyAudio_FFT/master/assets/teaser.gif](https://raw.githubusercontent.com/tr1pzz/Realtime_PyAudio_FFT/master/assets/teaser.gif)
 [https://github.com/tr1pzz/Realtime_PyAudio_FFT](https://github.com/tr1pzz/Realtime_PyAudio_FFT)
+
+
+
+# Cool projects
+## Web based
+- [Teachable Machine](https://teachablemachine.withgoogle.com/)
