@@ -1,1 +1,1 @@
-Sitemap: https://databuzzword.com/databuzzword/sitemap.xml
+Sitemap: https://databuzzword.com/sitemap.xml
