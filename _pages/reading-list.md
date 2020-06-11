@@ -4,7 +4,7 @@ title: Reading List
 permalink: /reading-list/
 ---
 
-# About
+# My Reading List
 ## Deep Learning
 ### People to Follow
 #### Abhishek Thakur : Kaggle Grand Master
