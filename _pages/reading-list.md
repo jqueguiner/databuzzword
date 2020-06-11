@@ -85,6 +85,10 @@ toc: true
 #### Papers With Code
 - [Papers With Code Website](https://paperswithcode.com/)
 
+#### Made with ML
+- [Made with ML Website](https://madewithml.com/projects/843/t5-fine-tuning/)
+- [Made with ML on Twitter @madewithml](https://twitter.com/madewithml)
+
 #### AI development maturity
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IUrME1t21gc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
