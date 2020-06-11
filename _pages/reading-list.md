@@ -4,6 +4,8 @@ title: Reading List
 permalink: /reading-list/
 toc: true
 ---
+1. TOC
+{:toc}
 
 # My Reading List
 ## Deep Learning
