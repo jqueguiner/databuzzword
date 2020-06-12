@@ -85,6 +85,9 @@ toc: true
 #### Papers With Code
 - [Papers With Code Website](https://paperswithcode.com/)
 
+#### Fastai
+- [FastaiWebsite](https://fast.ai)
+
 #### Made with ML
 - [Made with ML Website](https://madewithml.com/projects/843/t5-fine-tuning/)
 - [Made with ML on Twitter @madewithml](https://twitter.com/madewithml)
