@@ -77,6 +77,9 @@ toc: true
 - [Kayo Yin on Twitter @kayo_yin](https://twitter.com/kayo_yin)
 - [Kayo Yin on LinkedIn](https://www.linkedin.com/in/kayoyin/)
 
+#### Steve Nouri
+- [Steve Nouri on LinkedIn](https://www.linkedin.com/in/stevenouri)
+
 ### Websites
 #### DEEPAI.ORG
 - [DeepAI Website](https://deepai.org/)
