@@ -129,6 +129,12 @@ toc: true
 - [Philip Vollet on Twitter @PhilipVollet](https://twitter.com/philipvollet)
 - [Philip Vollet on LinkedIn](https://www.linkedin.com/in/philipvollet)
 
+#### Sewade Ogun
+- [Sewade Ogun's Website](https://ogunlao.github.io/)
+- [Sewade Ogun on Twitter @SewadeOgun](https://twitter.com/SewadeOgun)
+- [Sewade Ogun on GitHub](https://github.com/ogunlao/)
+- [Sewade Ogun on LinkedIn](https://www.linkedin.com/in/sewade-ogun)
+
 
 #### 3Blue1Brown
 - [3Blue1Brown's Website](https://www.3blue1brown.com/)
