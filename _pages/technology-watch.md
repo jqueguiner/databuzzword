@@ -526,6 +526,9 @@ year={2020}
 }
 ```
 
+##### Hands-on guide to sign language classification using CNN
+[Hands-on guide to sign language classification using CNN](https://analyticsindiamag.com/hands-on-guide-to-sign-language-classification-using-cnn/)
+
 ### Image to Sound/Speech
 
 ### Image to Video
@@ -539,6 +542,9 @@ year={2020}
 - [Paper](https://arxiv.org/abs/2005.13580)
 
 ### Text to Text
+#### T5 finetuning 
+- [Paper](https://arxiv.org/abs/1910.10683)
+
 #### Text Translation
 - [Blog](https://towardsdatascience.com/build-your-own-machine-translation-service-with-transformers-d0709df0791b)
 
