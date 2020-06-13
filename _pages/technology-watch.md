@@ -497,6 +497,22 @@ url={https://openreview.net/forum?id=BJlZ5ySKPH}
 - [Code](https://github.com/cyrildiagne/screenpoint/blob/master/README.md)
 
 ### Image to Text
+
+##### CompGuessWhat?!: a Multi-Task Evaluation Framework for Grounded Language Learning
+![](https://compguesswhat.github.io/img/attribute_prediction.png)
+- [Code](https://github.com/CompGuessWhat)
+- [Paper](https://arxiv.org/abs/2006.02174)
+
+```
+@inproceedings{suglia2020compguesswhat,
+  title={CompGuessWhat?!: a Multi-task Evaluation Framework for Grounded Language Learning},
+  author={Suglia, Alessandro, Konstas, Ioannis, Vanzo, Andrea, Bastianelli, Emanuele, Desmond Elliott, Stella Frank and Oliver Lemon},
+  booktitle={Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics},
+  year={2020}
+}
+```
+
+https://compguesswhat.github.io/paper/
 ##### YOLOv4: Optimal Speed and Accuracy of Object Detection
 ![](https://i.ibb.co/mz376Rd/Image-PNG.png)
 - [Code](https://github.com/AlexeyAB/darknet)
