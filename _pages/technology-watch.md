@@ -45,6 +45,7 @@ Great tutorial serie here
     primaryClass={cs.CL}
 }
 ```
+- [HuggingFace/nlp - Create fastai Dataloaders, show batch, and create dataset for LM, MLM](https://forums.fast.ai/t/huggingface-nlp-create-fastai-dataloaders-show-batch-and-create-dataset-for-lm-mlm/73179)
 
 ### BERT
 #### Blogs
