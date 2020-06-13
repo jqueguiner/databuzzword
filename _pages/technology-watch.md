@@ -687,6 +687,10 @@ year = {2020}
 
 
 # Inference
+## Python serving
+- [Why we switched from Flask to FastAPI for production machine learning
+](https://towardsdatascience.com/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679)
+
 ## Fastai
 {% twitter https://twitter.com/TheZachMueller/status/1269818072577331200?ref_src=twsrc%5Etfw %}
 
