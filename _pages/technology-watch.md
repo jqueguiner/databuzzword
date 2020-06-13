@@ -726,5 +726,8 @@ Rich is a Python library for rich text and beautiful formatting in the terminal
 - [http://pm4py.pads.rwth-aachen.de/documentation/process-discovery/alpha-miner/](http://pm4py.pads.rwth-aachen.de/documentation/process-discovery/alpha-miner/)
 
 # Cool projects
-## Web based
+## Web based Training   
 - [Teachable Machine](https://teachablemachine.withgoogle.com/)
+
+## How to evaluate Longformer on TriviaQA using NLP 
+- [Colab](https://colab.research.google.com/drive/1m7eTGlPmLRgoPkkA7rkhQdZ9ydpmsdLE?usp=sharing#scrollTo=lbNZdYkugq7-)
