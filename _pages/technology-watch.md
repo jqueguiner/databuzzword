@@ -728,7 +728,11 @@ Rich is a Python library for rich text and beautiful formatting in the terminal
 - [https://github.com/tr1pzz/Realtime_PyAudio_FFT](https://github.com/tr1pzz/Realtime_PyAudio_FFT)
 
 ### Process Mining : alpha-miner
-- [http://pm4py.pads.rwth-aachen.de/documentation/process-discovery/alpha-miner/](http://pm4py.pads.rwth-aachen.de/documentation/process-discovery/alpha-miner/)
+- [Project Page](http://pm4py.pads.rwth-aachen.de/documentation/process-discovery/alpha-miner/)
+
+
+### Image Feature extractor
+- [Code](https://github.com/aleSuglia/image-feature-extractors/blob/master/README.md)
 
 # Cool projects
 ## Web based Training   
