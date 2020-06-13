@@ -93,12 +93,17 @@ toc: true
 #### Vincent Boucher
 - [Vincent Boucher on LinkedIn](https://www.linkedin.com/in/montrealai)
 
-
 #### Sam Shleifer
 - [Sam Schleifer's Blog](https://sshleifer.github.io/blog_v2/)
 - [Sam Shleifer on Twitter @sam_shleifer](https://twitter.com/sam_shleifer)
 - [Sam Shleifer on GitHub](https://github.com/sshleifer/)
 - [Sam Shleifer on LinkedIn](https://www.linkedin.com/in/sam-shleifer-a5307a77)
+
+#### Morgan Mc Guire
+- [NTentional](https://www.ntentional.com/)
+- [Morgan Mc Guire on LinkedIn](https://www.linkedin.com/in/morganmcg1)
+- [Morgan Mc Guire on Twitter @McGenergy](https://www.ntentional.com/about/www.twitter.com/mcgenergy)
+- [Morgan Mc Guire on GitHub](https://github.com/morganmcg1)
 
 #### 3Blue1Brown
 - [3Blue1Brown's Website](https://www.3blue1brown.com/)

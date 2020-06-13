@@ -101,6 +101,9 @@ here is the associated tutorial serie:
 
 <iframe width="50%" min-height="75%" src="https://www.youtube.com/embed/videoseries?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+- [FastAI + HuggingFace = FastHugs](https://www.ntentional.com/nlp/training%20technique/classification/2020/04/17/fasthugs_seq_classification.html)
+
 ### Text
 #### NLTK
 - [Project Page](https://www.nltk.org)
