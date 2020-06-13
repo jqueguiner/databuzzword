@@ -545,6 +545,9 @@ year={2020}
 #### T5 finetuning 
 - [Paper](https://arxiv.org/abs/1910.10683)
 
+#### Training Electra
+- [Pre-train ELECTRA from Scratch for Spanish] (https://chriskhanhtran.github.io/posts/electra-spanish/)
+
 #### Text Translation
 - [Blog](https://towardsdatascience.com/build-your-own-machine-translation-service-with-transformers-d0709df0791b)
 
