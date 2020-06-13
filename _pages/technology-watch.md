@@ -282,6 +282,10 @@ print('Accuracy: {accuracy}'.format(
 ## Image to Anything
 
 ### Image to Image
+#### Avatarify : Deepdake for zoom
+- [Code](https://github.com/alievk/avatarify)
+- [Blog](https://github.com/DashBarkHuss/100-days-of-code/blob/master/post-log.md#avatarify-1)
+
 #### Inpainting
 ##### High-Resolution Image Inpainting with Iterative Confidence Feedback and Guided Upsampling
 ![https://s1.ax1x.com/2020/03/18/8wQG5T.jpg](https://s1.ax1x.com/2020/03/18/8wQG5T.jpg | width=250)
