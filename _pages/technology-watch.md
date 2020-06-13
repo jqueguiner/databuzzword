@@ -779,3 +779,14 @@ Rich is a Python library for rich text and beautiful formatting in the terminal
 
 ## Data Visualization
 - [Choosing Fonts for Your Data Visualization](https://medium.com/nightingale/choosing-a-font-for-your-data-visualization-2ed37afea637)
+
+
+# Hardware
+## GPU
+### Nvidia
+#### Ampere
+- [NVIDIA Ampere Architecture In-Depth](https://devblogs.nvidia.com/nvidia-ampere-architecture-in-depth/)
+
+
+
+
