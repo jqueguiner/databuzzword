@@ -13,6 +13,11 @@ toc: true
 - [Oversampling with FastAI](https://www.kaggle.com/tanlikesmath/oversampling-mnist-with-fastai)
 
 ## Technics
+
+### Clustering
+- [Understanding K-Means, K-Means++ and, K-Medoids Clustering Algorithms](https://towardsdatascience.com/understanding-k-means-k-means-and-k-medoids-clustering-algorithms-ad9c9fbf47ca)
+- [Centroid Initialization Methods for k-means Clustering](https://www.kdnuggets.com/2020/06/centroid-initialization-k-means-clustering.html)
+
 ### Data Labeling
 - [Reducing your labeled data requirements (2–5x) for Deep Learning: Deep Mind’s new "Contrastive Predictive Coding 2.0"](https://medium.com/@lessw/reducing-your-labeled-data-requirements-2-5x-for-deep-learning-google-brains-new-contrastive-2ac0da0367ef)
 
@@ -76,11 +81,15 @@ Great tutorial serie here
 ```
 
 ### GPT2
+
 #### aitextgen -- Train a GPT-2 Text-Generating Model w/ GPU
 - [Code](https://github.com/minimaxir/aitextgen)
 - [Doc](https://docs.aitextgen.io/)
 - [Sample](https://colab.research.google.com/drive/15qBZx5y9rdaQSyWpsreMDnTiZ5IlN0zD?usp=sharing)
 - [Author](https://twitter.com/minimaxir)
+
+#### Relates Blogs
+- [Tune GPT2 to generate positive reviews](https://lvwerra.github.io/trl/04-gpt2-sentiment-ppo-training/)
 
 ### Question Answering
 - [Deep Learning has (almost) all the answers: Yes/No Question Answering with Transformers](https://medium.com/illuin/deep-learning-has-almost-all-the-answers-yes-no-question-answering-with-transformers-223bebb70189)
@@ -805,5 +814,16 @@ Rich is a Python library for rich text and beautiful formatting in the terminal
 - [NVIDIA Ampere Architecture In-Depth](https://devblogs.nvidia.com/nvidia-ampere-architecture-in-depth/)
 
 
+
+# MOOC
+## Fast.ai
+- [Image](https://www.fast.ai/)
+- [NLP](https://www.fast.ai/2019/07/08/fastai-nlp/)
+
+## Benchmark
+### NLP
+![](https://airev.us/wp-content/uploads/2020/05/tabela-duz%CC%87a_pop-1024x1536.png)
+- [Full Blog Post](https://airev.us/ultimate-guide-to-natural-language-processing-courses)
+- [Missing in Blog Post](https://www.fast.ai/2019/07/08/fastai-nlp/)
 
 

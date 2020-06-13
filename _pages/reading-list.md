@@ -111,6 +111,18 @@ toc: true
 - [Hamel Husain on GitHub](http://www.github.com/hamelsmu)
 - [Hamel Husain on LinkedIn](https://www.linkedin.com/in/hamelhusain/)
 
+#### Jonathan Del Hoyo
+- [Jonathan Del Hoyo's Website](https://www.datasama.com/)
+- [Jonathan Del Hoyo on Twitter @jhondel](https://twitter.com/jhondel)
+- [Jonathan Del Hoyo on LinkedIn](https://www.linkedin.com/in/jonathandelhoyo)
+
+#### Nikita Sharma
+- [Nikita Sharma on LinkedIn](https://www.linkedin.com/in/nikita-sharma-44805915a)
+- [Nikita Sharma on Medium](https://heartbeat.fritz.ai/@nikitasharma_43692)
+
+#### Justin Pinkney
+- [Justin Pinkney's Website](https://www.justinpinkney.com/)
+- [Justin Pinkney on Twitter @BuntWorthy](https://twitter.com/Buntworthy)
 
 #### Philip Vollet
 - [Philip Vollet's Website](https://www.notion.so/634eba1a37d34e2baec1bb574a8a5482?v=722708f7a2ee4fbfae92e777ef2a3ec1)
