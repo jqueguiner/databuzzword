@@ -13,6 +13,10 @@ toc: true
 - [Oversampling with FastAI](https://www.kaggle.com/tanlikesmath/oversampling-mnist-with-fastai)
 
 ## Technics
+### Reinforcement Learning 
+#### TensorTrade
+- [Code](https://github.com/tensortrade-org/tensortrade/blob/master/README.md)
+
 ### Text few shot learning
 - [Zero shot learning](https://joeddav.github.io/blog/2020/05/29/ZSL.html)
 
@@ -732,3 +736,6 @@ Rich is a Python library for rich text and beautiful formatting in the terminal
 
 ## How to evaluate Longformer on TriviaQA using NLP 
 - [Colab](https://colab.research.google.com/drive/1m7eTGlPmLRgoPkkA7rkhQdZ9ydpmsdLE?usp=sharing#scrollTo=lbNZdYkugq7-)
+
+## Data Visualization
+- [Choosing Fonts for Your Data Visualization](https://medium.com/nightingale/choosing-a-font-for-your-data-visualization-2ed37afea637)
