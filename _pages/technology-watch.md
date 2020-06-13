@@ -154,7 +154,7 @@ Spacy channel :
 ##### Related blogs
 - [A Step by Step Guide to Tracking Hugging Face Model Performance](https://app.wandb.ai/jxmorris12/huggingface-demo/reports/A-Step-by-Step-Guide-to-Tracking-Hugging-Face-Model-Performance--VmlldzoxMDE2MTU)
 - [Does model size matter? A comparison of BERT and DistilBERT](https://app.wandb.ai/jack-morris/david-vs-goliath/reports/Does-model-size-matter%3F-A-comparison-of-BERT-and-DistilBERT--VmlldzoxMDUxNzU)
-
+- [Open-Dialog Chatbots for Learning New Languages](https://nathancooper.io/i-am-a-nerd/chatbot/deep-learning/gpt2/2020/05/12/chatbot-part-1.html)
 
 #### Simple Transformers (based on HuggingFace)
 - [Project Page](https://simpletransformers.ai)
