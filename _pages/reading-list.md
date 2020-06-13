@@ -87,6 +87,9 @@ toc: true
 - [Chris Tran on Twitter @chriskhanhtran](https://twitter.com/chriskhanhtran)
 - [Chris Tran on LinkedIn](https://www.linkedin.com/in/chriskhanhtran/)
 
+#### Richard Wang
+- [Richard Wang on Twitter @_RichardWang_](https://twitter.com/_RichardWang_)
+
 ### Websites
 #### DEEPAI.ORG
 - [DeepAI Website](https://deepai.org/)
