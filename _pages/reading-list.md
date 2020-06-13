@@ -105,6 +105,12 @@ toc: true
 - [Morgan Mc Guire on Twitter @McGenergy](https://www.ntentional.com/about/www.twitter.com/mcgenergy)
 - [Morgan Mc Guire on GitHub](https://github.com/morganmcg1)
 
+#### Hamel Husein
+- [Hamel Husain's Website](http://hamel.io/)
+- [Hamel Husain on Twitter @HamelHusain](https://twitter.com/HamelHusain)
+- [Hamel Husain on GitHub](http://www.github.com/hamelsmu)
+- [Hamel Husain on LinkedIn(https://www.linkedin.com/in/hamelhusain/)
+
 #### 3Blue1Brown
 - [3Blue1Brown's Website](https://www.3blue1brown.com/)
 - [3Blue1Brown on YouTube](https://m.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
