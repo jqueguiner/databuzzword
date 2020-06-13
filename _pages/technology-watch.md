@@ -82,9 +82,12 @@ Great tutorial serie here
 - [Sample](https://colab.research.google.com/drive/15qBZx5y9rdaQSyWpsreMDnTiZ5IlN0zD?usp=sharing)
 - [Author](https://twitter.com/minimaxir)
 
+### Question Answering
+- [Deep Learning has (almost) all the answers: Yes/No Question Answering with Transformers](https://medium.com/illuin/deep-learning-has-almost-all-the-answers-yes-no-question-answering-with-transformers-223bebb70189)
+- [Building a simple Open Domain Question Answering pipeline in French](https://medium.com/illuin/building-an-open-domain-question-answering-pipeline-in-french-97304e63c369)
 
 ### Reformers
-[Colab](https://arxiv.org/abs/2001.04451)
+- [Colab](https://arxiv.org/abs/2001.04451)
 
 ## Useful Libs
 ### Wrapper

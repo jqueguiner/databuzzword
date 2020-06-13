@@ -90,9 +90,13 @@ toc: true
 #### Richard Wang
 - [Richard Wang on Twitter @_RichardWang_](https://twitter.com/_RichardWang_)
 
-
 #### Vincent Boucher
 - [Vincent Boucher on LinkedIn](https://www.linkedin.com/in/montrealai)
+
+#### 3Blue1Brown
+- [3Blue1Brown's Website](https://www.3blue1brown.com/)
+- [3Blue1Brown on YouTube](https://m.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+- [3Blue1Brown on Twitter @3blue1brown](https://twitter.com/3blue1brown)
 
 ### Websites
 #### DEEPAI.ORG
