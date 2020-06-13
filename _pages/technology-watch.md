@@ -13,6 +13,9 @@ toc: true
 - [Oversampling with FastAI](https://www.kaggle.com/tanlikesmath/oversampling-mnist-with-fastai)
 
 ## Technics
+### Data Labeling
+- [Reducing your labeled data requirements (2–5x) for Deep Learning: Deep Mind’s new "Contrastive Predictive Coding 2.0"](https://medium.com/@lessw/reducing-your-labeled-data-requirements-2-5x-for-deep-learning-google-brains-new-contrastive-2ac0da0367ef)
+
 ### Reinforcement Learning 
 #### TensorTrade
 - [Code](https://github.com/tensortrade-org/tensortrade/blob/master/README.md)
