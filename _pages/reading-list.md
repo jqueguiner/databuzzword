@@ -93,6 +93,13 @@ toc: true
 #### Vincent Boucher
 - [Vincent Boucher on LinkedIn](https://www.linkedin.com/in/montrealai)
 
+
+#### Sam Shleifer
+- [Sam Schleifer's Blog](https://sshleifer.github.io/blog_v2/)
+- [Sam Shleifer on Twitter @sam_shleifer](https://twitter.com/sam_shleifer)
+- [Sam Shleifer on GitHub](https://github.com/sshleifer/)
+- [Sam Shleifer on LinkedIn](https://www.linkedin.com/in/sam-shleifer-a5307a77)
+
 #### 3Blue1Brown
 - [3Blue1Brown's Website](https://www.3blue1brown.com/)
 - [3Blue1Brown on YouTube](https://m.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)

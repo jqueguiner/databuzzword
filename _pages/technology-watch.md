@@ -573,6 +573,12 @@ year={2020}
 - [Paper](https://arxiv.org/abs/2005.13580)
 
 ### Text to Text
+
+#### Bilingual Translation
+- [Example](https://gist.github.com/sshleifer/a5498e4d829a016b5875516d659ed50f)
+- [Code](https://github.com/sshleifer/marian)
+- [Author](https://github.com/sshleifer/marian)
+
 #### T5 finetuning 
 - [Paper](https://arxiv.org/abs/1910.10683)
 
