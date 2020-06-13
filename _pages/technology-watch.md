@@ -89,6 +89,16 @@ Great tutorial serie here
 ### Reformers
 - [Colab](https://arxiv.org/abs/2001.04451)
 
+
+## Benchmaks
+### Text
+#### XGLUE: Expanding cross-lingual understanding and generation with tasks from real-world scenarios
+![](https://www.microsoft.com/en-us/research/uploads/prod/2020/06/XGLUE-homepage-feat-image-800x550.png)
+- [Blog](https://www.microsoft.com/en-us/research/blog/xglue-expanding-cross-lingual-understanding-and-generation-with-tasks-from-real-world-scenarios/)
+- [Code](https://github.com/microsoft/Unicoder)
+- [Dataset](https://github.com/microsoft/XGLUE)
+- [Paper](https://www.microsoft.com/en-us/research/publication/xglue-a-new-benchmark-dataset-for-cross-lingual-pre-training-understanding-and-generation/)
+
 ## Useful Libs
 ### Wrapper
 #### Vision
