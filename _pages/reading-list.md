@@ -90,6 +90,10 @@ toc: true
 #### Richard Wang
 - [Richard Wang on Twitter @_RichardWang_](https://twitter.com/_RichardWang_)
 
+
+#### Vincent Boucher
+- [Vincent Boucher on LinkedIn](https://www.linkedin.com/in/montrealai)
+
 ### Websites
 #### DEEPAI.ORG
 - [DeepAI Website](https://deepai.org/)
