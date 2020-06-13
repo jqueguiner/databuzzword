@@ -111,6 +111,13 @@ toc: true
 - [Hamel Husain on GitHub](http://www.github.com/hamelsmu)
 - [Hamel Husain on LinkedIn](https://www.linkedin.com/in/hamelhusain/)
 
+
+#### Philip Vollet
+- [Philip Vollet's Website](https://www.notion.so/634eba1a37d34e2baec1bb574a8a5482?v=722708f7a2ee4fbfae92e777ef2a3ec1)
+- [Philip Vollet on Twitter @PhilipVollet](https://twitter.com/philipvollet)
+- [Philip Vollet on LinkedIn](https://www.linkedin.com/in/philipvollet)
+
+
 #### 3Blue1Brown
 - [3Blue1Brown's Website](https://www.3blue1brown.com/)
 - [3Blue1Brown on YouTube](https://m.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
