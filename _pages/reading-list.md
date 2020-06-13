@@ -80,6 +80,13 @@ toc: true
 #### Steve Nouri
 - [Steve Nouri on LinkedIn](https://www.linkedin.com/in/stevenouri)
 
+#### Chris Tran
+- [Chris Tran's Blog](https://chriskhanhtran.github.io/posts/)
+- [Chris Tran on YouTube](https://www.youtube.com/channel/UCo8okHIdSppn_idUVuuebhg)
+- [Chris Tran on Github](https://github.com/chriskhanhtran)
+- [Chris Tran on Twitter @chriskhanhtran](https://twitter.com/chriskhanhtran)
+- [Chris Tran on LinkedIn](https://www.linkedin.com/in/chriskhanhtran/)
+
 ### Websites
 #### DEEPAI.ORG
 - [DeepAI Website](https://deepai.org/)
