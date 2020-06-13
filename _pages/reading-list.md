@@ -109,7 +109,7 @@ toc: true
 - [Hamel Husain's Website](http://hamel.io/)
 - [Hamel Husain on Twitter @HamelHusain](https://twitter.com/HamelHusain)
 - [Hamel Husain on GitHub](http://www.github.com/hamelsmu)
-- [Hamel Husain on LinkedIn(https://www.linkedin.com/in/hamelhusain/)
+- [Hamel Husain on LinkedIn](https://www.linkedin.com/in/hamelhusain/)
 
 #### 3Blue1Brown
 - [3Blue1Brown's Website](https://www.3blue1brown.com/)
