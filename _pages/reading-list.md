@@ -135,6 +135,10 @@ toc: true
 - [Sewade Ogun on GitHub](https://github.com/ogunlao/)
 - [Sewade Ogun on LinkedIn](https://www.linkedin.com/in/sewade-ogun)
 
+#### Nanyun (Violet) Peng
+- [Nanyun (Violet) Peng's Website](http://vnpeng.net/)
+- [Nanyun (Violet) Peng on Twitter @VioletNPeng](https://twitter.com/VioletNPeng)
+- [Nanyun (Violet) Peng on Github](https://github.com/VioletPeng)
 
 #### 3Blue1Brown
 - [3Blue1Brown's Website](https://www.3blue1brown.com/)
