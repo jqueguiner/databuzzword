@@ -20,6 +20,7 @@ toc: true
 
 ### Data Labeling
 - [Reducing your labeled data requirements (2–5x) for Deep Learning: Deep Mind’s new "Contrastive Predictive Coding 2.0"](https://medium.com/@lessw/reducing-your-labeled-data-requirements-2-5x-for-deep-learning-google-brains-new-contrastive-2ac0da0367ef)
+- [Annotation tools for computer vision and NLP](https://machinelearningtokyo.com/2020/06/04/annotation-tools-for-computer-vision-and-nlp/amp/?__twitter_impression=true)
 
 ### Reinforcement Learning 
 #### TensorTrade
