@@ -1,5 +1,5 @@
 ---
-title: "Episode 12 : Les Noms de Domaine comment ça marche ?"
+title: "Episode 12 : Marc Audefroy - Les Noms de Domaine comment ça marche ?"
 categories: [Marc Audefroy, Jean-Louis Queguiner, Nom de Domaine]
 badges: true
 toc: true
