@@ -3,7 +3,7 @@ title: "Episode 18 : Steven Le Roux - Hadoop est mort vive Hadoop"
 categories: [Steven Le Roux, Jean-Louis Queguiner, Big Data, Hadoop, MapR, Cloudera, Hortonworks]
 badges: true
 toc: true
-comments: true
+comments: false
 layout: post
 author: Jean-Louis Queguiner & Steven Le Roux
 ---
