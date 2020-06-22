@@ -22,7 +22,7 @@ topologie #Reseau #CPU #GPU #iA #stockage #lustre #CEPH mais aussi #conteneur ma
 
 # Social Networks
 
-## Steven Le-Roux
+## Benjamin Barthe
 - [Benjamin Barthe on Twitter @StevenLeRoux](https://twitter.com/b4mb0u)
 - [Benjamin Barthe on LinkedIn](https://www.linkedin.com/in/benjamin-barthe-48a30aba/)
 
