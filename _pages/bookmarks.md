@@ -36,6 +36,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
+- [2020 August 27 - Overview · A Guide to Natural Language Processing With AllenNLP ](https://guide.allennlp.org/overview)
 - [2020 August 27 - NLP News Cypher | 08.23.20 ](https://medium.com/towards-artificial-intelligence/nlp-news-cypher-08-23-20-eb83f076b39d)
 - [2020 August 27 - Google Colaboratory ](https://colab.research.google.com/drive/1Py7nyJO_sgOYf8Fh-2Dcn1JmxEJyUUor?usp=sharing)
 - [2020 August 27 - The NLP Model Forge ](https://medium.com/towards-artificial-intelligence/the-nlp-model-forge-a46faac7b5b0)
