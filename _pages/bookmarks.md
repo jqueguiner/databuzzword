@@ -97,6 +97,7 @@ toc: true
 
 
 ## Machine Learning
+- [Data Science Courses (2020 August 27)](https://m.youtube.com/channel/UCKJNzy_GuvX3SAg3ipaGa8A)
 - [Dive into Deep Learning — Dive into Deep Learning 0.14.3 documentation (2020 August 27)](https://d2l.ai/)
 - [Keras documentation: Code examples (2020 August 27)](https://keras.io/examples/)
 - [Learn #MachineLearning Coding Basics in a weekend - Glossary and Mindmap (2020 August 27)](https://www.datasciencecentral.com/profiles/blogs/learn-machinelearning-coding-basics-in-a-weekend-glossary-and)
@@ -125,6 +126,7 @@ toc: true
 - [How To Identify The Best AI Opportunities For Your Business – In 2 Simple Steps  (2020 August 27)](https://www.linkedin.com/pulse/how-identify-best-ai-opportunities-your-business-2-simple-marr)
 - [microsoft/computervision-recipes (2020 August 27)](https://github.com/microsoft/computervision-recipes)
 - [Machine Learning India on LinkedIn: Pandas Library in 8 pages! | 20 comments (2020 August 27)](https://www.linkedin.com/posts/mlindia_pandas-library-in-8-pages-ugcPost-6704010710990553090-WkFc)
+- [Data Science Courses (2020 August 27)](https://m.youtube.com/channel/UCKJNzy_GuvX3SAg3ipaGa8A)
 - [Dive into Deep Learning — Dive into Deep Learning 0.14.3 documentation (2020 August 27)](https://d2l.ai/)
 - [Keras documentation: Code examples (2020 August 27)](https://keras.io/examples/)
 - [Learn #MachineLearning Coding Basics in a weekend - Glossary and Mindmap (2020 August 27)](https://www.datasciencecentral.com/profiles/blogs/learn-machinelearning-coding-basics-in-a-weekend-glossary-and)
