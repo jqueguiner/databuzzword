@@ -37,6 +37,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
+- [2020 August 27 - It's tempting to think that GP3 will solve all NLP problems but it does not ](https://www.datasciencecentral.com/profiles/blogs/it-s-tempting-to-think-that-gp3-will-solve-all-nlp-problems-but)
 - [2020 August 27 - Tokenizers: How machines read ](https://blog.floydhub.com/tokenization-nlp/)
 - [2020 August 27 - BERT Research Series ](https://m.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6)
 - [2020 August 27 - The Illustrated Transformer ](https://jalammar.github.io/illustrated-transformer/)
