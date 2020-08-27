@@ -12,6 +12,7 @@ toc: true
 ## Image 
 
 ### Image to Image
+- [2020 August 27 - VITA-Group/GAN-Slimming ](https://github.com/VITA-Group/GAN-Slimming)
 - [2020 August 27 - MediaPipe Iris: Real-time Iris Tracking & Depth Estimation ](https://ai.googleblog.com/2020/08/mediapipe-iris-real-time-iris-tracking.html?m=1)
 - [2020 August 27 - NAS-DIP](https://yunchunchen.github.io/NAS-DIP/)
 - [2020 August 27 - SMAP: Single-Shot Multi-Person Absolute 3D Pose Estimation](https://zju3dv.github.io/SMAP/)
