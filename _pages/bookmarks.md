@@ -40,6 +40,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
+- [2020 August 27 - Transformer Reinforcement Learning ](https://app.wandb.ai/lvwerra/trl-showcase/reports/Transformer-Reinforcement-Learning--VmlldzoxMDY4MDI)
 - [2020 August 27 - JasonKessler/scattertext ](https://github.com/JasonKessler/scattertext)
 - [2020 August 27 - Contentyze: Generate content automatically with AI ](https://betalist.com/startups/contentyze)
 - [2020 August 27 - new fast.ai course: A Code-First Introduction to Natural Language Processing ](https://www.fast.ai/2019/07/08/fastai-nlp/)
