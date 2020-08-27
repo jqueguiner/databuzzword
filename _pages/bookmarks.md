@@ -12,6 +12,7 @@ toc: true
 ## Image 
 
 ### Image to Image
+- [2020 August 27 - Making Anime Faces With StyleGAN ](https://www.gwern.net/Faces)
 - [2020 August 27 - Google Colaboratory ](https://colab.research.google.com/drive/1tputbmA9EaXs9HL9iO21g7xN7jz_Xrko?usp=sharing)
 - [2020 August 27 - iperov/DeepFaceLab ](https://github.com/iperov/DeepFaceLab)
 - [2020 August 27 - VITA-Group/GAN-Slimming ](https://github.com/VITA-Group/GAN-Slimming)
