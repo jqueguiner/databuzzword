@@ -46,6 +46,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
+- [2020 August 27 - The Science of Debugging with W&B Reports ](https://app.wandb.ai/latentspace/published-work/The-Science-of-Debugging-with-W&B-Reports--Vmlldzo4OTI3Ng)
 - [2020 August 27 - elangovana/PPI-typed-relation-extractor ](https://github.com/elangovana/PPI-typed-relation-extractor)
 - [2020 August 27 - dheerajiiitv/visualizing-sent-embedding ](https://github.com/dheerajiiitv/visualizing-sent-embedding)
 - [2020 August 27 - Google Colaboratory ](https://colab.research.google.com/github/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb#scrollTo=QLGiFCDqvuil)
