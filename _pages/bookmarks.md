@@ -125,6 +125,7 @@ toc: true
 
 
 ## Others
+- [AI, Medicine, and Bias: Diversifying Your Dataset is Not Enough (2020 August 27)](https://www.youtube.com/watch?v=vVRWeGlMkGk&list=PLtmWHNX-gukLQlMvtRJ19s7-8MrnRV6h6)
 - [Rachel Thomas videos (2020 August 27)](https://m.youtube.com/playlist?list=PLtmWHNX-gukLQlMvtRJ19s7-8MrnRV6h6)
 - [Rachel Thomas – Medium (2020 August 27)](https://medium.com/@racheltho)
 - [Practical Data Ethics (2020 August 27)](https://ethics.fast.ai)
