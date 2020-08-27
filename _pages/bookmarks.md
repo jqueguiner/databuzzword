@@ -63,6 +63,7 @@ toc: true
 
 
 ## Machine Learning
+- [Shivam Kotwalia posted on LinkedIn (2020 August 27)](https://www.linkedin.com/posts/shivamkotwalia_machinelearning-artificialintelligence-madewithml-activity-6704073957202518016-7cuF)
 - [Introduction to Causal Inference (2020 August 27)](https://www.bradyneal.com/causal-inference-course)
 - [How Docker Can Help You Become A More Effective Data Scientist (2020 August 27)](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
 - [Explainable AI vs Explaining AI — Part 1 (2020 August 27)](https://towardsdatascience.com/explainable-ai-vs-explaining-ai-part-1-d39ea5053347)
@@ -77,6 +78,7 @@ toc: true
 
 ## Others
 - [Machine Learning India on LinkedIn: Pandas Library in 8 pages! | 20 comments (2020 August 27)](https://www.linkedin.com/posts/mlindia_pandas-library-in-8-pages-ugcPost-6704010710990553090-WkFc)
+- [Shivam Kotwalia posted on LinkedIn (2020 August 27)](https://www.linkedin.com/posts/shivamkotwalia_machinelearning-artificialintelligence-madewithml-activity-6704073957202518016-7cuF)
 - [Intro to Modular Learning — Modulo (2020 August 27)](https://www.modulo.app/all-resources/modularlearning)
 - [How Docker Can Help You Become A More Effective Data Scientist (2020 August 27)](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
 - [koaning.io:  (2020 August 27)](https://koaning.io/)
