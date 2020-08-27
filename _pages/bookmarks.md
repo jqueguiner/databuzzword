@@ -34,6 +34,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
+- [2020 August 27 -  ](https://twitter.com/sam_shleifer/status/1297911315932106753?s=12)
 - [2020 August 27 -  ](https://twitter.com/guggersylvain/status/1297948214214221825?s=12)
 - [2020 August 27 - Tutorial notebooks ](https://discuss.huggingface.co/t/tutorial-notebooks/658)
 - [2020 August 27 - scispacy ](https://allenai.github.io/scispacy/)
