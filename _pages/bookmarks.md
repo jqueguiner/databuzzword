@@ -38,6 +38,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
+- [2020 August 27 - new fast.ai course: A Code-First Introduction to Natural Language Processing ](https://www.fast.ai/2019/07/08/fastai-nlp/)
 - [2020 August 27 - Training RoBERTa from scratch - the missing guide ](https://zablo.net/blog/post/training-roberta-from-scratch-the-missing-guide-polish-language-model/)
 - [2020 August 27 - It's tempting to think that GP3 will solve all NLP problems but it does not ](https://www.datasciencecentral.com/profiles/blogs/it-s-tempting-to-think-that-gp3-will-solve-all-nlp-problems-but)
 - [2020 August 27 - Tokenizers: How machines read ](https://blog.floydhub.com/tokenization-nlp/)
