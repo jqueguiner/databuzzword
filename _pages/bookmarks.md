@@ -35,6 +35,7 @@ toc: true
 - [2020 August 27 - GitHub - minivision-ai/photo2cartoon: 人像卡通化探索项目 (photo-to-cartoon translation project)](https://github.com/minivision-ai/photo2cartoon)
 
 ### Image to Text
+- [2020 August 27 - PaddlePaddle/PaddleDetection ](https://github.com/PaddlePaddle/PaddleDetection/blob/release/0.4/configs/ppyolo/README.md)
 - [2020 August 27 - Visualize, track & compare Fastai models ](https://app.wandb.ai/borisd13/demo_config/reports/Compare-and-monitor-fastai-models--Vmlldzo4MzAyNA)
 - [2020 August 27 - How does a Real-Time Face Recognition work with OpenCV? ](https://medium.com/eazy-ciphers/how-does-a-real-time-face-recognition-work-with-opencv-ddd4c1cd4b43)
 
