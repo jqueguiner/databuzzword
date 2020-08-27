@@ -158,6 +158,7 @@ toc: true
 
 
 ## Others
+- [Isoflow (2020 August 28)](https://isoflow.io/)
 - [wandb/awesome-dl-projects (2020 August 28)](https://github.com/wandb/awesome-dl-projects)
 - [ (2020 August 28)](https://twitter.com/viglovikov/status/1296292326478761984?s=12)
 - [4 Hard-To-Ignore Reasons Why You Should Use AI To Make More Intelligent Products (2020 August 27)](https://www.linkedin.com/pulse/4-hard-to-ignore-reasons-why-you-should-use-ai-make-more-bernard-marr)
