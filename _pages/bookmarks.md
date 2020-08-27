@@ -37,6 +37,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
+- [2020 August 27 - DeepMind x UCL | Deep Learning Lectures | 7/12 | Deep Learning for Natural Language Processing ](https://www.youtube.com/watch?v=8zAP2qWAsKg)
 - [2020 August 27 - the transformer ... “explained”? ](https://nostalgebraist.tumblr.com/post/185326092369/the-transformer-explained)
 - [2020 August 27 - cliang1453/BOND ](https://github.com/cliang1453/BOND)
 - [2020 August 27 - State-of-the-Art Language Models in 2020 ](https://towardsdatascience.com/state-of-the-art-language-models-in-2020-2c25c081b558)
