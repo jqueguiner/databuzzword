@@ -12,6 +12,7 @@ toc: true
 ## Image 
 
 ### Image to Image
+- [2020 August 27 - ExPose - EXpressive POse and Shape rEgression ](https://expose.is.tue.mpg.de/)
 - [2020 August 27 - Why I stopped using GAN — ECCV 2020 ](https://medium.com/@CVZurich/why-i-stopped-using-gan-eccv2020-d2b20dcfe1d)
 - [2020 August 27 - Learning to See Through Obstructions ](https://alex04072000.github.io/SOLD/)
 - [2020 August 27 - Yijunmaverick/Im2Pencil ](https://github.com/Yijunmaverick/Im2Pencil)
