@@ -79,6 +79,7 @@ toc: true
 
 
 ## Machine Learning
+- [Complete Guide to Voila to Turn a Jupyter Notebook Into a Standalone Web Application (2020 August 27)](https://analyticsindiamag.com/complete-guide-to-voila-to-turn-a-jupyter-notebook-into-a-standalone-web-application/)
 - [Teaching - Afshine Amidi (2020 August 27)](https://www.mit.edu/~amidi/teaching/data-science-tools/)
 - [Neuraxio/Neuraxle (2020 August 27)](https://github.com/Neuraxio/Neuraxle)
 - [justmarkham/scikit-learn-tips (2020 August 27)](https://github.com/justmarkham/scikit-learn-tips)
@@ -100,6 +101,7 @@ toc: true
 - [How To Identify The Best AI Opportunities For Your Business – In 2 Simple Steps  (2020 August 27)](https://www.linkedin.com/pulse/how-identify-best-ai-opportunities-your-business-2-simple-marr)
 - [microsoft/computervision-recipes (2020 August 27)](https://github.com/microsoft/computervision-recipes)
 - [Machine Learning India on LinkedIn: Pandas Library in 8 pages! | 20 comments (2020 August 27)](https://www.linkedin.com/posts/mlindia_pandas-library-in-8-pages-ugcPost-6704010710990553090-WkFc)
+- [Complete Guide to Voila to Turn a Jupyter Notebook Into a Standalone Web Application (2020 August 27)](https://analyticsindiamag.com/complete-guide-to-voila-to-turn-a-jupyter-notebook-into-a-standalone-web-application/)
 - [Teaching - Afshine Amidi (2020 August 27)](https://www.mit.edu/~amidi/teaching/data-science-tools/)
 - [Neuraxio/Neuraxle (2020 August 27)](https://github.com/Neuraxio/Neuraxle)
 - [justmarkham/scikit-learn-tips (2020 August 27)](https://github.com/justmarkham/scikit-learn-tips)
