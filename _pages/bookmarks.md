@@ -36,6 +36,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
+- [2020 August 27 - nidhaloff/deep_translator ](https://github.com/nidhaloff/deep_translator)
 - [2020 August 27 - mrm8488/t5-base-finetuned-wikiSQL-sql-to-en · Hugging Face ](https://huggingface.co/mrm8488/t5-base-finetuned-wikiSQL-sql-to-en?text=My+name+is+Sarah+and+I+live+in+London)
 - [2020 August 27 - Text-to-SQL Query · Issue #6325 · huggingface/transformers ](https://github.com/huggingface/transformers/issues/6325)
 - [2020 August 27 - 🦄🤝🦄 Encoder-decoders in Transformers: a hybrid pre-trained architecture for seq2seq ](https://medium.com/huggingface/encoder-decoders-in-transformers-a-hybrid-pre-trained-architecture-for-seq2seq-af4d7bf14bb8)
