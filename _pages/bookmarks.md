@@ -22,6 +22,7 @@ toc: true
 - [2020 August 27 - GitHub - minivision-ai/photo2cartoon: 人像卡通化探索项目 (photo-to-cartoon translation project)](https://github.com/minivision-ai/photo2cartoon)
 
 ### Image to Text
+- [2020 August 27 - How does a Real-Time Face Recognition work with OpenCV? ](https://medium.com/eazy-ciphers/how-does-a-real-time-face-recognition-work-with-opencv-ddd4c1cd4b43)
 
 ### Image to Sound
 
