@@ -37,6 +37,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
+- [2020 August 27 - Tokenizers: How machines read ](https://blog.floydhub.com/tokenization-nlp/)
 - [2020 August 27 - BERT Research Series ](https://m.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6)
 - [2020 August 27 - The Illustrated Transformer ](https://jalammar.github.io/illustrated-transformer/)
 - [2020 August 27 - DeepMind x UCL | Deep Learning Lectures | 7/12 | Deep Learning for Natural Language Processing ](https://www.youtube.com/watch?v=8zAP2qWAsKg)
