@@ -98,6 +98,7 @@ toc: true
 - [2020 August 27 - NLP with Friends, featured friend: Nitika Mathur ](https://www.eventbrite.co.uk/e/nlp-with-friends-featured-friend-nitika-mathur-tickets-117606966603)
 
 ### Text to Sound
+- [2020 August 28 - Tomiinek/Multilingual_Text_to_Speech ](https://github.com/Tomiinek/Multilingual_Text_to_Speech)
 
 ### Text to Video
 
