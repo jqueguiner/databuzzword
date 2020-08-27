@@ -47,6 +47,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
+- [2020 August 27 - Introducing txtai, an AI-powered search engine built on Transformers ](https://towardsdatascience.com/introducing-txtai-an-ai-powered-search-engine-built-on-transformers-37674be252ec)
 - [2020 August 27 - Google Colaboratory ](https://colab.research.google.com/drive/1oYQ7WX9CV3sTZ31Csp8JghUxmAF_Ozro)
 - [2020 August 27 - The Science of Debugging with W&B Reports ](https://app.wandb.ai/latentspace/published-work/The-Science-of-Debugging-with-W&B-Reports--Vmlldzo4OTI3Ng)
 - [2020 August 27 - elangovana/PPI-typed-relation-extractor ](https://github.com/elangovana/PPI-typed-relation-extractor)
