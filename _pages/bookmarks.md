@@ -12,6 +12,7 @@ toc: true
 ## Image 
 
 ### Image to Image
+- [2020 August 27 - justinpinkney/awesome-pretrained-stylegan2 ](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
 - [2020 August 27 - Google Colaboratory ](https://colab.research.google.com/drive/1IWrhwcJoncCKHm6VXsNwOr9Yukhz3B49?usp=sharing)
 - [2020 August 27 - Project-Splinter/MonoPort ](https://github.com/Project-Splinter/MonoPort)
 - [2020 August 27 - Project Splinter ](https://project-splinter.github.io/)
