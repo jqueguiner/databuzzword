@@ -129,6 +129,7 @@ toc: true
 
 
 ## Others
+- [Clothing Dataset: Call for Action (2020 August 27)](https://medium.com/data-science-insider/clothing-dataset-call-for-action-3cad023246c1)
 - [PyTorch Lightning 0.9 — synced BatchNorm, DataModules and final API! (2020 August 27)](https://medium.com/pytorch/pytorch-lightning-0-9-synced-batchnorm-datamodules-and-final-api-aae885398a9d)
 - [AI, Medicine, and Bias: Diversifying Your Dataset is Not Enough (2020 August 27)](https://www.youtube.com/watch?v=vVRWeGlMkGk&list=PLtmWHNX-gukLQlMvtRJ19s7-8MrnRV6h6)
 - [Rachel Thomas videos (2020 August 27)](https://m.youtube.com/playlist?list=PLtmWHNX-gukLQlMvtRJ19s7-8MrnRV6h6)
