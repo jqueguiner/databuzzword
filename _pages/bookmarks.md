@@ -161,6 +161,7 @@ toc: true
 
 
 ## Others
+- [Full Stack Deep Learning (2020 August 28)](https://course.fullstackdeeplearning.com/)
 - [ (2020 August 28)](https://twitter.com/jeremyphoward/status/1289982339829792769?s=12)
 - [Isoflow (2020 August 28)](https://isoflow.io/)
 - [wandb/awesome-dl-projects (2020 August 28)](https://github.com/wandb/awesome-dl-projects)
