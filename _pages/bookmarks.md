@@ -32,6 +32,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
+- [2020 August 27 -  ](https://twitter.com/guggersylvain/status/1297948214214221825?s=12)
 - [2020 August 27 - Tutorial notebooks ](https://discuss.huggingface.co/t/tutorial-notebooks/658)
 - [2020 August 27 - scispacy ](https://allenai.github.io/scispacy/)
 - [2020 August 27 - WuraolaOyewusi/How-to-use-scispaCy-Entity-Linkers-for-Biomedical-Named-Entities ](https://github.com/WuraolaOyewusi/How-to-use-scispaCy-Entity-Linkers-for-Biomedical-Named-Entities/blob/master/scispacy_entities_extractions_and_linkers(uncleared_outputs)_.ipynb)
