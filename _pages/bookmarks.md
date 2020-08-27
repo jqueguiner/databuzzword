@@ -36,6 +36,7 @@ toc: true
 - [2020 August 27 - GitHub - minivision-ai/photo2cartoon: 人像卡通化探索项目 (photo-to-cartoon translation project)](https://github.com/minivision-ai/photo2cartoon)
 
 ### Image to Text
+- [2020 August 28 - Training YOLOv3 : Deep Learning based Custom Object Detector | Learn OpenCV ](https://www.learnopencv.com/training-yolov3-deep-learning-based-custom-object-detector/amp/)
 - [2020 August 28 - Azure/MachineLearningNotebooks ](https://github.com/Azure/MachineLearningNotebooks/blob/master/how-to-use-azureml/deployment/onnx/onnx-inference-facial-expression-recognition-deploy.ipynb)
 - [2020 August 28 - ChristianMarzahl/ObjectDetection ](https://github.com/ChristianMarzahl/ObjectDetection)
 - [2020 August 27 - PaddlePaddle/PaddleDetection ](https://github.com/PaddlePaddle/PaddleDetection/blob/release/0.4/configs/ppyolo/README.md)
