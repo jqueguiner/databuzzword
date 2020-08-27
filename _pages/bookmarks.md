@@ -125,6 +125,7 @@ toc: true
 
 
 ## Others
+- [Rachel Thomas videos (2020 August 27)](https://m.youtube.com/playlist?list=PLtmWHNX-gukLQlMvtRJ19s7-8MrnRV6h6)
 - [Rachel Thomas – Medium (2020 August 27)](https://medium.com/@racheltho)
 - [Practical Data Ethics (2020 August 27)](https://ethics.fast.ai)
 - [Artificial Intelligence Easily Beats Human Fighter Pilot in DARPA Trial - Air Force Magazine (2020 August 27)](https://www.airforcemag.com/artificial-intelligence-easily-beats-human-fighter-pilot-in-darpa-trial/)
