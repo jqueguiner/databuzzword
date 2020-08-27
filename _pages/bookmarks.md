@@ -76,6 +76,7 @@ toc: true
 
 
 ## Others
+- [Machine Learning India on LinkedIn: Pandas Library in 8 pages! | 20 comments (2020 August 27)](https://www.linkedin.com/posts/mlindia_pandas-library-in-8-pages-ugcPost-6704010710990553090-WkFc)
 - [Intro to Modular Learning — Modulo (2020 August 27)](https://www.modulo.app/all-resources/modularlearning)
 - [How Docker Can Help You Become A More Effective Data Scientist (2020 August 27)](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
 - [koaning.io:  (2020 August 27)](https://koaning.io/)
