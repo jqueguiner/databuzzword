@@ -109,6 +109,7 @@ toc: true
 
 
 ## Machine Learning
+- [Algorithms From Scratch: K-Nearest Neighbors (2020 August 27)](https://towardsdatascience.com/algorithms-from-scratch-k-nearest-neighbors-fe19b431a57)
 - [Docker For Data Scientists (2020 August 27)](https://m.youtube.com/watch?v=0qG_0CPQhpg)
 - [Visualize, track & compare Fastai models (2020 August 27)](https://app.wandb.ai/borisd13/demo_config/reports/Compare-and-monitor-fastai-models--Vmlldzo4MzAyNA)
 - [Contents (2020 August 27)](https://www.fast.ai/topics/)
@@ -149,6 +150,7 @@ toc: true
 - [How To Identify The Best AI Opportunities For Your Business – In 2 Simple Steps  (2020 August 27)](https://www.linkedin.com/pulse/how-identify-best-ai-opportunities-your-business-2-simple-marr)
 - [microsoft/computervision-recipes (2020 August 27)](https://github.com/microsoft/computervision-recipes)
 - [Machine Learning India on LinkedIn: Pandas Library in 8 pages! | 20 comments (2020 August 27)](https://www.linkedin.com/posts/mlindia_pandas-library-in-8-pages-ugcPost-6704010710990553090-WkFc)
+- [Algorithms From Scratch: K-Nearest Neighbors (2020 August 27)](https://towardsdatascience.com/algorithms-from-scratch-k-nearest-neighbors-fe19b431a57)
 - [Docker For Data Scientists (2020 August 27)](https://m.youtube.com/watch?v=0qG_0CPQhpg)
 - [Visualize, track & compare Fastai models (2020 August 27)](https://app.wandb.ai/borisd13/demo_config/reports/Compare-and-monitor-fastai-models--Vmlldzo4MzAyNA)
 - [Contents (2020 August 27)](https://www.fast.ai/topics/)
