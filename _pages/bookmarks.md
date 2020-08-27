@@ -48,6 +48,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
+- [2020 August 28 - victordibia/neuralqa ](https://github.com/victordibia/neuralqa)
 - [2020 August 28 - microsoft/DialoGPT ](https://github.com/microsoft/DialoGPT)
 - [2020 August 28 - Philip Vollet on LinkedIn: #nlp #bioinformatics #medical | 10 comments ](https://www.linkedin.com/posts/philipvollet_nlp-bioinformatics-medical-activity-6701822862912819200-ex6k)
 - [2020 August 28 - Karpathy's minGPT trained with PyTorch Lightning ](https://www.youtube.com/watch?v=2aJFRQ-v6K8)
