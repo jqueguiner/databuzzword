@@ -63,6 +63,7 @@ toc: true
 
 
 ## Machine Learning
+- [Neuraxio/Neuraxle (2020 August 27)](https://github.com/Neuraxio/Neuraxle)
 - [justmarkham/scikit-learn-tips (2020 August 27)](https://github.com/justmarkham/scikit-learn-tips)
 - [Shivam Kotwalia posted on LinkedIn (2020 August 27)](https://www.linkedin.com/posts/shivamkotwalia_machinelearning-artificialintelligence-madewithml-activity-6704073957202518016-7cuF)
 - [Introduction to Causal Inference (2020 August 27)](https://www.bradyneal.com/causal-inference-course)
@@ -79,6 +80,7 @@ toc: true
 
 ## Others
 - [Machine Learning India on LinkedIn: Pandas Library in 8 pages! | 20 comments (2020 August 27)](https://www.linkedin.com/posts/mlindia_pandas-library-in-8-pages-ugcPost-6704010710990553090-WkFc)
+- [Neuraxio/Neuraxle (2020 August 27)](https://github.com/Neuraxio/Neuraxle)
 - [justmarkham/scikit-learn-tips (2020 August 27)](https://github.com/justmarkham/scikit-learn-tips)
 - [Shivam Kotwalia posted on LinkedIn (2020 August 27)](https://www.linkedin.com/posts/shivamkotwalia_machinelearning-artificialintelligence-madewithml-activity-6704073957202518016-7cuF)
 - [Intro to Modular Learning — Modulo (2020 August 27)](https://www.modulo.app/all-resources/modularlearning)
