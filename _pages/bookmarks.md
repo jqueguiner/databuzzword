@@ -57,6 +57,7 @@ toc: true
 
 
 ## Machine Learning
+- [Explainable AI vs Explaining AI — Part 1 (2020 August 27)](https://towardsdatascience.com/explainable-ai-vs-explaining-ai-part-1-d39ea5053347)
 
 
 ## Quantum Computing
