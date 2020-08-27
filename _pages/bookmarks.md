@@ -64,6 +64,7 @@ toc: true
 
 
 ## Machine Learning
+- [Teaching - Afshine Amidi (2020 August 27)](https://www.mit.edu/~amidi/teaching/data-science-tools/)
 - [Neuraxio/Neuraxle (2020 August 27)](https://github.com/Neuraxio/Neuraxle)
 - [justmarkham/scikit-learn-tips (2020 August 27)](https://github.com/justmarkham/scikit-learn-tips)
 - [Shivam Kotwalia posted on LinkedIn (2020 August 27)](https://www.linkedin.com/posts/shivamkotwalia_machinelearning-artificialintelligence-madewithml-activity-6704073957202518016-7cuF)
@@ -82,6 +83,7 @@ toc: true
 ## Others
 - [microsoft/computervision-recipes (2020 August 27)](https://github.com/microsoft/computervision-recipes)
 - [Machine Learning India on LinkedIn: Pandas Library in 8 pages! | 20 comments (2020 August 27)](https://www.linkedin.com/posts/mlindia_pandas-library-in-8-pages-ugcPost-6704010710990553090-WkFc)
+- [Teaching - Afshine Amidi (2020 August 27)](https://www.mit.edu/~amidi/teaching/data-science-tools/)
 - [Neuraxio/Neuraxle (2020 August 27)](https://github.com/Neuraxio/Neuraxle)
 - [justmarkham/scikit-learn-tips (2020 August 27)](https://github.com/justmarkham/scikit-learn-tips)
 - [Shivam Kotwalia posted on LinkedIn (2020 August 27)](https://www.linkedin.com/posts/shivamkotwalia_machinelearning-artificialintelligence-madewithml-activity-6704073957202518016-7cuF)
