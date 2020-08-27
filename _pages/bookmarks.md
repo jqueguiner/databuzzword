@@ -54,6 +54,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
+- [2020 August 28 - Let's build a Full-Text Search engine - Artem Krylysov ](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/)
 - [2020 August 28 - jfilter/clean-text ](https://github.com/jfilter/clean-text)
 - [2020 August 28 - victordibia/neuralqa ](https://github.com/victordibia/neuralqa)
 - [2020 August 28 - microsoft/DialoGPT ](https://github.com/microsoft/DialoGPT)
