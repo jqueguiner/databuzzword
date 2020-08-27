@@ -12,6 +12,7 @@ toc: true
 ## Image 
 
 ### Image to Image
+- [SMAP: Single-Shot Multi-Person Absolute 3D Pose Estimation (2020 August 27)](https://zju3dv.github.io/SMAP/)
 - [Rewriting a Deep Generative Model (2020 August 27)](https://rewriting.csail.mit.edu/)
 - [cvg/Hierarchical-Localization (2020 August 27)](https://github.com/cvg/Hierarchical-Localization)
 - [Real-Time Head Pose Estimation in Python (2020 August 27)](https://towardsdatascience.com/real-time-head-pose-estimation-in-python-e52db1bc606a)
