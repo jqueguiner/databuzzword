@@ -63,6 +63,7 @@ toc: true
 
 
 ## Machine Learning
+- [Introduction to Causal Inference (2020 August 27)](https://www.bradyneal.com/causal-inference-course)
 - [How Docker Can Help You Become A More Effective Data Scientist (2020 August 27)](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
 - [Explainable AI vs Explaining AI — Part 1 (2020 August 27)](https://towardsdatascience.com/explainable-ai-vs-explaining-ai-part-1-d39ea5053347)
 
