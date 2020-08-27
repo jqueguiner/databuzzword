@@ -54,6 +54,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
+- [2020 August 28 - jfilter/clean-text ](https://github.com/jfilter/clean-text)
 - [2020 August 28 - victordibia/neuralqa ](https://github.com/victordibia/neuralqa)
 - [2020 August 28 - microsoft/DialoGPT ](https://github.com/microsoft/DialoGPT)
 - [2020 August 28 - Philip Vollet on LinkedIn: #nlp #bioinformatics #medical | 10 comments ](https://www.linkedin.com/posts/philipvollet_nlp-bioinformatics-medical-activity-6701822862912819200-ex6k)
