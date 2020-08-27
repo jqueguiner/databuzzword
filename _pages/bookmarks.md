@@ -12,6 +12,7 @@ toc: true
 ## Image 
 
 ### Image to Image
+- [2020 August 27 - Project Splinter ](https://project-splinter.github.io/)
 - [2020 August 27 - Google Colaboratory ](https://colab.research.google.com/github/tg-bomze/collection-of-notebooks/blob/master/Destroy_n_Recover.ipynb)
 - [2020 August 27 - karpathy/minGPT ](https://github.com/karpathy/minGPT/blob/master/play_image.ipynb)
 - [2020 August 27 - Making Anime Faces With StyleGAN ](https://www.gwern.net/Faces)
