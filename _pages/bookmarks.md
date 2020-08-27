@@ -72,6 +72,7 @@ toc: true
 
 
 ## Others
+- [koaning.io:  (2020 August 27)](https://koaning.io/)
 - [Github Profile Readme Generator (2020 August 27)](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
 
