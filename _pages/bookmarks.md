@@ -75,6 +75,7 @@ toc: true
 
 
 ## Others
+- [How Docker Can Help You Become A More Effective Data Scientist (2020 August 27)](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
 - [koaning.io:  (2020 August 27)](https://koaning.io/)
 - [Github Profile Readme Generator (2020 August 27)](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
