@@ -79,6 +79,7 @@ toc: true
 
 
 ## Others
+- [microsoft/computervision-recipes (2020 August 27)](https://github.com/microsoft/computervision-recipes)
 - [Machine Learning India on LinkedIn: Pandas Library in 8 pages! | 20 comments (2020 August 27)](https://www.linkedin.com/posts/mlindia_pandas-library-in-8-pages-ugcPost-6704010710990553090-WkFc)
 - [Neuraxio/Neuraxle (2020 August 27)](https://github.com/Neuraxio/Neuraxle)
 - [justmarkham/scikit-learn-tips (2020 August 27)](https://github.com/justmarkham/scikit-learn-tips)
