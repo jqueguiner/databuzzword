@@ -12,6 +12,7 @@ toc: true
 ## Image 
 
 ### Image to Image
+- [GitHub - minivision-ai/photo2cartoon: 人像卡通化探索项目 (photo-to-cartoon translation project)](https://github.com/minivision-ai/photo2cartoon)
 - (https://towardsdatascience.com/real-time-head-pose-estimation-in-python-e52db1bc606a)
 
 ### Image to Text
