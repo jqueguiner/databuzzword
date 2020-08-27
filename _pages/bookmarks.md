@@ -31,6 +31,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
+- [2020 August 27 - RasaHQ/whatlies ](https://github.com/RasaHQ/whatlies)
 - [2020 August 27 - NLP with Friends, featured friend: Nitika Mathur ](https://www.eventbrite.co.uk/e/nlp-with-friends-featured-friend-nitika-mathur-tickets-117606966603)
 
 ### Text to Sound
