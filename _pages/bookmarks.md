@@ -119,6 +119,7 @@ toc: true
 
 
 ## Machine Learning
+- [tensorflow/lucid (2020 August 28)](https://github.com/tensorflow/lucid)
 - [If I had to start learning Data Science again, how would I do it? - KDnuggets (2020 August 28)](https://www.kdnuggets.com/2020/08/start-learning-data-science-again.html)
 - [Announcing the Consortium for Python Data API Standards (2020 August 27)](https://data-apis.org/blog/announcing_the_consortium/)
 - [Mind-the-Pineapple/Autoregressive-models (2020 August 27)](https://github.com/Mind-the-Pineapple/Autoregressive-models)
@@ -166,6 +167,7 @@ toc: true
 - [How To Identify The Best AI Opportunities For Your Business – In 2 Simple Steps  (2020 August 27)](https://www.linkedin.com/pulse/how-identify-best-ai-opportunities-your-business-2-simple-marr)
 - [microsoft/computervision-recipes (2020 August 27)](https://github.com/microsoft/computervision-recipes)
 - [Machine Learning India on LinkedIn: Pandas Library in 8 pages! | 20 comments (2020 August 27)](https://www.linkedin.com/posts/mlindia_pandas-library-in-8-pages-ugcPost-6704010710990553090-WkFc)
+- [tensorflow/lucid (2020 August 28)](https://github.com/tensorflow/lucid)
 - [If I had to start learning Data Science again, how would I do it? - KDnuggets (2020 August 28)](https://www.kdnuggets.com/2020/08/start-learning-data-science-again.html)
 - [Announcing the Consortium for Python Data API Standards (2020 August 27)](https://data-apis.org/blog/announcing_the_consortium/)
 - [Mind-the-Pineapple/Autoregressive-models (2020 August 27)](https://github.com/Mind-the-Pineapple/Autoregressive-models)
