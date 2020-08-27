@@ -95,6 +95,7 @@ toc: true
 
 
 ## Machine Learning
+- [Learn #MachineLearning Coding Basics in a weekend - Glossary and Mindmap (2020 August 27)](https://www.datasciencecentral.com/profiles/blogs/learn-machinelearning-coding-basics-in-a-weekend-glossary-and)
 - [Plotly Python Graphing Library (2020 August 27)](https://plotly.com/python/#ai_ml)
 - [Inference vs. Prediction (2020 August 27)](https://medium.com/towards-artificial-intelligence/inference-vs-prediction-6ce093214d8e)
 - [Complete Guide to Voila to Turn a Jupyter Notebook Into a Standalone Web Application (2020 August 27)](https://analyticsindiamag.com/complete-guide-to-voila-to-turn-a-jupyter-notebook-into-a-standalone-web-application/)
@@ -120,6 +121,7 @@ toc: true
 - [How To Identify The Best AI Opportunities For Your Business – In 2 Simple Steps  (2020 August 27)](https://www.linkedin.com/pulse/how-identify-best-ai-opportunities-your-business-2-simple-marr)
 - [microsoft/computervision-recipes (2020 August 27)](https://github.com/microsoft/computervision-recipes)
 - [Machine Learning India on LinkedIn: Pandas Library in 8 pages! | 20 comments (2020 August 27)](https://www.linkedin.com/posts/mlindia_pandas-library-in-8-pages-ugcPost-6704010710990553090-WkFc)
+- [Learn #MachineLearning Coding Basics in a weekend - Glossary and Mindmap (2020 August 27)](https://www.datasciencecentral.com/profiles/blogs/learn-machinelearning-coding-basics-in-a-weekend-glossary-and)
 - [Plotly Python Graphing Library (2020 August 27)](https://plotly.com/python/#ai_ml)
 - [Inference vs. Prediction (2020 August 27)](https://medium.com/towards-artificial-intelligence/inference-vs-prediction-6ce093214d8e)
 - [Complete Guide to Voila to Turn a Jupyter Notebook Into a Standalone Web Application (2020 August 27)](https://analyticsindiamag.com/complete-guide-to-voila-to-turn-a-jupyter-notebook-into-a-standalone-web-application/)
