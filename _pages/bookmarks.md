@@ -40,6 +40,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
+- [2020 August 27 - Google Colaboratory ](https://colab.research.google.com/github/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb#scrollTo=QLGiFCDqvuil)
 - [2020 August 27 - Transformer Reinforcement Learning ](https://app.wandb.ai/lvwerra/trl-showcase/reports/Transformer-Reinforcement-Learning--VmlldzoxMDY4MDI)
 - [2020 August 27 - JasonKessler/scattertext ](https://github.com/JasonKessler/scattertext)
 - [2020 August 27 - Contentyze: Generate content automatically with AI ](https://betalist.com/startups/contentyze)
