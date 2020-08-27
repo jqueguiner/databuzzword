@@ -69,6 +69,7 @@ toc: true
 
 
 ## Maths
+- [The matrix calculus you need for deep learning (2020 August 27)](https://explained.ai/matrix-calculus/index.html)
 
 
 ## Others
