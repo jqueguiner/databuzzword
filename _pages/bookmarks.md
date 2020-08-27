@@ -48,6 +48,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
+- [2020 August 28 - Karpathy's minGPT trained with PyTorch Lightning ](https://www.youtube.com/watch?v=2aJFRQ-v6K8)
 - [2020 August 28 - Adapted this awesome minGPT to use PyTorch lightning! by williamFalcon · Pull Request #14 · karpathy/minGPT ](https://github.com/karpathy/minGPT/pull/14)
 - [2020 August 27 - Introducing txtai, an AI-powered search engine built on Transformers ](https://towardsdatascience.com/introducing-txtai-an-ai-powered-search-engine-built-on-transformers-37674be252ec)
 - [2020 August 27 - Google Colaboratory ](https://colab.research.google.com/drive/1oYQ7WX9CV3sTZ31Csp8JghUxmAF_Ozro)
