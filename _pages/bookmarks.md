@@ -13,9 +13,9 @@ toc: true
 
 ### Image to Image
 - [Rewriting a Deep Generative Model (2020 August 27)](https://rewriting.csail.mit.edu/)
-- [cvg/Hierarchical-Localization](https://github.com/cvg/Hierarchical-Localization)
-- [Real-Time Head Pose Estimation in Python](https://towardsdatascience.com/real-time-head-pose-estimation-in-python-e52db1bc606a)
-- [GitHub - minivision-ai/photo2cartoon: 人像卡通化探索项目 (photo-to-cartoon translation project)](https://github.com/minivision-ai/photo2cartoon)
+- [cvg/Hierarchical-Localization (2020 August 27)](https://github.com/cvg/Hierarchical-Localization)
+- [Real-Time Head Pose Estimation in Python (2020 August 27)](https://towardsdatascience.com/real-time-head-pose-estimation-in-python-e52db1bc606a)
+- [GitHub - minivision-ai/photo2cartoon: 人像卡通化探索项目 (photo-to-cartoon translation project) (2020 August 27)](https://github.com/minivision-ai/photo2cartoon)
 
 ### Image to Text
 
@@ -67,6 +67,7 @@ toc: true
 
 
 ## Others
+- [Github Profile Readme Generator (2020 August 27)](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
 
 ## Aviation
