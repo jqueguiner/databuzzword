@@ -12,6 +12,7 @@ toc: true
 ## Image 
 
 ### Image to Image
+- [2020 August 28 - csxmli2016/DFDNet ](https://github.com/csxmli2016/DFDNet)
 - [2020 August 28 - dariopavllo/style-semantics ](https://github.com/dariopavllo/style-semantics)
 - [2020 August 27 - ExPose - EXpressive POse and Shape rEgression ](https://expose.is.tue.mpg.de/)
 - [2020 August 27 - Why I stopped using GAN — ECCV 2020 ](https://medium.com/@CVZurich/why-i-stopped-using-gan-eccv2020-d2b20dcfe1d)
