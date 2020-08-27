@@ -36,6 +36,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
+- [2020 August 27 - Google Colaboratory ](https://colab.research.google.com/drive/1Py7nyJO_sgOYf8Fh-2Dcn1JmxEJyUUor?usp=sharing)
 - [2020 August 27 - The NLP Model Forge ](https://medium.com/towards-artificial-intelligence/the-nlp-model-forge-a46faac7b5b0)
 - [2020 August 27 - nidhaloff/deep_translator ](https://github.com/nidhaloff/deep_translator)
 - [2020 August 27 - mrm8488/t5-base-finetuned-wikiSQL-sql-to-en · Hugging Face ](https://huggingface.co/mrm8488/t5-base-finetuned-wikiSQL-sql-to-en?text=My+name+is+Sarah+and+I+live+in+London)
