@@ -15,6 +15,7 @@ toc: true
 ## Image 
 
 ### Image to Image
+- [2020 August 28 - Best Practices, code samples, and documentation for Computer Vision.<a class="github-button" href="https://github.com/microsoft/computervision-recipes" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/microsoft/computervision-recipes)
 - [2020 August 28 - <a class="github-button" href="https://github.com/hojonathanho/diffusion" data-size="large" data-show-count="true" aria-label="Star">Denoising Diffusion Probabilistic Models</a>](https://github.com/hojonathanho/diffusion)]
 - [2020 August 28 - 4 Impressive GAN Libraries Every Data Scientist Should Know! ](https://www.analyticsvidhya.com/blog/2020/08/top-5-gan-libraries-you-must-know/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29)
 - [2020 August 28 - RefaceAI: Time to face it ](https://reface.ai/)
@@ -185,12 +186,11 @@ toc: true
 - [2020 August 27 - The matrix calculus you need for deep learning](https://explained.ai/matrix-calculus/index.html)
 
 ## Others
-- [2020 August 28 - <a class="github-button" href="https://github.com/wandb/awesome-dl-projects" data-size="large" data-show-count="true" aria-label="Star">This is a collection of the code that accompanies the reports in The Gallery by Weights & Biases.</a>](https://github.com/wandb/awesome-dl-projects)]
-- [2020 August 27 - <a class="github-button" href="https://github.com/junegunn/junegunn" data-size="large" data-show-count="true" aria-label="Star ntkme/github-buttons on GitHub">A command-line fuzzy finder</a>](https://github.com/junegunn/junegunn)
+- [2020 August 28 - This is a collection of the code that accompanies the reports in The Gallery by Weights & Biases.<a class="github-button" href="https://github.com/wandb/awesome-dl-projects" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/wandb/awesome-dl-projects)
+- [2020 August 27 - A command-line fuzzy finder<a class="github-button" href="https://github.com/junegunn/junegunn" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/junegunn/junegunn)
 - [2020 August 27 - Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
 {% twitter https://twitter.com/jeremyphoward/status/1289982339829792769?s=12 %}
 - [2020 August 27 - Isoflow](https://isoflow.io/)
-- [2020 August 27 - wandb/awesome-dl-projects](https://github.com/wandb/awesome-dl-projects)
 {% twitter https://twitter.com/viglovikov/status/1296292326478761984?s=12 %}
 - [2020 August 27 - 4 Hard-To-Ignore Reasons Why You Should Use AI To Make More Intelligent Products](https://www.linkedin.com/pulse/4-hard-to-ignore-reasons-why-you-should-use-ai-make-more-bernard-marr)
 - [2020 August 27 - Clothing Dataset: Call for Action](https://medium.com/data-science-insider/clothing-dataset-call-for-action-3cad023246c1)
