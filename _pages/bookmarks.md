@@ -232,6 +232,7 @@ toc: true
 - [2020 August 27 - The matrix calculus you need for deep learning](https://explained.ai/matrix-calculus/index.html)
 
 ## Others
+- [2020 August 28 - deepkapha.ai posted on LinkedIn ](https://www.linkedin.com/posts/digitalis-kapha-b-v-_how-ai-has-evolved-in-the-last-70-years-activity-6704897009343705088-QGgA)
 - [2020 August 28 - This is a collection of the code that accompanies the reports in The Gallery by Weights & Biases.<a class="github-button" href="https://github.com/wandb/awesome-dl-projects" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/wandb/awesome-dl-projects)
 - [2020 August 27 - A command-line fuzzy finder<a class="github-button" href="https://github.com/junegunn/junegunn" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/junegunn/junegunn)
 - [2020 August 27 - Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
