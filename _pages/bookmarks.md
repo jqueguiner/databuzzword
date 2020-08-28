@@ -73,6 +73,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
+- [2020 August 28 - Relation extraction for protein to protein interactions to extraction strongly typed PPI relations.. My research topic.. So work in progress<a class="github-button" href="https://github.com/elangovana/PPI-typed-relation-extractor" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/elangovana/PPI-typed-relation-extractor)
 - [2020 August 28 - The Al Dente Neural Net Part I](https://colab.research.google.com/drive/1oYQ7WX9CV3sTZ31Csp8JghUxmAF_Ozro?) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oYQ7WX9CV3sTZ31Csp8JghUxmAF_Ozro?)
 - [2020 August 28 - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training<a class="github-button" href="https://github.com/karpathy/minGPT" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/karpathy/minGPT)
 - [2020 August 28 - Large-scale pretraining for dialogue<a class="github-button" href="https://github.com/microsoft/DialoGPT" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/microsoft/DialoGPT)
