@@ -184,7 +184,7 @@ toc: true
 - [2020 August 27 - The matrix calculus you need for deep learning](https://explained.ai/matrix-calculus/index.html)
 
 ## Others
-- <a class="github-button" href="https://github.com/junegunn/fzf" data-size="large" data-show-count="true" aria-label="Star ntkme/github-buttons on GitHub">2020 August 27 - A command-line fuzzy finder</a>
+- [2020 August 27 - <a class="github-button" href="https://github.com/junegunn/junegunn" data-size="large" data-show-count="true" aria-label="Star ntkme/github-buttons on GitHub">A command-line fuzzy finder</a>](https://github.com/junegunn/junegunn)
 - [2020 August 27 - Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
 {% twitter https://twitter.com/jeremyphoward/status/1289982339829792769?s=12 %}
 - [2020 August 27 - Isoflow](https://isoflow.io/)
