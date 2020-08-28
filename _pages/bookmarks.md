@@ -53,6 +53,7 @@ toc: true
 - [2020 August 27 - Real-Time Head Pose Estimation in Python)](https://towardsdatascience.com/real-time-head-pose-estimation-in-python-e52db1bc606a)
 
 ### Image to Text
+- 2020 August 28 {% twitter https://twitter.com/baiduresearch/status/1295760376835891200?s=12 %}
 - 2020 August 28 {% twitter https://twitter.com/dlarlus/status/1291294219697557504?s=12 %}
 - [2020 August 28 - Object detection and instance segmentation toolkit based on PaddlePaddle.<a class="github-button" href="https://github.com/PaddlePaddle/PaddleDetection" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/PaddlePaddle/PaddleDetection)
 - [2020 August 28 - Some experiments with object detection in PyTorch<a class="github-button" href="https://github.com/ChristianMarzahl/ObjectDetection" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/ChristianMarzahl/ObjectDetection)
