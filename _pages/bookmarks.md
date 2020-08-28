@@ -232,6 +232,7 @@ toc: true
 - [2020 August 27 - The matrix calculus you need for deep learning](https://explained.ai/matrix-calculus/index.html)
 
 ## Others
+- [2020 August 28 - L'intelligence artificielle, qu'est ce que c'est ? Data Insights#1 ](https://m.youtube.com/watch?feature=youtu.be&v=r2M8pgrf3T0)
 - [2020 August 28 - Non, le CLOUD Act n'est pas ce que vous croyez. Vraiment pas. ](https://francoischarlet.ch/2020/cloud-act-pas-ce-que-vous-croyez/)
 - [2020 August 28 - deepkapha.ai posted on LinkedIn ](https://www.linkedin.com/posts/digitalis-kapha-b-v-_how-ai-has-evolved-in-the-last-70-years-activity-6704897009343705088-QGgA)
 - [2020 August 28 - This is a collection of the code that accompanies the reports in The Gallery by Weights & Biases.<a class="github-button" href="https://github.com/wandb/awesome-dl-projects" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/wandb/awesome-dl-projects)
