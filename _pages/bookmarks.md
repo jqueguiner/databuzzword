@@ -62,6 +62,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
+- [2020 August 28 - Zero-shot Emoji Classifier 😊, 🙁, 😡, 🤔](https://colab.research.google.com/drive/1uNYVIFBTphidKWBZdF_6M2nMDAWuhatD?usp=sharing) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uNYVIFBTphidKWBZdF_6M2nMDAWuhatD?usp=sharing)
 - [2020 August 28 - Google Colaboratory ](https://colab.research.google.com/drive/1uNYVIFBTphidKWBZdF_6M2nMDAWuhatD?usp=sharing)
 - [2020 August 28 - Interactive Visualisation - whatlies ](https://rasahq.github.io/whatlies/tutorial/embeddingsets/)
 - [2020 August 28 - Let's build a Full-Text Search engine - Artem Krylysov ](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/)
