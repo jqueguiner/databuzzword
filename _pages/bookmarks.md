@@ -15,6 +15,7 @@ toc: true
 ## Image 
 
 ### Image to Image
+- [2020 August 28 - Weights & Biases with fastai](https://colab.research.google.com/drive/1IWrhwcJoncCKHm6VXsNwOr9Yukhz3B49?usp=sharing) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IWrhwcJoncCKHm6VXsNwOr9Yukhz3B49?usp=sharing)
 - [2020 August 28 - A collection of pre-trained StyleGAN 2 models to download<a class="github-button" href="https://github.com/justinpinkney/awesome-pretrained-stylegan2" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
 - [2020 August 28 - The source code of CVPR19 'Im2Pencil: Controllable Pencil Illustration from Photographs'.<a class="github-button" href="https://github.com/Yijunmaverick/Im2Pencil" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/Yijunmaverick/Im2Pencil)
 - [2020 August 28 - ExPose - EXpressive POse and Shape rEgression ](https://expose.is.tue.mpg.de/)
