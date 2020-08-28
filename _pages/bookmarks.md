@@ -49,8 +49,9 @@ toc: true
 - [2020 August 27 - Rewriting a Deep Generative Model](https://rewriting.csail.mit.edu/)
 - [2020 August 27 - cvg/Hierarchical-Localization](https://github.com/cvg/Hierarchical-Localization)
 - [2020 August 27 - Real-Time Head Pose Estimation in Python)](https://towardsdatascience.com/real-time-head-pose-estimation-in-python-e52db1bc606a)
-- [2020 August 27 - GitHub - minivision-ai/photo2cartoon: 人像卡通化探索项目 (photo-to-cartoon translation project)](https://github.com/minivision-ai/photo2cartoon)
+
 ### Image to Text
+- [2020 August 28 - Some experiments with object detection in PyTorch<a class="github-button" href="https://github.com/ChristianMarzahl/ObjectDetection" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/ChristianMarzahl/ObjectDetection)
 - [2020 August 28 - Mersive-Technologies/yolov3 ](https://github.com/Mersive-Technologies/yolov3/blob/master/fastai.ipynb)
 - [2020 August 28 - Training YOLOv3 : Deep Learning based Custom Object Detector | Learn OpenCV ](https://www.learnopencv.com/training-yolov3-deep-learning-based-custom-object-detector/amp/)
 - [2020 August 28 - Azure/MachineLearningNotebooks ](https://github.com/Azure/MachineLearningNotebooks/blob/master/how-to-use-azureml/deployment/onnx/onnx-inference-facial-expression-recognition-deploy.ipynb)
