@@ -51,6 +51,7 @@ toc: true
 - [2020 August 27 - Real-Time Head Pose Estimation in Python)](https://towardsdatascience.com/real-time-head-pose-estimation-in-python-e52db1bc606a)
 
 ### Image to Text
+- [2020 August 28 - Object detection and instance segmentation toolkit based on PaddlePaddle.<a class="github-button" href="https://github.com/PaddlePaddle/PaddleDetection" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/PaddlePaddle/PaddleDetection)
 - [2020 August 28 - Some experiments with object detection in PyTorch<a class="github-button" href="https://github.com/ChristianMarzahl/ObjectDetection" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/ChristianMarzahl/ObjectDetection)
 - [2020 August 28 - Mersive-Technologies/yolov3 ](https://github.com/Mersive-Technologies/yolov3/blob/master/fastai.ipynb)
 - [2020 August 28 - Training YOLOv3 : Deep Learning based Custom Object Detector | Learn OpenCV ](https://www.learnopencv.com/training-yolov3-deep-learning-based-custom-object-detector/amp/)
