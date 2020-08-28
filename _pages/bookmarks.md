@@ -16,7 +16,7 @@ toc: true
 
 ### Image to Image
 - [2020 August 28 - Best Practices, code samples, and documentation for Computer Vision.<a class="github-button" href="https://github.com/microsoft/computervision-recipes" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/microsoft/computervision-recipes)
-- [2020 August 28 - <a class="github-button" href="https://github.com/hojonathanho/diffusion" data-size="large" data-show-count="true" aria-label="Star">Denoising Diffusion Probabilistic Models</a>](https://github.com/hojonathanho/diffusion)]
+- [2020 August 28 - Denoising Diffusion Probabilistic Models<a class="github-button" href="https://github.com/hojonathanho/diffusion" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/hojonathanho/diffusion)
 - [2020 August 28 - 4 Impressive GAN Libraries Every Data Scientist Should Know! ](https://www.analyticsvidhya.com/blog/2020/08/top-5-gan-libraries-you-must-know/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29)
 - [2020 August 28 - RefaceAI: Time to face it ](https://reface.ai/)
 - [2020 August 28 - czczup/block-shuffle ](https://github.com/czczup/block-shuffle)
