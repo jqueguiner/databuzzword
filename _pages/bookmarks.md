@@ -3,14 +3,11 @@ layout: page
 title: Bookmarks
 permalink: /bookmarks/
 toc: true
----
 1. TOC
 {:toc}
 
 # Bookmarks
-
 ## Image 
-
 ### Image to Image
 - [2020 August 28 - 4 Impressive GAN Libraries Every Data Scientist Should Know! ](https://www.analyticsvidhya.com/blog/2020/08/top-5-gan-libraries-you-must-know/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29)
 - [2020 August 28 - RefaceAI: Time to face it ](https://reface.ai/)
@@ -38,7 +35,6 @@ toc: true
 - [2020 August 27 - cvg/Hierarchical-Localization](https://github.com/cvg/Hierarchical-Localization)
 - [2020 August 27 - Real-Time Head Pose Estimation in Python)](https://towardsdatascience.com/real-time-head-pose-estimation-in-python-e52db1bc606a)
 - [2020 August 27 - GitHub - minivision-ai/photo2cartoon: 人像卡通化探索项目 (photo-to-cartoon translation project)](https://github.com/minivision-ai/photo2cartoon)
-
 ### Image to Text
 - [2020 August 28 - Mersive-Technologies/yolov3 ](https://github.com/Mersive-Technologies/yolov3/blob/master/fastai.ipynb)
 - [2020 August 28 - Training YOLOv3 : Deep Learning based Custom Object Detector | Learn OpenCV ](https://www.learnopencv.com/training-yolov3-deep-learning-based-custom-object-detector/amp/)
@@ -47,15 +43,10 @@ toc: true
 - [2020 August 27 - PaddlePaddle/PaddleDetection ](https://github.com/PaddlePaddle/PaddleDetection/blob/release/0.4/configs/ppyolo/README.md)
 - [2020 August 27 - Visualize, track & compare Fastai models ](https://app.wandb.ai/borisd13/demo_config/reports/Compare-and-monitor-fastai-models--Vmlldzo4MzAyNA)
 - [2020 August 27 - How does a Real-Time Face Recognition work with OpenCV? ](https://medium.com/eazy-ciphers/how-does-a-real-time-face-recognition-work-with-opencv-ddd4c1cd4b43)
-
 ### Image to Sound
-
 ### Image to Video
-
 ## Text
-
 ### Text to Image
-
 ### Text to Text
 - [2020 August 28 - Google Colaboratory ](https://colab.research.google.com/drive/1uNYVIFBTphidKWBZdF_6M2nMDAWuhatD?usp=sharing)
 - [2020 August 28 - Interactive Visualisation - whatlies ](https://rasahq.github.io/whatlies/tutorial/embeddingsets/)
@@ -102,40 +93,21 @@ toc: true
 - [2020 August 27 - Adapting Event Extractors to Medical Data: Bridging the Covariate Shift ](https://arxiv.org/abs/2008.09266)
 - [2020 August 27 - RasaHQ/whatlies ](https://github.com/RasaHQ/whatlies)
 - [2020 August 27 - NLP with Friends, featured friend: Nitika Mathur ](https://www.eventbrite.co.uk/e/nlp-with-friends-featured-friend-nitika-mathur-tickets-117606966603)
-
 ### Text to Sound
 - [2020 August 28 - Creating Robust Neural Speech Synthesis with ForwardTacotron | NVIDIA Developer Blog ](https://developer.nvidia.com/blog/creating-robust-neural-speech-synthesis-with-forwardtacotron/)
 - [2020 August 28 - Tomiinek/Multilingual_Text_to_Speech ](https://github.com/Tomiinek/Multilingual_Text_to_Speech)
-
 ### Text to Video
-
-
 ## Sound
-
 ### Sound to Image
-
 ### Sound to Text
-
 ### Sound to Sound
 - [2020 August 27 - acheamponge/Bundy-ML ](https://github.com/acheamponge/Bundy-ML)
 - [2020 August 27 - hooligan_demo ](https://resemble-ai.github.io/hooligan_demo/)
-
 ### Sound to Video
-
-
 ## Video
-
 ### Video to Image
-
 ### Video to Text
-
 ### Video to Sound
-
-### Sound to Sound
-- [2020 August 27 - acheamponge/Bundy-ML ](https://github.com/acheamponge/Bundy-ML)
-- [2020 August 27 - hooligan_demo ](https://resemble-ai.github.io/hooligan_demo/)
-
-
 ## Machine Learning
 - %s {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
 - [http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf (2020 August 28)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
@@ -153,57 +125,9 @@ toc: true
 - [2020 August 27 - DEEP LEARNING · Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
 - [2020 August 27 - ivan-bilan/The-NLP-Pandect](https://github.com/ivan-bilan/The-NLP-Pandect)
 - [2020 August 27 - What I learned from looking at 200 machine learning tools - KDnuggets](https://www.kdnuggets.com/2020/07/200-machine-learning-tools.html)
-- %s {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
-- [http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf (2020 August 28)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
-- [2020 August 27 - Bayes’ Theorem is Actually an Intuitive Fraction](https://towardsdatascience.com/bayes-theorem-is-actually-an-intuitive-fraction-5f2803998006)
-- [2020 August 27 - 9 Tips For Training Lightning Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
-- [2020 August 27 - How do A/B tests work?](https://towardsdatascience.com/how-do-a-b-tests-work-996842ce6fc0?source=social.linkedin&_nonce=AtWXyW1N)
-- [2020 August 27 - 12 Steps to Applied AI](https://medium.com/swlh/12-steps-to-applied-ai-2fdad7fdcdf3)
-- [2020 August 27 - Home](https://airflow.apache.org/)
-- [2020 August 27 - alessandrobessi/colab-shell](https://github.com/alessandrobessi/colab-shell)
-- [2020 August 27 - Building Neural Networks with Python Code and Math in Detail — II](https://medium.com/towards-artificial-intelligence/building-neural-networks-with-python-code-and-math-in-detail-ii-bbe8accbf3d1)
-- [2020 August 27 - Neural Networks from Scratch with Python Code and Math in Detail— I](https://towardsai.net/p/machine-learning/building-neural-networks-from-scratch-with-python-code-and-math-in-detail-i-536fae5d7bbf)
-- [2020 August 27 - sdispater/pendulum](https://github.com/sdispater/pendulum)
-- [2020 August 27 - Outlier detection with time-series data mining](https://www.datasciencecentral.com/profiles/blogs/outlier-detection-with-time-series-data-mining)
-- [2020 August 27 - PyTorch Lightning MasterClass](https://m.youtube.com/playlist?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
-- [2020 August 27 - DEEP LEARNING · Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
-- [2020 August 27 - ivan-bilan/The-NLP-Pandect](https://github.com/ivan-bilan/The-NLP-Pandect)
 - [2020 August 27 - Understanding Docker: part 1 – Retrieve & Pull images](https://dev.to/aurelievache/understanding-docker-part-1-retrieve-pull-images-3ccn)
 - [2020 August 27 - Five books every data scientist should read that are not about data science](https://towardsdatascience.com/five-books-every-data-scientist-should-read-that-are-not-about-data-science-f7335fb1f84f)
 - [2020 August 27 - Machine Learning Tokyo](https://github.com/Machine-Learning-Tokyo)
-- %s {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
-- [http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf (2020 August 28)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
-- [2020 August 27 - Bayes’ Theorem is Actually an Intuitive Fraction](https://towardsdatascience.com/bayes-theorem-is-actually-an-intuitive-fraction-5f2803998006)
-- [2020 August 27 - 9 Tips For Training Lightning Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
-- [2020 August 27 - How do A/B tests work?](https://towardsdatascience.com/how-do-a-b-tests-work-996842ce6fc0?source=social.linkedin&_nonce=AtWXyW1N)
-- [2020 August 27 - 12 Steps to Applied AI](https://medium.com/swlh/12-steps-to-applied-ai-2fdad7fdcdf3)
-- [2020 August 27 - Home](https://airflow.apache.org/)
-- [2020 August 27 - alessandrobessi/colab-shell](https://github.com/alessandrobessi/colab-shell)
-- [2020 August 27 - Building Neural Networks with Python Code and Math in Detail — II](https://medium.com/towards-artificial-intelligence/building-neural-networks-with-python-code-and-math-in-detail-ii-bbe8accbf3d1)
-- [2020 August 27 - Neural Networks from Scratch with Python Code and Math in Detail— I](https://towardsai.net/p/machine-learning/building-neural-networks-from-scratch-with-python-code-and-math-in-detail-i-536fae5d7bbf)
-- [2020 August 27 - sdispater/pendulum](https://github.com/sdispater/pendulum)
-- [2020 August 27 - Outlier detection with time-series data mining](https://www.datasciencecentral.com/profiles/blogs/outlier-detection-with-time-series-data-mining)
-- [2020 August 27 - PyTorch Lightning MasterClass](https://m.youtube.com/playlist?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
-- [2020 August 27 - DEEP LEARNING · Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
-- [2020 August 27 - ivan-bilan/The-NLP-Pandect](https://github.com/ivan-bilan/The-NLP-Pandect)
-- [2020 August 27 - What I learned from looking at 200 machine learning tools - KDnuggets](https://www.kdnuggets.com/2020/07/200-machine-learning-tools.html)
-- %s {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
-- [http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf (2020 August 28)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
-- [2020 August 27 - Bayes’ Theorem is Actually an Intuitive Fraction](https://towardsdatascience.com/bayes-theorem-is-actually-an-intuitive-fraction-5f2803998006)
-- [2020 August 27 - 9 Tips For Training Lightning Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
-- [2020 August 27 - How do A/B tests work?](https://towardsdatascience.com/how-do-a-b-tests-work-996842ce6fc0?source=social.linkedin&_nonce=AtWXyW1N)
-- [2020 August 27 - 12 Steps to Applied AI](https://medium.com/swlh/12-steps-to-applied-ai-2fdad7fdcdf3)
-- [2020 August 27 - Home](https://airflow.apache.org/)
-- [2020 August 27 - alessandrobessi/colab-shell](https://github.com/alessandrobessi/colab-shell)
-- [2020 August 27 - Building Neural Networks with Python Code and Math in Detail — II](https://medium.com/towards-artificial-intelligence/building-neural-networks-with-python-code-and-math-in-detail-ii-bbe8accbf3d1)
-- [2020 August 27 - Neural Networks from Scratch with Python Code and Math in Detail— I](https://towardsai.net/p/machine-learning/building-neural-networks-from-scratch-with-python-code-and-math-in-detail-i-536fae5d7bbf)
-- [2020 August 27 - sdispater/pendulum](https://github.com/sdispater/pendulum)
-- [2020 August 27 - Outlier detection with time-series data mining](https://www.datasciencecentral.com/profiles/blogs/outlier-detection-with-time-series-data-mining)
-- [2020 August 27 - PyTorch Lightning MasterClass](https://m.youtube.com/playlist?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
-- [2020 August 27 - DEEP LEARNING · Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
-- [2020 August 27 - ivan-bilan/The-NLP-Pandect](https://github.com/ivan-bilan/The-NLP-Pandect)
-- [2020 August 27 - Understanding Docker: part 1 – Retrieve & Pull images](https://dev.to/aurelievache/understanding-docker-part-1-retrieve-pull-images-3ccn)
-- [2020 August 27 - Five books every data scientist should read that are not about data science](https://towardsdatascience.com/five-books-every-data-scientist-should-read-that-are-not-about-data-science-f7335fb1f84f)
 - [2020 August 27 - GitHub is the best AutoML you will ever need](https://towardsdatascience.com/github-is-the-best-automl-you-will-ever-need-5331f671f105)
 - [2020 August 27 - Time Series Forecasting Course - Waitlist](https://mailchi.mp/business-science/time-series-forecasting-course-coming-soon)
 - [2020 August 27 - tensorflow/lucid](https://github.com/tensorflow/lucid)
@@ -231,105 +155,10 @@ toc: true
 - [2020 August 27 - Introduction to Causal Inference](https://www.bradyneal.com/causal-inference-course)
 - [2020 August 27 - How Docker Can Help You Become A More Effective Data Scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
 - [2020 August 27 - Explainable AI vs Explaining AI — Part 1](https://towardsdatascience.com/explainable-ai-vs-explaining-ai-part-1-d39ea5053347)- [Bayes’ Theorem is Actually an Intuitive Fraction](https://towardsdatascience.com/bayes-theorem-is-actually-an-intuitive-fraction-5f2803998006)
-- [2020 August 27 - 9 Tips For Training Lightning Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
-- [2020 August 27 - How do A/B tests work?](https://towardsdatascience.com/how-do-a-b-tests-work-996842ce6fc0?source=social.linkedin&_nonce=AtWXyW1N)
-- [2020 August 27 - 12 Steps to Applied AI](https://medium.com/swlh/12-steps-to-applied-ai-2fdad7fdcdf3)
-- [2020 August 27 - Home](https://airflow.apache.org/)
-- [2020 August 27 - alessandrobessi/colab-shell](https://github.com/alessandrobessi/colab-shell)
-- [2020 August 27 - Building Neural Networks with Python Code and Math in Detail — II](https://medium.com/towards-artificial-intelligence/building-neural-networks-with-python-code-and-math-in-detail-ii-bbe8accbf3d1)
-- [2020 August 27 - Neural Networks from Scratch with Python Code and Math in Detail— I](https://towardsai.net/p/machine-learning/building-neural-networks-from-scratch-with-python-code-and-math-in-detail-i-536fae5d7bbf)
-- [2020 August 27 - sdispater/pendulum](https://github.com/sdispater/pendulum)
-- [2020 August 27 - Outlier detection with time-series data mining](https://www.datasciencecentral.com/profiles/blogs/outlier-detection-with-time-series-data-mining)
-- [2020 August 27 - PyTorch Lightning MasterClass](https://m.youtube.com/playlist?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
-- [2020 August 27 - DEEP LEARNING · Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
-- [2020 August 27 - ivan-bilan/The-NLP-Pandect](https://github.com/ivan-bilan/The-NLP-Pandect)
-- [2020 August 27 - What I learned from looking at 200 machine learning tools - KDnuggets](https://www.kdnuggets.com/2020/07/200-machine-learning-tools.html)
-- %s {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
-- [http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf (2020 August 28)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
-- [2020 August 27 - Bayes’ Theorem is Actually an Intuitive Fraction](https://towardsdatascience.com/bayes-theorem-is-actually-an-intuitive-fraction-5f2803998006)
-- [2020 August 27 - 9 Tips For Training Lightning Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
-- [2020 August 27 - How do A/B tests work?](https://towardsdatascience.com/how-do-a-b-tests-work-996842ce6fc0?source=social.linkedin&_nonce=AtWXyW1N)
-- [2020 August 27 - 12 Steps to Applied AI](https://medium.com/swlh/12-steps-to-applied-ai-2fdad7fdcdf3)
-- [2020 August 27 - Home](https://airflow.apache.org/)
-- [2020 August 27 - alessandrobessi/colab-shell](https://github.com/alessandrobessi/colab-shell)
-- [2020 August 27 - Building Neural Networks with Python Code and Math in Detail — II](https://medium.com/towards-artificial-intelligence/building-neural-networks-with-python-code-and-math-in-detail-ii-bbe8accbf3d1)
-- [2020 August 27 - Neural Networks from Scratch with Python Code and Math in Detail— I](https://towardsai.net/p/machine-learning/building-neural-networks-from-scratch-with-python-code-and-math-in-detail-i-536fae5d7bbf)
-- [2020 August 27 - sdispater/pendulum](https://github.com/sdispater/pendulum)
-- [2020 August 27 - Outlier detection with time-series data mining](https://www.datasciencecentral.com/profiles/blogs/outlier-detection-with-time-series-data-mining)
-- [2020 August 27 - PyTorch Lightning MasterClass](https://m.youtube.com/playlist?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
-- [2020 August 27 - DEEP LEARNING · Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
-- [2020 August 27 - ivan-bilan/The-NLP-Pandect](https://github.com/ivan-bilan/The-NLP-Pandect)
-- [2020 August 27 - Understanding Docker: part 1 – Retrieve & Pull images](https://dev.to/aurelievache/understanding-docker-part-1-retrieve-pull-images-3ccn)
-- [2020 August 27 - Five books every data scientist should read that are not about data science](https://towardsdatascience.com/five-books-every-data-scientist-should-read-that-are-not-about-data-science-f7335fb1f84f)
-- [2020 August 27 - Machine Learning Tokyo](https://github.com/Machine-Learning-Tokyo)
-- %s {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
-- [http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf (2020 August 28)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
-- [2020 August 27 - Bayes’ Theorem is Actually an Intuitive Fraction](https://towardsdatascience.com/bayes-theorem-is-actually-an-intuitive-fraction-5f2803998006)
-- [2020 August 27 - 9 Tips For Training Lightning Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
-- [2020 August 27 - How do A/B tests work?](https://towardsdatascience.com/how-do-a-b-tests-work-996842ce6fc0?source=social.linkedin&_nonce=AtWXyW1N)
-- [2020 August 27 - 12 Steps to Applied AI](https://medium.com/swlh/12-steps-to-applied-ai-2fdad7fdcdf3)
-- [2020 August 27 - Home](https://airflow.apache.org/)
-- [2020 August 27 - alessandrobessi/colab-shell](https://github.com/alessandrobessi/colab-shell)
-- [2020 August 27 - Building Neural Networks with Python Code and Math in Detail — II](https://medium.com/towards-artificial-intelligence/building-neural-networks-with-python-code-and-math-in-detail-ii-bbe8accbf3d1)
-- [2020 August 27 - Neural Networks from Scratch with Python Code and Math in Detail— I](https://towardsai.net/p/machine-learning/building-neural-networks-from-scratch-with-python-code-and-math-in-detail-i-536fae5d7bbf)
-- [2020 August 27 - sdispater/pendulum](https://github.com/sdispater/pendulum)
-- [2020 August 27 - Outlier detection with time-series data mining](https://www.datasciencecentral.com/profiles/blogs/outlier-detection-with-time-series-data-mining)
-- [2020 August 27 - PyTorch Lightning MasterClass](https://m.youtube.com/playlist?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
-- [2020 August 27 - DEEP LEARNING · Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
-- [2020 August 27 - ivan-bilan/The-NLP-Pandect](https://github.com/ivan-bilan/The-NLP-Pandect)
-- [2020 August 27 - What I learned from looking at 200 machine learning tools - KDnuggets](https://www.kdnuggets.com/2020/07/200-machine-learning-tools.html)
-- %s {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
-- [http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf (2020 August 28)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
-- [2020 August 27 - Bayes’ Theorem is Actually an Intuitive Fraction](https://towardsdatascience.com/bayes-theorem-is-actually-an-intuitive-fraction-5f2803998006)
-- [2020 August 27 - 9 Tips For Training Lightning Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
-- [2020 August 27 - How do A/B tests work?](https://towardsdatascience.com/how-do-a-b-tests-work-996842ce6fc0?source=social.linkedin&_nonce=AtWXyW1N)
-- [2020 August 27 - 12 Steps to Applied AI](https://medium.com/swlh/12-steps-to-applied-ai-2fdad7fdcdf3)
-- [2020 August 27 - Home](https://airflow.apache.org/)
-- [2020 August 27 - alessandrobessi/colab-shell](https://github.com/alessandrobessi/colab-shell)
-- [2020 August 27 - Building Neural Networks with Python Code and Math in Detail — II](https://medium.com/towards-artificial-intelligence/building-neural-networks-with-python-code-and-math-in-detail-ii-bbe8accbf3d1)
-- [2020 August 27 - Neural Networks from Scratch with Python Code and Math in Detail— I](https://towardsai.net/p/machine-learning/building-neural-networks-from-scratch-with-python-code-and-math-in-detail-i-536fae5d7bbf)
-- [2020 August 27 - sdispater/pendulum](https://github.com/sdispater/pendulum)
-- [2020 August 27 - Outlier detection with time-series data mining](https://www.datasciencecentral.com/profiles/blogs/outlier-detection-with-time-series-data-mining)
-- [2020 August 27 - PyTorch Lightning MasterClass](https://m.youtube.com/playlist?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
-- [2020 August 27 - DEEP LEARNING · Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
-- [2020 August 27 - ivan-bilan/The-NLP-Pandect](https://github.com/ivan-bilan/The-NLP-Pandect)
-- [2020 August 27 - Understanding Docker: part 1 – Retrieve & Pull images](https://dev.to/aurelievache/understanding-docker-part-1-retrieve-pull-images-3ccn)
-- [2020 August 27 - Five books every data scientist should read that are not about data science](https://towardsdatascience.com/five-books-every-data-scientist-should-read-that-are-not-about-data-science-f7335fb1f84f)
-- [2020 August 27 - GitHub is the best AutoML you will ever need](https://towardsdatascience.com/github-is-the-best-automl-you-will-ever-need-5331f671f105)
-- [2020 August 27 - Time Series Forecasting Course - Waitlist](https://mailchi.mp/business-science/time-series-forecasting-course-coming-soon)
-- [2020 August 27 - tensorflow/lucid](https://github.com/tensorflow/lucid)
-- [2020 August 27 - If I had to start learning Data Science again, how would I do it? - KDnuggets](https://www.kdnuggets.com/2020/08/start-learning-data-science-again.html)
-- [2020 August 27 - Announcing the Consortium for Python Data API Standards](https://data-apis.org/blog/announcing_the_consortium/)
-- [2020 August 27 - Mind-the-Pineapple/Autoregressive-models](https://github.com/Mind-the-Pineapple/Autoregressive-models)
-- [2020 August 27 - Release Recommenders 2020.8 · microsoft/recommenders](https://github.com/microsoft/recommenders/releases/tag/2020.8)
-- [2020 August 27 - Algorithms From Scratch: K-Nearest Neighbors](https://towardsdatascience.com/algorithms-from-scratch-k-nearest-neighbors-fe19b431a57)
-- [2020 August 27 - Docker For Data Scientists](https://m.youtube.com/watch?v=0qG_0CPQhpg)
-- [2020 August 27 - Visualize, track & compare Fastai models](https://app.wandb.ai/borisd13/demo_config/reports/Compare-and-monitor-fastai-models--Vmlldzo4MzAyNA)
-- [2020 August 27 - Contents](https://www.fast.ai/topics/)
-- [2020 August 27 - Practical Deep Learning for Coders](https://course.fast.ai)
-- [2020 August 27 - StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
-- [2020 August 27 - Data Science Courses](https://m.youtube.com/channel/UCKJNzy_GuvX3SAg3ipaGa8A)
-- [2020 August 27 - Dive into Deep Learning — Dive into Deep Learning 0.14.3 documentation](https://d2l.ai/)
-- [2020 August 27 - Keras documentation: Code examples](https://keras.io/examples/)
-- [2020 August 27 - Learn #MachineLearning Coding Basics in a weekend - Glossary and Mindmap](https://www.datasciencecentral.com/profiles/blogs/learn-machinelearning-coding-basics-in-a-weekend-glossary-and)
-- [2020 August 27 - Plotly Python Graphing Library](https://plotly.com/python/#ai_ml)
-- [2020 August 27 - Inference vs. Prediction](https://medium.com/towards-artificial-intelligence/inference-vs-prediction-6ce093214d8e)
-- [2020 August 27 - Complete Guide to Voila to Turn a Jupyter Notebook Into a Standalone Web Application](https://analyticsindiamag.com/complete-guide-to-voila-to-turn-a-jupyter-notebook-into-a-standalone-web-application/)
-- [2020 August 27 - Teaching - Afshine Amidi](https://www.mit.edu/~amidi/teaching/data-science-tools/)
-- [2020 August 27 - Neuraxio/Neuraxle](https://github.com/Neuraxio/Neuraxle)
-- [2020 August 27 - justmarkham/scikit-learn-tips](https://github.com/justmarkham/scikit-learn-tips)
-- [2020 August 27 - Shivam Kotwalia posted on LinkedIn](https://www.linkedin.com/posts/shivamkotwalia_machinelearning-artificialintelligence-madewithml-activity-6704073957202518016-7cuF)
-- [2020 August 27 - Introduction to Causal Inference](https://www.bradyneal.com/causal-inference-course)
-- [2020 August 27 - How Docker Can Help You Become A More Effective Data Scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
 - [2020 August 27 - Explainable AI vs Explaining AI — Part 1](https://towardsdatascience.com/explainable-ai-vs-explaining-ai-part-1-d39ea5053347)
-
-
 ## Quantum Computing
-
-
 ## Maths
 - [2020 August 27 - The matrix calculus you need for deep learning](https://explained.ai/matrix-calculus/index.html)
-
 ## Others
 - [2020 August 27 - junegunn/fzf](https://github.com/junegunn/fzf)
 - [2020 August 27 - Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
@@ -351,99 +180,7 @@ toc: true
 - [2020 August 27 - Machine Learning India on LinkedIn: Pandas Library in 8 pages! | 20 comments](https://www.linkedin.com/posts/mlindia_pandas-library-in-8-pages-ugcPost-6704010710990553090-WkFc)
 - 2020 August 28 {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
 - [2020 August 28 - Bishop - Pattern Recognition And Machine Learning - Springer 2006](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
-- [2020 August 27 - Bayes’ Theorem is Actually an Intuitive Fraction](https://towardsdatascience.com/bayes-theorem-is-actually-an-intuitive-fraction-5f2803998006)
-- [2020 August 27 - 9 Tips For Training Lightning Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
-- [2020 August 27 - How do A/B tests work?](https://towardsdatascience.com/how-do-a-b-tests-work-996842ce6fc0?source=social.linkedin&_nonce=AtWXyW1N)
-- [2020 August 27 - 12 Steps to Applied AI](https://medium.com/swlh/12-steps-to-applied-ai-2fdad7fdcdf3)
-- [2020 August 27 - Home](https://airflow.apache.org/)
-- [2020 August 27 - alessandrobessi/colab-shell](https://github.com/alessandrobessi/colab-shell)
-- [2020 August 27 - Building Neural Networks with Python Code and Math in Detail — II](https://medium.com/towards-artificial-intelligence/building-neural-networks-with-python-code-and-math-in-detail-ii-bbe8accbf3d1)
-- [2020 August 27 - Neural Networks from Scratch with Python Code and Math in Detail— I](https://towardsai.net/p/machine-learning/building-neural-networks-from-scratch-with-python-code-and-math-in-detail-i-536fae5d7bbf)
-- [2020 August 27 - sdispater/pendulum](https://github.com/sdispater/pendulum)
-- [2020 August 27 - Outlier detection with time-series data mining](https://www.datasciencecentral.com/profiles/blogs/outlier-detection-with-time-series-data-mining)
-- [2020 August 27 - PyTorch Lightning MasterClass](https://m.youtube.com/playlist?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
-- [2020 August 27 - DEEP LEARNING · Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
-- [2020 August 27 - ivan-bilan/The-NLP-Pandect](https://github.com/ivan-bilan/The-NLP-Pandect)
-- [2020 August 27 - What I learned from looking at 200 machine learning tools - KDnuggets](https://www.kdnuggets.com/2020/07/200-machine-learning-tools.html)
-- %s {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
-- [http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf (2020 August 28)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
-- [2020 August 27 - Bayes’ Theorem is Actually an Intuitive Fraction](https://towardsdatascience.com/bayes-theorem-is-actually-an-intuitive-fraction-5f2803998006)
-- [2020 August 27 - 9 Tips For Training Lightning Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
-- [2020 August 27 - How do A/B tests work?](https://towardsdatascience.com/how-do-a-b-tests-work-996842ce6fc0?source=social.linkedin&_nonce=AtWXyW1N)
-- [2020 August 27 - 12 Steps to Applied AI](https://medium.com/swlh/12-steps-to-applied-ai-2fdad7fdcdf3)
-- [2020 August 27 - Home](https://airflow.apache.org/)
-- [2020 August 27 - alessandrobessi/colab-shell](https://github.com/alessandrobessi/colab-shell)
-- [2020 August 27 - Building Neural Networks with Python Code and Math in Detail — II](https://medium.com/towards-artificial-intelligence/building-neural-networks-with-python-code-and-math-in-detail-ii-bbe8accbf3d1)
-- [2020 August 27 - Neural Networks from Scratch with Python Code and Math in Detail— I](https://towardsai.net/p/machine-learning/building-neural-networks-from-scratch-with-python-code-and-math-in-detail-i-536fae5d7bbf)
-- [2020 August 27 - sdispater/pendulum](https://github.com/sdispater/pendulum)
-- [2020 August 27 - Outlier detection with time-series data mining](https://www.datasciencecentral.com/profiles/blogs/outlier-detection-with-time-series-data-mining)
-- [2020 August 27 - PyTorch Lightning MasterClass](https://m.youtube.com/playlist?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
-- [2020 August 27 - DEEP LEARNING · Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
-- [2020 August 27 - ivan-bilan/The-NLP-Pandect](https://github.com/ivan-bilan/The-NLP-Pandect)
-- [2020 August 27 - Understanding Docker: part 1 – Retrieve & Pull images](https://dev.to/aurelievache/understanding-docker-part-1-retrieve-pull-images-3ccn)
-- [2020 August 27 - Five books every data scientist should read that are not about data science](https://towardsdatascience.com/five-books-every-data-scientist-should-read-that-are-not-about-data-science-f7335fb1f84f)
-- [2020 August 27 - Machine Learning Tokyo](https://github.com/Machine-Learning-Tokyo)
-- %s {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
-- [http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf (2020 August 28)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
-- [2020 August 27 - Bayes’ Theorem is Actually an Intuitive Fraction](https://towardsdatascience.com/bayes-theorem-is-actually-an-intuitive-fraction-5f2803998006)
-- [2020 August 27 - 9 Tips For Training Lightning Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
-- [2020 August 27 - How do A/B tests work?](https://towardsdatascience.com/how-do-a-b-tests-work-996842ce6fc0?source=social.linkedin&_nonce=AtWXyW1N)
-- [2020 August 27 - 12 Steps to Applied AI](https://medium.com/swlh/12-steps-to-applied-ai-2fdad7fdcdf3)
-- [2020 August 27 - Home](https://airflow.apache.org/)
-- [2020 August 27 - alessandrobessi/colab-shell](https://github.com/alessandrobessi/colab-shell)
-- [2020 August 27 - Building Neural Networks with Python Code and Math in Detail — II](https://medium.com/towards-artificial-intelligence/building-neural-networks-with-python-code-and-math-in-detail-ii-bbe8accbf3d1)
-- [2020 August 27 - Neural Networks from Scratch with Python Code and Math in Detail— I](https://towardsai.net/p/machine-learning/building-neural-networks-from-scratch-with-python-code-and-math-in-detail-i-536fae5d7bbf)
-- [2020 August 27 - sdispater/pendulum](https://github.com/sdispater/pendulum)
-- [2020 August 27 - Outlier detection with time-series data mining](https://www.datasciencecentral.com/profiles/blogs/outlier-detection-with-time-series-data-mining)
-- [2020 August 27 - PyTorch Lightning MasterClass](https://m.youtube.com/playlist?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
-- [2020 August 27 - DEEP LEARNING · Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
-- [2020 August 27 - ivan-bilan/The-NLP-Pandect](https://github.com/ivan-bilan/The-NLP-Pandect)
-- [2020 August 27 - What I learned from looking at 200 machine learning tools - KDnuggets](https://www.kdnuggets.com/2020/07/200-machine-learning-tools.html)
-- %s {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
-- [http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf (2020 August 28)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
-- [2020 August 27 - Bayes’ Theorem is Actually an Intuitive Fraction](https://towardsdatascience.com/bayes-theorem-is-actually-an-intuitive-fraction-5f2803998006)
-- [2020 August 27 - 9 Tips For Training Lightning Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
-- [2020 August 27 - How do A/B tests work?](https://towardsdatascience.com/how-do-a-b-tests-work-996842ce6fc0?source=social.linkedin&_nonce=AtWXyW1N)
-- [2020 August 27 - 12 Steps to Applied AI](https://medium.com/swlh/12-steps-to-applied-ai-2fdad7fdcdf3)
-- [2020 August 27 - Home](https://airflow.apache.org/)
-- [2020 August 27 - alessandrobessi/colab-shell](https://github.com/alessandrobessi/colab-shell)
-- [2020 August 27 - Building Neural Networks with Python Code and Math in Detail — II](https://medium.com/towards-artificial-intelligence/building-neural-networks-with-python-code-and-math-in-detail-ii-bbe8accbf3d1)
-- [2020 August 27 - Neural Networks from Scratch with Python Code and Math in Detail— I](https://towardsai.net/p/machine-learning/building-neural-networks-from-scratch-with-python-code-and-math-in-detail-i-536fae5d7bbf)
-- [2020 August 27 - sdispater/pendulum](https://github.com/sdispater/pendulum)
-- [2020 August 27 - Outlier detection with time-series data mining](https://www.datasciencecentral.com/profiles/blogs/outlier-detection-with-time-series-data-mining)
-- [2020 August 27 - PyTorch Lightning MasterClass](https://m.youtube.com/playlist?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
-- [2020 August 27 - DEEP LEARNING · Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
-- [2020 August 27 - ivan-bilan/The-NLP-Pandect](https://github.com/ivan-bilan/The-NLP-Pandect)
-- [2020 August 27 - Understanding Docker: part 1 – Retrieve & Pull images](https://dev.to/aurelievache/understanding-docker-part-1-retrieve-pull-images-3ccn)
-- [2020 August 27 - Five books every data scientist should read that are not about data science](https://towardsdatascience.com/five-books-every-data-scientist-should-read-that-are-not-about-data-science-f7335fb1f84f)
-- [2020 August 27 - GitHub is the best AutoML you will ever need](https://towardsdatascience.com/github-is-the-best-automl-you-will-ever-need-5331f671f105)
-- [2020 August 27 - Time Series Forecasting Course - Waitlist](https://mailchi.mp/business-science/time-series-forecasting-course-coming-soon)
-- [2020 August 27 - tensorflow/lucid](https://github.com/tensorflow/lucid)
-- [2020 August 27 - If I had to start learning Data Science again, how would I do it? - KDnuggets](https://www.kdnuggets.com/2020/08/start-learning-data-science-again.html)
-- [2020 August 27 - Announcing the Consortium for Python Data API Standards](https://data-apis.org/blog/announcing_the_consortium/)
-- [2020 August 27 - Mind-the-Pineapple/Autoregressive-models](https://github.com/Mind-the-Pineapple/Autoregressive-models)
-- [2020 August 27 - Release Recommenders 2020.8 · microsoft/recommenders](https://github.com/microsoft/recommenders/releases/tag/2020.8)
-- [2020 August 27 - Algorithms From Scratch: K-Nearest Neighbors](https://towardsdatascience.com/algorithms-from-scratch-k-nearest-neighbors-fe19b431a57)
-- [2020 August 27 - Docker For Data Scientists](https://m.youtube.com/watch?v=0qG_0CPQhpg)
-- [2020 August 27 - Visualize, track & compare Fastai models](https://app.wandb.ai/borisd13/demo_config/reports/Compare-and-monitor-fastai-models--Vmlldzo4MzAyNA)
-- [2020 August 27 - Contents](https://www.fast.ai/topics/)
-- [2020 August 27 - Practical Deep Learning for Coders](https://course.fast.ai)
-- [2020 August 27 - StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
-- [2020 August 27 - Data Science Courses](https://m.youtube.com/channel/UCKJNzy_GuvX3SAg3ipaGa8A)
-- [2020 August 27 - Dive into Deep Learning — Dive into Deep Learning 0.14.3 documentation](https://d2l.ai/)
-- [2020 August 27 - Keras documentation: Code examples](https://keras.io/examples/)
-- [2020 August 27 - Learn #MachineLearning Coding Basics in a weekend - Glossary and Mindmap](https://www.datasciencecentral.com/profiles/blogs/learn-machinelearning-coding-basics-in-a-weekend-glossary-and)
-- [2020 August 27 - Plotly Python Graphing Library](https://plotly.com/python/#ai_ml)
-- [2020 August 27 - Inference vs. Prediction](https://medium.com/towards-artificial-intelligence/inference-vs-prediction-6ce093214d8e)
-- [2020 August 27 - Complete Guide to Voila to Turn a Jupyter Notebook Into a Standalone Web Application](https://analyticsindiamag.com/complete-guide-to-voila-to-turn-a-jupyter-notebook-into-a-standalone-web-application/)
-- [2020 August 27 - Teaching - Afshine Amidi](https://www.mit.edu/~amidi/teaching/data-science-tools/)
-- [2020 August 27 - Neuraxio/Neuraxle](https://github.com/Neuraxio/Neuraxle)
-- [2020 August 27 - justmarkham/scikit-learn-tips](https://github.com/justmarkham/scikit-learn-tips)
-- [2020 August 27 - Shivam Kotwalia posted on LinkedIn](https://www.linkedin.com/posts/shivamkotwalia_machinelearning-artificialintelligence-madewithml-activity-6704073957202518016-7cuF)
 - [2020 August 27 - Intro to Modular Learning — Modulo](https://www.modulo.app/all-resources/modularlearning)
-- [2020 August 27 - How Docker Can Help You Become A More Effective Data Scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
 - [2020 August 27 - koaning.io](https://koaning.io/)
 - [2020 August 27 - Github Profile Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-
-
 ## Aviation
