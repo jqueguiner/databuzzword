@@ -312,6 +312,7 @@ toc: true
 - [2020 August 27 - The matrix calculus you need for deep learning](https://explained.ai/matrix-calculus/index.html)
 
 ## Others
+- [2020 August 28 - https://www.cloudera.com/tutorials.html ](https://www.cloudera.com/tutorials.html)
 - 2020 August 28 {% twitter https://twitter.com/ak92501/status/1295617835205615617?s=12 %}
 - 2020 August 28 {% twitter https://twitter.com/intersystems_fr/status/1295980130175770624?s=12 %}
 - [2020 August 28 - Nous attaquons la reconnaissance faciale dans le TAJ ](https://www.laquadrature.net/2020/08/07/nous-attaquons-la-reconnaissance-faciale-dans-le-taj/)
