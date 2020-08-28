@@ -12,6 +12,7 @@ toc: true
 ## Image 
 
 ### Image to Image
+- [2020 August 28 - 4 Impressive GAN Libraries Every Data Scientist Should Know! ](https://www.analyticsvidhya.com/blog/2020/08/top-5-gan-libraries-you-must-know/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29)
 - [2020 August 28 - RefaceAI: Time to face it ](https://reface.ai/)
 - [2020 August 28 - czczup/block-shuffle ](https://github.com/czczup/block-shuffle)
 - [2020 August 28 - csxmli2016/DFDNet ](https://github.com/csxmli2016/DFDNet)
