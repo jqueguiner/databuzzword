@@ -15,6 +15,7 @@ toc: true
 ## Image 
 
 ### Image to Image
+- [2020 August 28 - The source code of CVPR19 'Im2Pencil: Controllable Pencil Illustration from Photographs'.<a class="github-button" href="https://github.com/Yijunmaverick/Im2Pencil" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/Yijunmaverick/Im2Pencil)
 - [2020 August 28 - ExPose - EXpressive POse and Shape rEgression ](https://expose.is.tue.mpg.de/)
 - [2020 August 28 - Code for the paper "Controlling Style and Semantics in Weakly-Supervised Image Generation"<a class="github-button" href="https://github.com/dariopavllo/style-semantics" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/dariopavllo/style-semantics)
 - [2020 August 28 - Blind Face Restoration via Deep Multi-scale Component Dictionaries (ECCV 2020)<a class="github-button" href="https://github.com/csxmli2016/DFDNet" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/csxmli2016/DFDNet)
