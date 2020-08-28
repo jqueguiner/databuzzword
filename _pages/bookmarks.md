@@ -15,6 +15,7 @@ toc: true
 ## Image 
 
 ### Image to Image
+- [2020 August 28 - Deep Generative Inpainting Network (DeepGIN) for Extreme Image Inpainting<a class="github-button" href="https://github.com/rlct1/DeepGIN" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/rlct1/DeepGIN)
 - 2020 August 28 {% twitter https://twitter.com/ak92501/status/1295555833825304576?s=12 %}
 - [2020 August 28 - Simplest working implementation of Stylegan2 in Pytorch. Enabling everyone to experience disentanglement<a class="github-button" href="https://github.com/lucidrains/stylegan2-pytorch" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/lucidrains/stylegan2-pytorch)
 - [2020 August 28 - Denoising Diffusion Probabilistic Models<a class="github-button" href="https://github.com/hojonathanho/diffusion" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/hojonathanho/diffusion)
