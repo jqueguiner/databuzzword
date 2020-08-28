@@ -69,6 +69,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
+- [2020 August 28 - A flexible free and unlimited python tool to translate between different languages in a simple way using multiple translators.<a class="github-button" href="https://github.com/nidhaloff/deep_translator" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/nidhaloff/deep_translator)
 - [2020 August 28 - Chains.ipynb](https://colab.research.google.com/drive/1Py7nyJO_sgOYf8Fh-2Dcn1JmxEJyUUor?usp=sharing) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Py7nyJO_sgOYf8Fh-2Dcn1JmxEJyUUor?usp=sharing)
 - [2020 August 28 - BOND: BERT-Assisted Open-Domain Name Entity Recognition with Distant Supervision<a class="github-button" href="https://github.com/cliang1453/BOND" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/cliang1453/BOND)
 - [2020 August 28 - Beautiful visualizations of how language differs among document types.<a class="github-button" href="https://github.com/JasonKessler/scattertext" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/JasonKessler/scattertext)
@@ -101,9 +102,7 @@ toc: true
 - [2020 August 27 - State-of-the-Art Language Models in 2020 ](https://towardsdatascience.com/state-of-the-art-language-models-in-2020-2c25c081b558)
 - [2020 August 27 - Overview · A Guide to Natural Language Processing With AllenNLP ](https://guide.allennlp.org/overview)
 - [2020 August 27 - NLP News Cypher | 08.23.20 ](https://medium.com/towards-artificial-intelligence/nlp-news-cypher-08-23-20-eb83f076b39d)
-- [2020 August 27 - Google Colaboratory ](https://colab.research.google.com/drive/1Py7nyJO_sgOYf8Fh-2Dcn1JmxEJyUUor?usp=sharing)
 - [2020 August 27 - The NLP Model Forge ](https://medium.com/towards-artificial-intelligence/the-nlp-model-forge-a46faac7b5b0)
-- [2020 August 27 - nidhaloff/deep_translator ](https://github.com/nidhaloff/deep_translator)
 - [2020 August 27 - mrm8488/t5-base-finetuned-wikiSQL-sql-to-en · Hugging Face ](https://huggingface.co/mrm8488/t5-base-finetuned-wikiSQL-sql-to-en?text=My+name+is+Sarah+and+I+live+in+London)
 - [2020 August 27 - Text-to-SQL Query · Issue #6325 · huggingface/transformers ](https://github.com/huggingface/transformers/issues/6325)
 - [2020 August 27 - 🦄🤝🦄 Encoder-decoders in Transformers: a hybrid pre-trained architecture for seq2seq ](https://medium.com/huggingface/encoder-decoders-in-transformers-a-hybrid-pre-trained-architecture-for-seq2seq-af4d7bf14bb8)
