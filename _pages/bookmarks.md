@@ -74,6 +74,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
+- [2020 August 28 - Building AGI Using Language Models ](https://leogao.dev/2020/08/17/Building-AGI-Using-Language-Models/)
 - 2020 August 28 {% twitter https://twitter.com/jxmorris12/status/1295735705709293570?s=12 %}
 - [2020 August 28 - Object Detection — Document Layout Analysis Using Monk AI ](https://medium.com/towards-artificial-intelligence/object-detection-document-layout-analysis-using-monk-object-detection-toolkit-6c57200bde5?source=rss----98111c9905da---4)
 - 2020 August 28 {% twitter https://twitter.com/akaagar/status/1295688008071618562?s=12 %}
