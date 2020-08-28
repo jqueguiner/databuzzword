@@ -15,6 +15,7 @@ toc: true
 ## Image 
 
 ### Image to Image
+- [2020 August 28 - Denoising Diffusion Probabilistic Models<a class="github-button" href="https://github.com/hojonathanho/diffusion" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/hojonathanho/diffusion)
 - [2020 August 28 - 人像卡通化探索项目 (photo-to-cartoon translation project)<a class="github-button" href="https://github.com/minivision-ai/photo2cartoon" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/minivision-ai/photo2cartoon)
 - [2020 August 28 - Visual localization made easy<a class="github-button" href="https://github.com/cvg/Hierarchical-Localization" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/cvg/Hierarchical-Localization)
 - [2020 August 28 - Weights & Biases with fastai](https://colab.research.google.com/drive/1IWrhwcJoncCKHm6VXsNwOr9Yukhz3B49?usp=sharing) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IWrhwcJoncCKHm6VXsNwOr9Yukhz3B49?usp=sharing)
