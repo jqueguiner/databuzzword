@@ -78,6 +78,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
+- 2020 August 28 {% twitter https://twitter.com/joeddav/status/1295361743322062848?s=12 %}
 - [2020 August 28 - Fine-tuning with custom datasets — transformers 3.0.2 documentation ](https://huggingface.co/transformers/master/custom_datasets.html)
 - 2020 August 28 {% twitter https://twitter.com/mrm8488/status/1295680004039344135?s=12 %}
 - [2020 August 28 - Build GPT-3-like Language Model on Google Colab with minGPT [PyTorch] ](https://m.youtube.com/watch?v=UNxQmfqHycQ)
