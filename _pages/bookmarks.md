@@ -113,6 +113,7 @@ toc: true
 - [2020 August 27 - RasaHQ/whatlies ](https://github.com/RasaHQ/whatlies)
 - [2020 August 27 - NLP with Friends, featured friend: Nitika Mathur ](https://www.eventbrite.co.uk/e/nlp-with-friends-featured-friend-nitika-mathur-tickets-117606966603)
 ### Text to Sound
+- [2020 August 28 - An implementation of Tacotron 2 that supports multilingual experiments with parameter-sharing, code-switching, and voice cloning.<a class="github-button" href="https://github.com/Tomiinek/Multilingual_Text_to_Speech" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/Tomiinek/Multilingual_Text_to_Speech)
 - [2020 August 28 - Creating Robust Neural Speech Synthesis with ForwardTacotron | NVIDIA Developer Blog ](https://developer.nvidia.com/blog/creating-robust-neural-speech-synthesis-with-forwardtacotron/)
 - [2020 August 28 - Tomiinek/Multilingual_Text_to_Speech ](https://github.com/Tomiinek/Multilingual_Text_to_Speech)
 
