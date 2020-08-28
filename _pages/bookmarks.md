@@ -70,6 +70,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
+- [2020 August 28 - Reformer, the efficient Transformer, in Pytorch<a class="github-button" href="https://github.com/lucidrains/reformer-pytorch" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/lucidrains/reformer-pytorch)
 - [2020 August 28 - A flexible free and unlimited python tool to translate between different languages in a simple way using multiple translators.<a class="github-button" href="https://github.com/nidhaloff/deep_translator" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/nidhaloff/deep_translator)
 - [2020 August 28 - Chains.ipynb](https://colab.research.google.com/drive/1Py7nyJO_sgOYf8Fh-2Dcn1JmxEJyUUor?usp=sharing) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Py7nyJO_sgOYf8Fh-2Dcn1JmxEJyUUor?usp=sharing)
 - [2020 August 28 - BOND: BERT-Assisted Open-Domain Name Entity Recognition with Distant Supervision<a class="github-button" href="https://github.com/cliang1453/BOND" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/cliang1453/BOND)
