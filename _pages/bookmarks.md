@@ -93,8 +93,8 @@ toc: true
 - [2020 August 27 - mrm8488/t5-base-finetuned-wikiSQL-sql-to-en · Hugging Face ](https://huggingface.co/mrm8488/t5-base-finetuned-wikiSQL-sql-to-en?text=My+name+is+Sarah+and+I+live+in+London)
 - [2020 August 27 - Text-to-SQL Query · Issue #6325 · huggingface/transformers ](https://github.com/huggingface/transformers/issues/6325)
 - [2020 August 27 - 🦄🤝🦄 Encoder-decoders in Transformers: a hybrid pre-trained architecture for seq2seq ](https://medium.com/huggingface/encoder-decoders-in-transformers-a-hybrid-pre-trained-architecture-for-seq2seq-af4d7bf14bb8)
-- [2020 August 27 -  ](https://twitter.com/sam_shleifer/status/1297911315932106753?s=12)
-- [2020 August 27 -  ](https://twitter.com/guggersylvain/status/1297948214214221825?s=12)
+{% twitter https://twitter.com/sam_shleifer/status/1297911315932106753?s=12 %}
+{% twitter https://twitter.com/guggersylvain/status/1297948214214221825?s=12 %}
 - [2020 August 27 - Tutorial notebooks ](https://discuss.huggingface.co/t/tutorial-notebooks/658)
 - [2020 August 27 - scispacy ](https://allenai.github.io/scispacy/)
 - [2020 August 27 - WuraolaOyewusi/How-to-use-scispaCy-Entity-Linkers-for-Biomedical-Named-Entities ](https://github.com/WuraolaOyewusi/How-to-use-scispaCy-Entity-Linkers-for-Biomedical-Named-Entities/blob/master/scispacy_entities_extractions_and_linkers(uncleared_outputs)_.ipynb)
@@ -129,7 +129,7 @@ toc: true
 ### Video to Sound
 
 ## Machine Learning
-- 2020 August 28 {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
+{% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
 - [2020 August 28 - Bishop Pattern Recognition](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 - [2020 August 27 - Bayes’ Theorem is Actually an Intuitive Fraction](https://towardsdatascience.com/bayes-theorem-is-actually-an-intuitive-fraction-5f2803998006)
 - [2020 August 27 - 9 Tips For Training Lightning Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
@@ -188,7 +188,7 @@ toc: true
 {% twitter https://twitter.com/jeremyphoward/status/1289982339829792769?s=12 %}
 - [2020 August 27 - Isoflow](https://isoflow.io/)
 - [2020 August 27 - wandb/awesome-dl-projects](https://github.com/wandb/awesome-dl-projects)
-- [2020 August 27 - ](https://twitter.com/viglovikov/status/1296292326478761984?s=12)
+{% twitter https://twitter.com/viglovikov/status/1296292326478761984?s=12 %}
 - [2020 August 27 - 4 Hard-To-Ignore Reasons Why You Should Use AI To Make More Intelligent Products](https://www.linkedin.com/pulse/4-hard-to-ignore-reasons-why-you-should-use-ai-make-more-bernard-marr)
 - [2020 August 27 - Clothing Dataset: Call for Action](https://medium.com/data-science-insider/clothing-dataset-call-for-action-3cad023246c1)
 - [2020 August 27 - PyTorch Lightning 0.9 — synced BatchNorm, DataModules and final API!](https://medium.com/pytorch/pytorch-lightning-0-9-synced-batchnorm-datamodules-and-final-api-aae885398a9d)
@@ -201,7 +201,7 @@ toc: true
 - [2020 August 27 - How To Identify The Best AI Opportunities For Your Business – In 2 Simple Steps ](https://www.linkedin.com/pulse/how-identify-best-ai-opportunities-your-business-2-simple-marr)
 - [2020 August 27 - microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes)
 - [2020 August 27 - Machine Learning India on LinkedIn: Pandas Library in 8 pages! | 20 comments](https://www.linkedin.com/posts/mlindia_pandas-library-in-8-pages-ugcPost-6704010710990553090-WkFc)
-- 2020 August 28 {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
+{% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
 - [2020 August 28 - Bishop - Pattern Recognition And Machine Learning - Springer 2006](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 - [2020 August 27 - Intro to Modular Learning — Modulo](https://www.modulo.app/all-resources/modularlearning)
 - [2020 August 27 - koaning.io](https://koaning.io/)
