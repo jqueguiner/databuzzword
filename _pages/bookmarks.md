@@ -137,6 +137,7 @@ toc: true
 
 
 ## Machine Learning
+- %s {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
 - [http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf (2020 August 28)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 - [2020 August 27 - Bayes’ Theorem is Actually an Intuitive Fraction](https://towardsdatascience.com/bayes-theorem-is-actually-an-intuitive-fraction-5f2803998006)
 - [2020 August 27 - 9 Tips For Training Lightning Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
@@ -152,6 +153,7 @@ toc: true
 - [2020 August 27 - DEEP LEARNING · Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
 - [2020 August 27 - ivan-bilan/The-NLP-Pandect](https://github.com/ivan-bilan/The-NLP-Pandect)
 - [2020 August 27 - What I learned from looking at 200 machine learning tools - KDnuggets](https://www.kdnuggets.com/2020/07/200-machine-learning-tools.html)
+- %s {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
 - [http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf (2020 August 28)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 - [2020 August 27 - Bayes’ Theorem is Actually an Intuitive Fraction](https://towardsdatascience.com/bayes-theorem-is-actually-an-intuitive-fraction-5f2803998006)
 - [2020 August 27 - 9 Tips For Training Lightning Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
@@ -169,6 +171,7 @@ toc: true
 - [2020 August 27 - Understanding Docker: part 1 – Retrieve & Pull images](https://dev.to/aurelievache/understanding-docker-part-1-retrieve-pull-images-3ccn)
 - [2020 August 27 - Five books every data scientist should read that are not about data science](https://towardsdatascience.com/five-books-every-data-scientist-should-read-that-are-not-about-data-science-f7335fb1f84f)
 - [2020 August 27 - Machine Learning Tokyo](https://github.com/Machine-Learning-Tokyo)
+- %s {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
 - [http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf (2020 August 28)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 - [2020 August 27 - Bayes’ Theorem is Actually an Intuitive Fraction](https://towardsdatascience.com/bayes-theorem-is-actually-an-intuitive-fraction-5f2803998006)
 - [2020 August 27 - 9 Tips For Training Lightning Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
@@ -184,6 +187,7 @@ toc: true
 - [2020 August 27 - DEEP LEARNING · Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
 - [2020 August 27 - ivan-bilan/The-NLP-Pandect](https://github.com/ivan-bilan/The-NLP-Pandect)
 - [2020 August 27 - What I learned from looking at 200 machine learning tools - KDnuggets](https://www.kdnuggets.com/2020/07/200-machine-learning-tools.html)
+- %s {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
 - [http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf (2020 August 28)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 - [2020 August 27 - Bayes’ Theorem is Actually an Intuitive Fraction](https://towardsdatascience.com/bayes-theorem-is-actually-an-intuitive-fraction-5f2803998006)
 - [2020 August 27 - 9 Tips For Training Lightning Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
@@ -240,6 +244,7 @@ toc: true
 - [2020 August 27 - DEEP LEARNING · Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
 - [2020 August 27 - ivan-bilan/The-NLP-Pandect](https://github.com/ivan-bilan/The-NLP-Pandect)
 - [2020 August 27 - What I learned from looking at 200 machine learning tools - KDnuggets](https://www.kdnuggets.com/2020/07/200-machine-learning-tools.html)
+- %s {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
 - [http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf (2020 August 28)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 - [2020 August 27 - Bayes’ Theorem is Actually an Intuitive Fraction](https://towardsdatascience.com/bayes-theorem-is-actually-an-intuitive-fraction-5f2803998006)
 - [2020 August 27 - 9 Tips For Training Lightning Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
@@ -257,6 +262,7 @@ toc: true
 - [2020 August 27 - Understanding Docker: part 1 – Retrieve & Pull images](https://dev.to/aurelievache/understanding-docker-part-1-retrieve-pull-images-3ccn)
 - [2020 August 27 - Five books every data scientist should read that are not about data science](https://towardsdatascience.com/five-books-every-data-scientist-should-read-that-are-not-about-data-science-f7335fb1f84f)
 - [2020 August 27 - Machine Learning Tokyo](https://github.com/Machine-Learning-Tokyo)
+- %s {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
 - [http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf (2020 August 28)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 - [2020 August 27 - Bayes’ Theorem is Actually an Intuitive Fraction](https://towardsdatascience.com/bayes-theorem-is-actually-an-intuitive-fraction-5f2803998006)
 - [2020 August 27 - 9 Tips For Training Lightning Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
@@ -272,6 +278,7 @@ toc: true
 - [2020 August 27 - DEEP LEARNING · Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
 - [2020 August 27 - ivan-bilan/The-NLP-Pandect](https://github.com/ivan-bilan/The-NLP-Pandect)
 - [2020 August 27 - What I learned from looking at 200 machine learning tools - KDnuggets](https://www.kdnuggets.com/2020/07/200-machine-learning-tools.html)
+- %s {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
 - [http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf (2020 August 28)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 - [2020 August 27 - Bayes’ Theorem is Actually an Intuitive Fraction](https://towardsdatascience.com/bayes-theorem-is-actually-an-intuitive-fraction-5f2803998006)
 - [2020 August 27 - 9 Tips For Training Lightning Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
@@ -342,6 +349,7 @@ toc: true
 - [2020 August 27 - How To Identify The Best AI Opportunities For Your Business – In 2 Simple Steps ](https://www.linkedin.com/pulse/how-identify-best-ai-opportunities-your-business-2-simple-marr)
 - [2020 August 27 - microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes)
 - [2020 August 27 - Machine Learning India on LinkedIn: Pandas Library in 8 pages! | 20 comments](https://www.linkedin.com/posts/mlindia_pandas-library-in-8-pages-ugcPost-6704010710990553090-WkFc)
+- %s {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
 - [http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf (2020 August 28)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 - [2020 August 27 - Bayes’ Theorem is Actually an Intuitive Fraction](https://towardsdatascience.com/bayes-theorem-is-actually-an-intuitive-fraction-5f2803998006)
 - [2020 August 27 - 9 Tips For Training Lightning Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
@@ -357,6 +365,7 @@ toc: true
 - [2020 August 27 - DEEP LEARNING · Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
 - [2020 August 27 - ivan-bilan/The-NLP-Pandect](https://github.com/ivan-bilan/The-NLP-Pandect)
 - [2020 August 27 - What I learned from looking at 200 machine learning tools - KDnuggets](https://www.kdnuggets.com/2020/07/200-machine-learning-tools.html)
+- %s {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
 - [http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf (2020 August 28)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 - [2020 August 27 - Bayes’ Theorem is Actually an Intuitive Fraction](https://towardsdatascience.com/bayes-theorem-is-actually-an-intuitive-fraction-5f2803998006)
 - [2020 August 27 - 9 Tips For Training Lightning Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
@@ -374,6 +383,7 @@ toc: true
 - [2020 August 27 - Understanding Docker: part 1 – Retrieve & Pull images](https://dev.to/aurelievache/understanding-docker-part-1-retrieve-pull-images-3ccn)
 - [2020 August 27 - Five books every data scientist should read that are not about data science](https://towardsdatascience.com/five-books-every-data-scientist-should-read-that-are-not-about-data-science-f7335fb1f84f)
 - [2020 August 27 - Machine Learning Tokyo](https://github.com/Machine-Learning-Tokyo)
+- %s {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
 - [http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf (2020 August 28)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 - [2020 August 27 - Bayes’ Theorem is Actually an Intuitive Fraction](https://towardsdatascience.com/bayes-theorem-is-actually-an-intuitive-fraction-5f2803998006)
 - [2020 August 27 - 9 Tips For Training Lightning Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
@@ -389,6 +399,7 @@ toc: true
 - [2020 August 27 - DEEP LEARNING · Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
 - [2020 August 27 - ivan-bilan/The-NLP-Pandect](https://github.com/ivan-bilan/The-NLP-Pandect)
 - [2020 August 27 - What I learned from looking at 200 machine learning tools - KDnuggets](https://www.kdnuggets.com/2020/07/200-machine-learning-tools.html)
+- %s {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
 - [http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf (2020 August 28)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 - [2020 August 27 - Bayes’ Theorem is Actually an Intuitive Fraction](https://towardsdatascience.com/bayes-theorem-is-actually-an-intuitive-fraction-5f2803998006)
 - [2020 August 27 - 9 Tips For Training Lightning Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
