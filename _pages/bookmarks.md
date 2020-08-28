@@ -73,6 +73,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
+- [2020 August 28 - Object Detection — Document Layout Analysis Using Monk AI ](https://medium.com/towards-artificial-intelligence/object-detection-document-layout-analysis-using-monk-object-detection-toolkit-6c57200bde5?source=rss----98111c9905da---4)
 - 2020 August 28 {% twitter https://twitter.com/akaagar/status/1295688008071618562?s=12 %}
 - 2020 August 28 {% twitter https://twitter.com/jonassaa/status/1295980263684571136?s=12 %}
 - [2020 August 28 - Reformer, the efficient Transformer, in Pytorch<a class="github-button" href="https://github.com/lucidrains/reformer-pytorch" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/lucidrains/reformer-pytorch)
