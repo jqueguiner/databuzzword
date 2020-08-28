@@ -127,7 +127,7 @@ toc: true
 ### Video to Sound
 
 ## Machine Learning
-- 2020 August 28 {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
+{% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
 - [2020 August 28 - Bishop Pattern Recognition](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 - [2020 August 27 - Bayes’ Theorem is Actually an Intuitive Fraction](https://towardsdatascience.com/bayes-theorem-is-actually-an-intuitive-fraction-5f2803998006)
 - [2020 August 27 - 9 Tips For Training Lightning Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
