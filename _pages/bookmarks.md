@@ -15,6 +15,7 @@ toc: true
 ## Image 
 
 ### Image to Image
+- [2020 August 28 - ExPose - EXpressive POse and Shape rEgression ](https://expose.is.tue.mpg.de/)
 - [2020 August 28 - Code for the paper "Controlling Style and Semantics in Weakly-Supervised Image Generation"<a class="github-button" href="https://github.com/dariopavllo/style-semantics" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/dariopavllo/style-semantics)
 - [2020 August 28 - Blind Face Restoration via Deep Multi-scale Component Dictionaries (ECCV 2020)<a class="github-button" href="https://github.com/csxmli2016/DFDNet" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/csxmli2016/DFDNet)
 - [2020 August 28 - A method for high-resolution Fast Style Transfer with limited memory<a class="github-button" href="https://github.com/czczup/block-shuffle" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/czczup/block-shuffle)
