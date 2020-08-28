@@ -3,9 +3,10 @@ layout: page
 title: Bookmarks
 permalink: /bookmarks/
 toc: true
+---
 1. TOC
 {:toc}
----
+
 
 # Bookmarks
 
@@ -184,7 +185,7 @@ toc: true
 ## Others
 - [2020 August 27 - junegunn/fzf](https://github.com/junegunn/fzf)
 - [2020 August 27 - Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
-- [2020 August 27 - ](https://twitter.com/jeremyphoward/status/1289982339829792769?s=12)
+{% twitter https://twitter.com/jeremyphoward/status/1289982339829792769?s=12 %}
 - [2020 August 27 - Isoflow](https://isoflow.io/)
 - [2020 August 27 - wandb/awesome-dl-projects](https://github.com/wandb/awesome-dl-projects)
 - [2020 August 27 - ](https://twitter.com/viglovikov/status/1296292326478761984?s=12)
