@@ -57,7 +57,6 @@ toc: true
 - [2020 August 28 - Training YOLOv3 : Deep Learning based Custom Object Detector | Learn OpenCV ](https://www.learnopencv.com/training-yolov3-deep-learning-based-custom-object-detector/amp/)
 - [2020 August 28 - Azure/MachineLearningNotebooks ](https://github.com/Azure/MachineLearningNotebooks/blob/master/how-to-use-azureml/deployment/onnx/onnx-inference-facial-expression-recognition-deploy.ipynb)
 - [2020 August 28 - ChristianMarzahl/ObjectDetection ](https://github.com/ChristianMarzahl/ObjectDetection)
-- [2020 August 27 - PaddlePaddle/PaddleDetection ](https://github.com/PaddlePaddle/PaddleDetection/blob/release/0.4/configs/ppyolo/README.md)
 - [2020 August 27 - Visualize, track & compare Fastai models ](https://app.wandb.ai/borisd13/demo_config/reports/Compare-and-monitor-fastai-models--Vmlldzo4MzAyNA)
 - [2020 August 27 - How does a Real-Time Face Recognition work with OpenCV? ](https://medium.com/eazy-ciphers/how-does-a-real-time-face-recognition-work-with-opencv-ddd4c1cd4b43)
 
@@ -70,6 +69,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
+- [2020 August 28 - dheerajiiitv/visualizing-sent-embedding<a class="github-button" href="https://github.com/dheerajiiitv/visualizing-sent-embedding" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/dheerajiiitv/visualizing-sent-embedding)
 - [2020 August 28 - Relation extraction for protein to protein interactions to extraction strongly typed PPI relations.. My research topic.. So work in progress<a class="github-button" href="https://github.com/elangovana/PPI-typed-relation-extractor" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/elangovana/PPI-typed-relation-extractor)
 - [2020 August 28 - The Al Dente Neural Net Part I](https://colab.research.google.com/drive/1oYQ7WX9CV3sTZ31Csp8JghUxmAF_Ozro?) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oYQ7WX9CV3sTZ31Csp8JghUxmAF_Ozro?)
 - [2020 August 28 - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training<a class="github-button" href="https://github.com/karpathy/minGPT" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/karpathy/minGPT)
@@ -78,20 +78,12 @@ toc: true
 - [2020 August 28 - 🧹 Python package for text cleaning<a class="github-button" href="https://github.com/jfilter/clean-text" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/jfilter/clean-text)
 - [2020 August 28 - toolkit to help visualise - what lies in word embeddings<a class="github-button" href="https://github.com/RasaHQ/whatlies" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/RasaHQ/whatlies)
 - [2020 August 28 - Zero-shot Emoji Classifier 😊, 🙁, 😡, 🤔](https://colab.research.google.com/drive/1uNYVIFBTphidKWBZdF_6M2nMDAWuhatD?usp=sharing) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uNYVIFBTphidKWBZdF_6M2nMDAWuhatD?usp=sharing)
-- [2020 August 28 - Google Colaboratory ](https://colab.research.google.com/drive/1uNYVIFBTphidKWBZdF_6M2nMDAWuhatD?usp=sharing)
 - [2020 August 28 - Interactive Visualisation - whatlies ](https://rasahq.github.io/whatlies/tutorial/embeddingsets/)
 - [2020 August 28 - Let's build a Full-Text Search engine - Artem Krylysov ](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/)
-- [2020 August 28 - jfilter/clean-text ](https://github.com/jfilter/clean-text)
-- [2020 August 28 - victordibia/neuralqa ](https://github.com/victordibia/neuralqa)
-- [2020 August 28 - microsoft/DialoGPT ](https://github.com/microsoft/DialoGPT)
 - [2020 August 28 - Philip Vollet on LinkedIn: #nlp #bioinformatics #medical | 10 comments ](https://www.linkedin.com/posts/philipvollet_nlp-bioinformatics-medical-activity-6701822862912819200-ex6k)
 - [2020 August 28 - Karpathy's minGPT trained with PyTorch Lightning ](https://www.youtube.com/watch?v=2aJFRQ-v6K8)
-- [2020 August 28 - Adapted this awesome minGPT to use PyTorch lightning! by williamFalcon · Pull Request #14 · karpathy/minGPT ](https://github.com/karpathy/minGPT/pull/14)
 - [2020 August 27 - Introducing txtai, an AI-powered search engine built on Transformers ](https://towardsdatascience.com/introducing-txtai-an-ai-powered-search-engine-built-on-transformers-37674be252ec)
-- [2020 August 27 - Google Colaboratory ](https://colab.research.google.com/drive/1oYQ7WX9CV3sTZ31Csp8JghUxmAF_Ozro)
 - [2020 August 27 - The Science of Debugging with W&B Reports ](https://app.wandb.ai/latentspace/published-work/The-Science-of-Debugging-with-W&B-Reports--Vmlldzo4OTI3Ng)
-- [2020 August 27 - elangovana/PPI-typed-relation-extractor ](https://github.com/elangovana/PPI-typed-relation-extractor)
-- [2020 August 27 - dheerajiiitv/visualizing-sent-embedding ](https://github.com/dheerajiiitv/visualizing-sent-embedding)
 - [2020 August 27 - Google Colaboratory ](https://colab.research.google.com/github/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb#scrollTo=QLGiFCDqvuil)
 - [2020 August 27 - Transformer Reinforcement Learning ](https://app.wandb.ai/lvwerra/trl-showcase/reports/Transformer-Reinforcement-Learning--VmlldzoxMDY4MDI)
 - [2020 August 27 - JasonKessler/scattertext ](https://github.com/JasonKessler/scattertext)
