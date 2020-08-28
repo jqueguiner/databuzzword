@@ -73,6 +73,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
+- [2020 August 28 - NeuralQA: A Usable Library for Question Answering on Large Datasets with BERT<a class="github-button" href="https://github.com/victordibia/neuralqa" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/victordibia/neuralqa)
 - [2020 August 28 - 🧹 Python package for text cleaning<a class="github-button" href="https://github.com/jfilter/clean-text" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/jfilter/clean-text)
 - [2020 August 28 - toolkit to help visualise - what lies in word embeddings<a class="github-button" href="https://github.com/RasaHQ/whatlies" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/RasaHQ/whatlies)
 - [2020 August 28 - Zero-shot Emoji Classifier 😊, 🙁, 😡, 🤔](https://colab.research.google.com/drive/1uNYVIFBTphidKWBZdF_6M2nMDAWuhatD?usp=sharing) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uNYVIFBTphidKWBZdF_6M2nMDAWuhatD?usp=sharing)
