@@ -7,7 +7,9 @@ toc: true
 {:toc}
 
 # Bookmarks
+
 ## Image 
+
 ### Image to Image
 - [2020 August 28 - 4 Impressive GAN Libraries Every Data Scientist Should Know! ](https://www.analyticsvidhya.com/blog/2020/08/top-5-gan-libraries-you-must-know/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29)
 - [2020 August 28 - RefaceAI: Time to face it ](https://reface.ai/)
@@ -43,10 +45,15 @@ toc: true
 - [2020 August 27 - PaddlePaddle/PaddleDetection ](https://github.com/PaddlePaddle/PaddleDetection/blob/release/0.4/configs/ppyolo/README.md)
 - [2020 August 27 - Visualize, track & compare Fastai models ](https://app.wandb.ai/borisd13/demo_config/reports/Compare-and-monitor-fastai-models--Vmlldzo4MzAyNA)
 - [2020 August 27 - How does a Real-Time Face Recognition work with OpenCV? ](https://medium.com/eazy-ciphers/how-does-a-real-time-face-recognition-work-with-opencv-ddd4c1cd4b43)
+
 ### Image to Sound
+
 ### Image to Video
+
 ## Text
+
 ### Text to Image
+
 ### Text to Text
 - [2020 August 28 - Google Colaboratory ](https://colab.research.google.com/drive/1uNYVIFBTphidKWBZdF_6M2nMDAWuhatD?usp=sharing)
 - [2020 August 28 - Interactive Visualisation - whatlies ](https://rasahq.github.io/whatlies/tutorial/embeddingsets/)
@@ -96,21 +103,32 @@ toc: true
 ### Text to Sound
 - [2020 August 28 - Creating Robust Neural Speech Synthesis with ForwardTacotron | NVIDIA Developer Blog ](https://developer.nvidia.com/blog/creating-robust-neural-speech-synthesis-with-forwardtacotron/)
 - [2020 August 28 - Tomiinek/Multilingual_Text_to_Speech ](https://github.com/Tomiinek/Multilingual_Text_to_Speech)
+
 ### Text to Video
+
 ## Sound
+
 ### Sound to Image
+
 ### Sound to Text
+
 ### Sound to Sound
 - [2020 August 27 - acheamponge/Bundy-ML ](https://github.com/acheamponge/Bundy-ML)
 - [2020 August 27 - hooligan_demo ](https://resemble-ai.github.io/hooligan_demo/)
+
 ### Sound to Video
+
 ## Video
+
 ### Video to Image
+
 ### Video to Text
+
 ### Video to Sound
+
 ## Machine Learning
-- %s {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
-- [http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf (2020 August 28)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+- 2020 August 28 {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
+- [2020 August 28 - Bishop Pattern Recognition](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 - [2020 August 27 - Bayes’ Theorem is Actually an Intuitive Fraction](https://towardsdatascience.com/bayes-theorem-is-actually-an-intuitive-fraction-5f2803998006)
 - [2020 August 27 - 9 Tips For Training Lightning Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
 - [2020 August 27 - How do A/B tests work?](https://towardsdatascience.com/how-do-a-b-tests-work-996842ce6fc0?source=social.linkedin&_nonce=AtWXyW1N)
@@ -156,9 +174,12 @@ toc: true
 - [2020 August 27 - How Docker Can Help You Become A More Effective Data Scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
 - [2020 August 27 - Explainable AI vs Explaining AI — Part 1](https://towardsdatascience.com/explainable-ai-vs-explaining-ai-part-1-d39ea5053347)- [Bayes’ Theorem is Actually an Intuitive Fraction](https://towardsdatascience.com/bayes-theorem-is-actually-an-intuitive-fraction-5f2803998006)
 - [2020 August 27 - Explainable AI vs Explaining AI — Part 1](https://towardsdatascience.com/explainable-ai-vs-explaining-ai-part-1-d39ea5053347)
+
 ## Quantum Computing
+
 ## Maths
 - [2020 August 27 - The matrix calculus you need for deep learning](https://explained.ai/matrix-calculus/index.html)
+
 ## Others
 - [2020 August 27 - junegunn/fzf](https://github.com/junegunn/fzf)
 - [2020 August 27 - Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
@@ -183,4 +204,9 @@ toc: true
 - [2020 August 27 - Intro to Modular Learning — Modulo](https://www.modulo.app/all-resources/modularlearning)
 - [2020 August 27 - koaning.io](https://koaning.io/)
 - [2020 August 27 - Github Profile Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+
+## Devops & tools
+
+## MLops & tools
+
 ## Aviation
