@@ -244,6 +244,7 @@ toc: true
 - [2020 August 27 - The matrix calculus you need for deep learning](https://explained.ai/matrix-calculus/index.html)
 
 ## Others
+- 2020 August 28 {% twitter https://twitter.com/intersystems_fr/status/1295980130175770624?s=12 %}
 - [2020 August 28 - Nous attaquons la reconnaissance faciale dans le TAJ ](https://www.laquadrature.net/2020/08/07/nous-attaquons-la-reconnaissance-faciale-dans-le-taj/)
 - [2020 August 28 - L'intelligence artificielle, qu'est ce que c'est ? Data Insights#1 ](https://m.youtube.com/watch?feature=youtu.be&v=r2M8pgrf3T0)
 - [2020 August 28 - Non, le CLOUD Act n'est pas ce que vous croyez. Vraiment pas. ](https://francoischarlet.ch/2020/cloud-act-pas-ce-que-vous-croyez/)
