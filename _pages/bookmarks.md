@@ -69,6 +69,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
+- [2020 August 28 - Chains.ipynb](https://colab.research.google.com/drive/1Py7nyJO_sgOYf8Fh-2Dcn1JmxEJyUUor?usp=sharing) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Py7nyJO_sgOYf8Fh-2Dcn1JmxEJyUUor?usp=sharing)
 - [2020 August 28 - BOND: BERT-Assisted Open-Domain Name Entity Recognition with Distant Supervision<a class="github-button" href="https://github.com/cliang1453/BOND" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/cliang1453/BOND)
 - [2020 August 28 - Beautiful visualizations of how language differs among document types.<a class="github-button" href="https://github.com/JasonKessler/scattertext" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/JasonKessler/scattertext)
 - [2020 August 28 - dheerajiiitv/visualizing-sent-embedding<a class="github-button" href="https://github.com/dheerajiiitv/visualizing-sent-embedding" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/dheerajiiitv/visualizing-sent-embedding)
@@ -97,7 +98,6 @@ toc: true
 - [2020 August 27 - The Illustrated Transformer ](https://jalammar.github.io/illustrated-transformer/)
 - [2020 August 27 - DeepMind x UCL | Deep Learning Lectures | 7/12 | Deep Learning for Natural Language Processing ](https://www.youtube.com/watch?v=8zAP2qWAsKg)
 - [2020 August 27 - the transformer ... “explained”? ](https://nostalgebraist.tumblr.com/post/185326092369/the-transformer-explained)
-- [2020 August 27 - cliang1453/BOND ](https://github.com/cliang1453/BOND)
 - [2020 August 27 - State-of-the-Art Language Models in 2020 ](https://towardsdatascience.com/state-of-the-art-language-models-in-2020-2c25c081b558)
 - [2020 August 27 - Overview · A Guide to Natural Language Processing With AllenNLP ](https://guide.allennlp.org/overview)
 - [2020 August 27 - NLP News Cypher | 08.23.20 ](https://medium.com/towards-artificial-intelligence/nlp-news-cypher-08-23-20-eb83f076b39d)
