@@ -72,6 +72,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
+- 2020 August 28 {% twitter https://twitter.com/akaagar/status/1295688008071618562?s=12 %}
 - 2020 August 28 {% twitter https://twitter.com/jonassaa/status/1295980263684571136?s=12 %}
 - [2020 August 28 - Reformer, the efficient Transformer, in Pytorch<a class="github-button" href="https://github.com/lucidrains/reformer-pytorch" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/lucidrains/reformer-pytorch)
 - [2020 August 28 - A flexible free and unlimited python tool to translate between different languages in a simple way using multiple translators.<a class="github-button" href="https://github.com/nidhaloff/deep_translator" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/nidhaloff/deep_translator)
