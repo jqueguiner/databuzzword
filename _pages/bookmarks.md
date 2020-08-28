@@ -15,6 +15,7 @@ toc: true
 ## Image 
 
 ### Image to Image
+- [2020 August 28 - A Single-Human Instance Segmentor runs at 50 FPS on GV100<a class="github-button" href="https://github.com/Project-Splinter/human_inst_seg" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/Project-Splinter/human_inst_seg)
 - [2020 August 28 - Volumetric Human Teleportation (SIGGRAPH 2020 Real-Time Live) Monocular Real-Time Volumetric Performance Capture(ECCV 2020)<a class="github-button" href="https://github.com/Project-Splinter/MonoPort" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/Project-Splinter/MonoPort)
 - [2020 August 28 - Weights & Biases with fastai](https://colab.research.google.com/drive/1IWrhwcJoncCKHm6VXsNwOr9Yukhz3B49?usp=sharing) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IWrhwcJoncCKHm6VXsNwOr9Yukhz3B49?usp=sharing)
 - [2020 August 28 - A collection of pre-trained StyleGAN 2 models to download<a class="github-button" href="https://github.com/justinpinkney/awesome-pretrained-stylegan2" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
