@@ -69,6 +69,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
+- [2020 August 28 - BOND: BERT-Assisted Open-Domain Name Entity Recognition with Distant Supervision<a class="github-button" href="https://github.com/cliang1453/BOND" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/cliang1453/BOND)
 - [2020 August 28 - Beautiful visualizations of how language differs among document types.<a class="github-button" href="https://github.com/JasonKessler/scattertext" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/JasonKessler/scattertext)
 - [2020 August 28 - dheerajiiitv/visualizing-sent-embedding<a class="github-button" href="https://github.com/dheerajiiitv/visualizing-sent-embedding" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/dheerajiiitv/visualizing-sent-embedding)
 - [2020 August 28 - Relation extraction for protein to protein interactions to extraction strongly typed PPI relations.. My research topic.. So work in progress<a class="github-button" href="https://github.com/elangovana/PPI-typed-relation-extractor" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/elangovana/PPI-typed-relation-extractor)
@@ -87,7 +88,6 @@ toc: true
 - [2020 August 27 - The Science of Debugging with W&B Reports ](https://app.wandb.ai/latentspace/published-work/The-Science-of-Debugging-with-W&B-Reports--Vmlldzo4OTI3Ng)
 - [2020 August 27 - Google Colaboratory ](https://colab.research.google.com/github/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb#scrollTo=QLGiFCDqvuil)
 - [2020 August 27 - Transformer Reinforcement Learning ](https://app.wandb.ai/lvwerra/trl-showcase/reports/Transformer-Reinforcement-Learning--VmlldzoxMDY4MDI)
-- [2020 August 27 - JasonKessler/scattertext ](https://github.com/JasonKessler/scattertext)
 - [2020 August 27 - Contentyze: Generate content automatically with AI ](https://betalist.com/startups/contentyze)
 - [2020 August 27 - new fast.ai course: A Code-First Introduction to Natural Language Processing ](https://www.fast.ai/2019/07/08/fastai-nlp/)
 - [2020 August 27 - Training RoBERTa from scratch - the missing guide ](https://zablo.net/blog/post/training-roberta-from-scratch-the-missing-guide-polish-language-model/)
