@@ -15,6 +15,7 @@ toc: true
 ## Image 
 
 ### Image to Image
+- [2020 August 28 - A method for high-resolution Fast Style Transfer with limited memory<a class="github-button" href="https://github.com/czczup/block-shuffle" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/czczup/block-shuffle)
 - [2020 August 28 - Weights & Biases with fastai](https://colab.research.google.com/drive/1IWrhwcJoncCKHm6VXsNwOr9Yukhz3B49?usp=sharing#scrollTo=pEUmNSiDib50) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IWrhwcJoncCKHm6VXsNwOr9Yukhz3B49?usp=sharing#scrollTo=pEUmNSiDib50)
 - [2020 August 28 - Best Practices, code samples, and documentation for Computer Vision.<a class="github-button" href="https://github.com/microsoft/computervision-recipes" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/microsoft/computervision-recipes)
 - [2020 August 28 - Denoising Diffusion Probabilistic Models<a class="github-button" href="https://github.com/hojonathanho/diffusion" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/hojonathanho/diffusion)
