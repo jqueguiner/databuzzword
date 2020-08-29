@@ -195,13 +195,13 @@ toc: true
 - [2020 August 28 - Training CoreML Object Detection model from scratch using CreateML ](https://www.youtube.com/watch?v=3MXYwpifQOM&feature=share)
 - [2020 August 28 - FastAI to CoreML ](https://forums.fast.ai/t/fastai-to-coreml/43100/2)
 - [2020 August 28 - Helpers to convert Fast.ai models to CoreML<a class="github-button" href="https://github.com/deepinsand/fastai_to_coreml" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/deepinsand/fastai_to_coreml)
-- 2020 August 28 {% twitter https://twitter.com/madewithml/status/1295716197162336256?s=12 %}
-- 2020 August 28 {% twitter https://twitter.com/bastings_nlp/status/1295822652318392322?s=12 %}
-- 2020 August 28 {% twitter https://twitter.com/quantinsti/status/1295971265535066112?s=12 %}
-- 2020 August 28 {% twitter https://twitter.com/gp_pulipaka/status/1292553854022758400?s=12 %}
-- 2020 August 28 {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
+{% twitter https://twitter.com/madewithml/status/1295716197162336256?s=12 %}
+{% twitter https://twitter.com/bastings_nlp/status/1295822652318392322?s=12 %}
+{% twitter https://twitter.com/quantinsti/status/1295971265535066112?s=12 %}
+{% twitter https://twitter.com/gp_pulipaka/status/1292553854022758400?s=12 %}
+{% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
 - [2020 August 28 - PAIR-code/lit ](https://t.co/4CCWiAMPMk?amp=1)
-- 2020 August 28 {% twitter https://twitter.com/bastings_nlp/status/1295822652318392322?s=12 %}
+{% twitter https://twitter.com/bastings_nlp/status/1295822652318392322?s=12 %}
 - [2020 August 27 - acheamponge/Bundy-ML ](https://github.com/acheamponge/Bundy-ML)
 - [2020 August 27 - hooligan_demo ](https://resemble-ai.github.io/hooligan_demo/)
 
