@@ -86,8 +86,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
-- [2020 August 29 - Easy Data Augmentation for Text Classification ](https://www.youtube.com/watch?v=3w92peJtYNQ)
-<iframe width="50%" min-height="75%" src="https://www.youtube.com/watch?v=3w92peJtYNQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![2020 August 29 - Build GPT-3-like Language Model on Google Colab with minGPT [PyTorch]](http://img.youtube.com/vi/UNxQmfqHycQ/0.jpg)](https://m.youtube.com/watch?v=UNxQmfqHycQ&"Build GPT-3-like Language Model on Google Colab with minGPT [PyTorch]")
 [![2020 August 29 - Easy Data Augmentation for Text Classification](http://img.youtube.com/vi/3w92peJtYNQ/0.jpg)](https://www.youtube.com/watch?v=3w92peJtYNQ "2020 August 29 - Easy Data Augmentation for Text Classification")
 - [2020 August 29 - Forensic Writer Identification Using Microblogging Texts ](https://arxiv.org/abs/2008.01533)
 - [2020 August 29 - Explore and Visualize your LinkedIn Network with Python and Sentiment Analysis ](https://towardsdatascience.com/sentiment-analysis-of-linkedin-messages-3bb152307f84)
