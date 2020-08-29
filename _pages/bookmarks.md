@@ -15,6 +15,7 @@ toc: true
 ## Image 
 
 ### Image to Image
+- [2020 August 29 - StyleGAN-blending-example.ipynb](https://colab.research.google.com/drive/1tputbmA9EaXs9HL9iO21g7xN7jz_Xrko?usp=sharing) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tputbmA9EaXs9HL9iO21g7xN7jz_Xrko?usp=sharing)
 {% twitter https://twitter.com/ak92501/status/1291775907175309313?s=12 %}
 - [2020 August 29 - [Open Source]. The improved version of AnimeGAN. Landscape photos/videos to anime<a class="github-button" href="https://github.com/TachibanaYoshino/AnimeGANv2" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/TachibanaYoshino/AnimeGANv2)
 - [2020 August 29 - Speedup End-to-End Vision AI Using Transfer Learning Toolkit 2.0 & DeepStream SDK 5.0 – NVIDIA Developer News Center ](https://news.developer.nvidia.com/deepstream-5-0-tlt-2-0-ga/)
