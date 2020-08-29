@@ -156,6 +156,7 @@ toc: true
 
 ### Sound to Sound
 - [2020 August 28 - A Speaker Diarization on Google Cloud machine learning project with Ted Bundy Audio Data<a class="github-button" href="https://github.com/acheamponge/Bundy-ML" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/acheamponge/Bundy-ML)
+- [2020 August 29 - Manipulate your tabular data responsively and effectively within JupyterLab.<a class="github-button" href="https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor)
 - 2020 August 29 {% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
 - [2020 August 29 - XGBoost with Python -- Part 0 ](https://www.datasciencecentral.com/profiles/blogs/xgboost-with-python-part-0)
 - [2020 August 29 - ICML 2020 |
@@ -172,6 +173,7 @@ toc: true
 - 2020 August 28 {% twitter https://twitter.com/omarsar0/status/1295317099196407809?s=12 %}
 - [2020 August 28 - TensorFlow Object Detection on iOS ](https://www.youtube.com/watch?v=0uXMgLIlXoE)
 - [2020 August 28 - CoreML: Real Time Camera Object Detection with Machine Learning - Swift 4 ](https://www.youtube.com/watch?v=p6GA8ODlnX0&feature=share)
+- [2020 August 29 - Manipulate your tabular data responsively and effectively within JupyterLab.<a class="github-button" href="https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor)
 - 2020 August 29 {% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
 - [2020 August 29 - XGBoost with Python -- Part 0 ](https://www.datasciencecentral.com/profiles/blogs/xgboost-with-python-part-0)
 - [2020 August 29 - ICML 2020 |
@@ -211,6 +213,7 @@ toc: true
 ### Video to Sound
 
 ## Machine Learning
+- [2020 August 29 - Manipulate your tabular data responsively and effectively within JupyterLab.<a class="github-button" href="https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor)
 - 2020 August 29 {% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
 - [2020 August 29 - XGBoost with Python -- Part 0 ](https://www.datasciencecentral.com/profiles/blogs/xgboost-with-python-part-0)
 - [2020 August 29 - ICML 2020 |
@@ -227,6 +230,7 @@ toc: true
 - 2020 August 28 {% twitter https://twitter.com/omarsar0/status/1295317099196407809?s=12 %}
 - [2020 August 28 - TensorFlow Object Detection on iOS ](https://www.youtube.com/watch?v=0uXMgLIlXoE)
 - [2020 August 28 - CoreML: Real Time Camera Object Detection with Machine Learning - Swift 4 ](https://www.youtube.com/watch?v=p6GA8ODlnX0&feature=share)
+- [2020 August 29 - Manipulate your tabular data responsively and effectively within JupyterLab.<a class="github-button" href="https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor)
 - 2020 August 29 {% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
 - [2020 August 29 - XGBoost with Python -- Part 0 ](https://www.datasciencecentral.com/profiles/blogs/xgboost-with-python-part-0)
 - [2020 August 29 - ICML 2020 |
@@ -277,6 +281,7 @@ toc: true
 - [2020 August 27 - DEEP LEARNING · Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
 - [2020 August 27 - ivan-bilan/The-NLP-Pandect](https://github.com/ivan-bilan/The-NLP-Pandect)
 - [2020 August 27 - What I learned from looking at 200 machine learning tools - KDnuggets](https://www.kdnuggets.com/2020/07/200-machine-learning-tools.html)
+- [2020 August 29 - Manipulate your tabular data responsively and effectively within JupyterLab.<a class="github-button" href="https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor)
 - 2020 August 29 {% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
 - [2020 August 29 - XGBoost with Python -- Part 0 ](https://www.datasciencecentral.com/profiles/blogs/xgboost-with-python-part-0)
 - [2020 August 29 - ICML 2020 |
@@ -293,6 +298,7 @@ toc: true
 - 2020 August 28 {% twitter https://twitter.com/omarsar0/status/1295317099196407809?s=12 %}
 - [2020 August 28 - TensorFlow Object Detection on iOS ](https://www.youtube.com/watch?v=0uXMgLIlXoE)
 - [2020 August 28 - CoreML: Real Time Camera Object Detection with Machine Learning - Swift 4 ](https://www.youtube.com/watch?v=p6GA8ODlnX0&feature=share)
+- [2020 August 29 - Manipulate your tabular data responsively and effectively within JupyterLab.<a class="github-button" href="https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor)
 - 2020 August 29 {% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
 - [2020 August 29 - XGBoost with Python -- Part 0 ](https://www.datasciencecentral.com/profiles/blogs/xgboost-with-python-part-0)
 - [2020 August 29 - ICML 2020 |
@@ -330,6 +336,7 @@ toc: true
 - [2020 August 27 - Understanding Docker: part 1 – Retrieve & Pull images](https://dev.to/aurelievache/understanding-docker-part-1-retrieve-pull-images-3ccn)
 - [2020 August 27 - Five books every data scientist should read that are not about data science](https://towardsdatascience.com/five-books-every-data-scientist-should-read-that-are-not-about-data-science-f7335fb1f84f)
 - [2020 August 27 - Machine Learning Tokyo](https://github.com/Machine-Learning-Tokyo)
+- [2020 August 29 - Manipulate your tabular data responsively and effectively within JupyterLab.<a class="github-button" href="https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor)
 - 2020 August 29 {% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
 - [2020 August 29 - XGBoost with Python -- Part 0 ](https://www.datasciencecentral.com/profiles/blogs/xgboost-with-python-part-0)
 - [2020 August 29 - ICML 2020 |
@@ -346,6 +353,7 @@ toc: true
 - 2020 August 28 {% twitter https://twitter.com/omarsar0/status/1295317099196407809?s=12 %}
 - [2020 August 28 - TensorFlow Object Detection on iOS ](https://www.youtube.com/watch?v=0uXMgLIlXoE)
 - [2020 August 28 - CoreML: Real Time Camera Object Detection with Machine Learning - Swift 4 ](https://www.youtube.com/watch?v=p6GA8ODlnX0&feature=share)
+- [2020 August 29 - Manipulate your tabular data responsively and effectively within JupyterLab.<a class="github-button" href="https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor)
 - 2020 August 29 {% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
 - [2020 August 29 - XGBoost with Python -- Part 0 ](https://www.datasciencecentral.com/profiles/blogs/xgboost-with-python-part-0)
 - [2020 August 29 - ICML 2020 |
@@ -440,6 +448,7 @@ toc: true
 - [2020 August 27 - How To Identify The Best AI Opportunities For Your Business – In 2 Simple Steps ](https://www.linkedin.com/pulse/how-identify-best-ai-opportunities-your-business-2-simple-marr)
 - [2020 August 27 - microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes)
 - [2020 August 27 - Machine Learning India on LinkedIn: Pandas Library in 8 pages! | 20 comments](https://www.linkedin.com/posts/mlindia_pandas-library-in-8-pages-ugcPost-6704010710990553090-WkFc)
+- [2020 August 29 - Manipulate your tabular data responsively and effectively within JupyterLab.<a class="github-button" href="https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor)
 - 2020 August 29 {% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
 - [2020 August 29 - XGBoost with Python -- Part 0 ](https://www.datasciencecentral.com/profiles/blogs/xgboost-with-python-part-0)
 - [2020 August 29 - ICML 2020 |
@@ -456,6 +465,7 @@ toc: true
 - 2020 August 28 {% twitter https://twitter.com/omarsar0/status/1295317099196407809?s=12 %}
 - [2020 August 28 - TensorFlow Object Detection on iOS ](https://www.youtube.com/watch?v=0uXMgLIlXoE)
 - [2020 August 28 - CoreML: Real Time Camera Object Detection with Machine Learning - Swift 4 ](https://www.youtube.com/watch?v=p6GA8ODlnX0&feature=share)
+- [2020 August 29 - Manipulate your tabular data responsively and effectively within JupyterLab.<a class="github-button" href="https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor)
 - 2020 August 29 {% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
 - [2020 August 29 - XGBoost with Python -- Part 0 ](https://www.datasciencecentral.com/profiles/blogs/xgboost-with-python-part-0)
 - [2020 August 29 - ICML 2020 |
@@ -491,6 +501,7 @@ toc: true
 - [2020 August 28 - 🤖⚡ Daily scikit-learn tips<a class="github-button" href="https://github.com/justmarkham/scikit-learn-tips" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/justmarkham/scikit-learn-tips)
 - [2020 August 28 - Quick, visual, principled introduction to pytorch code through five colab notebooks.<a class="github-button" href="https://github.com/davidbau/how-to-read-pytorch" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/davidbau/how-to-read-pytorch)
 - [2020 August 28 - Bishop - Pattern Recognition And Machine Learning - Springer 2006](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+- [2020 August 29 - Manipulate your tabular data responsively and effectively within JupyterLab.<a class="github-button" href="https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor)
 - 2020 August 29 {% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
 - [2020 August 29 - XGBoost with Python -- Part 0 ](https://www.datasciencecentral.com/profiles/blogs/xgboost-with-python-part-0)
 - [2020 August 29 - ICML 2020 |
@@ -507,6 +518,7 @@ toc: true
 - 2020 August 28 {% twitter https://twitter.com/omarsar0/status/1295317099196407809?s=12 %}
 - [2020 August 28 - TensorFlow Object Detection on iOS ](https://www.youtube.com/watch?v=0uXMgLIlXoE)
 - [2020 August 28 - CoreML: Real Time Camera Object Detection with Machine Learning - Swift 4 ](https://www.youtube.com/watch?v=p6GA8ODlnX0&feature=share)
+- [2020 August 29 - Manipulate your tabular data responsively and effectively within JupyterLab.<a class="github-button" href="https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor)
 - 2020 August 29 {% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
 - [2020 August 29 - XGBoost with Python -- Part 0 ](https://www.datasciencecentral.com/profiles/blogs/xgboost-with-python-part-0)
 - [2020 August 29 - ICML 2020 |
