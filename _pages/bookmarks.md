@@ -84,6 +84,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
+- [2020 August 29 - Forensic Writer Identification Using Microblogging Texts ](https://arxiv.org/abs/2008.01533)
 - [2020 August 29 - Explore and Visualize your LinkedIn Network with Python and Sentiment Analysis ](https://towardsdatascience.com/sentiment-analysis-of-linkedin-messages-3bb152307f84)
 - 2020 August 28 {% twitter https://twitter.com/jmhessel/status/1289284128718893056?s=12 %}
 - 2020 August 28 {% twitter https://twitter.com/jayalammar/status/1295269021840023558?s=12 %}
