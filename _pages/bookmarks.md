@@ -479,6 +479,7 @@ toc: true
 - [2020 August 27 - The matrix calculus you need for deep learning](https://explained.ai/matrix-calculus/index.html)
 
 ## Others
+- [2020 August 29 - 11.49 GB folder on MEGA ](https://mega.nz/folder/OtllzJwa#C947mCCdEfMCRTWnDcs4qw)
 - [2020 August 29 - A light-weight, extendable, high level, universal code parser built on top of tree-sitter<a class="github-button" href="https://github.com/autosoft-dev/tree-hugger" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/autosoft-dev/tree-hugger)
 - [2020 August 28 - https://www.cloudera.com/tutorials.html ](https://www.cloudera.com/tutorials.html)
 {% twitter https://twitter.com/ak92501/status/1295617835205615617?s=12 %}
