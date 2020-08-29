@@ -58,6 +58,7 @@ toc: true
 - [2020 August 27 - Real-Time Head Pose Estimation in Python)](https://towardsdatascience.com/real-time-head-pose-estimation-in-python-e52db1bc606a)
 
 ### Image to Text
+- [2020 August 29 - Tensorflow 2 Object Detection API Tutorial. This tutorial will take you from installation, to running pre-trained detection model, and training your model with a custom dataset, then exporting it for inference.<a class="github-button" href="https://github.com/abdelrahman-gaber/tf2-object-detection-api-tutorial" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/abdelrahman-gaber/tf2-object-detection-api-tutorial)
 - [2020 August 28 - COCO-Object-Detection.ipynb](https://colab.research.google.com/drive/1qUEy1w8uYT2PQhan77RIn8NhfE_bMk63?) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qUEy1w8uYT2PQhan77RIn8NhfE_bMk63?)
 - [2020 August 28 - Captcha ](https://mc.ai/fastai-v1-object-detection-with-ssd/)
 - [2020 August 28 - Adrian Rosebrock on LinkedIn: OCR with Keras, TensorFlow, and Deep Learning | 16 comments ](https://www.linkedin.com/posts/adrian-rosebrock-59b8732a_ocr-with-keras-tensorflow-and-deep-learning-activity-6701126037956296704-72O5)
