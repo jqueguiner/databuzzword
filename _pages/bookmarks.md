@@ -157,6 +157,7 @@ toc: true
 ## Sound
 
 ### Sound to Image
+- [2020 August 29 - Neural Voice Puppetry ](https://justusthies.github.io/posts/neural-voice-puppetry/)
 
 ### Sound to Text
 
