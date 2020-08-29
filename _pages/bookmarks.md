@@ -409,6 +409,7 @@ toc: true
 - [2020 August 27 - Explainable AI vs Explaining AI — Part 1](https://towardsdatascience.com/explainable-ai-vs-explaining-ai-part-1-d39ea5053347)- [Bayes’ Theorem is Actually an Intuitive Fraction](https://towardsdatascience.com/bayes-theorem-is-actually-an-intuitive-fraction-5f2803998006)
 
 ## Quantum Computing
+- [2020 August 29 - 8 idées reçues sur l’informatique quantique | Microsoft experiences ](https://experiences.microsoft.fr/business/intelligence-artificielle-ia-business/8-idees-recues-sur-informatique-quantique/)
 
 ## Maths
 - [2020 August 27 - The matrix calculus you need for deep learning](https://explained.ai/matrix-calculus/index.html)
