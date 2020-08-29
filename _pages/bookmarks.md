@@ -18,9 +18,9 @@ toc: true
 - [2020 August 29 - Speedup End-to-End Vision AI Using Transfer Learning Toolkit 2.0 & DeepStream SDK 5.0 – NVIDIA Developer News Center ](https://news.developer.nvidia.com/deepstream-5-0-tlt-2-0-ga/)
 - [2020 August 29 - Camera localization and video stabilization component. Fixed coordinates system. Using Python and OpenCV.<a class="github-button" href="https://github.com/RnD-Oxagile/EvenVizion" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/RnD-Oxagile/EvenVizion)
 - [2020 August 28 - These photorealistic portraits of ancient Roman emperors were created using old statues and AI ](https://www.theverge.com/2020/8/21/21395115/roman-emperors-photorealistic-portraits-ai-artbreeder-dan-voshart)
-- 2020 August 28 {% twitter https://twitter.com/ak92501/status/1295527690435530752?s=12 %}
+{% twitter https://twitter.com/ak92501/status/1295527690435530752?s=12 %}
 - [2020 August 28 - Deep Generative Inpainting Network (DeepGIN) for Extreme Image Inpainting<a class="github-button" href="https://github.com/rlct1/DeepGIN" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/rlct1/DeepGIN)
-- 2020 August 28 {% twitter https://twitter.com/ak92501/status/1295555833825304576?s=12 %}
+{% twitter https://twitter.com/ak92501/status/1295555833825304576?s=12 %}
 - [2020 August 28 - Simplest working implementation of Stylegan2 in Pytorch. Enabling everyone to experience disentanglement<a class="github-button" href="https://github.com/lucidrains/stylegan2-pytorch" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/lucidrains/stylegan2-pytorch)
 - [2020 August 28 - Denoising Diffusion Probabilistic Models<a class="github-button" href="https://github.com/hojonathanho/diffusion" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/hojonathanho/diffusion)
 - [2020 August 28 - 人像卡通化探索项目 (photo-to-cartoon translation project)<a class="github-button" href="https://github.com/minivision-ai/photo2cartoon" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/minivision-ai/photo2cartoon)
@@ -64,8 +64,8 @@ toc: true
 - [2020 August 28 - Captcha ](https://mc.ai/fastai-v1-object-detection-with-ssd/)
 - [2020 August 28 - Adrian Rosebrock on LinkedIn: OCR with Keras, TensorFlow, and Deep Learning | 16 comments ](https://www.linkedin.com/posts/adrian-rosebrock-59b8732a_ocr-with-keras-tensorflow-and-deep-learning-activity-6701126037956296704-72O5)
 - [2020 August 28 - This repository contains the code and implementation details of the CascadeTabNet paper "CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents"<a class="github-button" href="https://github.com/DevashishPrasad/CascadeTabNet" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/DevashishPrasad/CascadeTabNet)
-- 2020 August 28 {% twitter https://twitter.com/baiduresearch/status/1295760376835891200?s=12 %}
-- 2020 August 28 {% twitter https://twitter.com/dlarlus/status/1291294219697557504?s=12 %}
+{% twitter https://twitter.com/baiduresearch/status/1295760376835891200?s=12 %}
+{% twitter https://twitter.com/dlarlus/status/1291294219697557504?s=12 %}
 - [2020 August 28 - Object detection and instance segmentation toolkit based on PaddlePaddle.<a class="github-button" href="https://github.com/PaddlePaddle/PaddleDetection" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/PaddlePaddle/PaddleDetection)
 - [2020 August 28 - Some experiments with object detection in PyTorch<a class="github-button" href="https://github.com/ChristianMarzahl/ObjectDetection" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/ChristianMarzahl/ObjectDetection)
 - [2020 August 28 - Mersive-Technologies/yolov3 ](https://github.com/Mersive-Technologies/yolov3/blob/master/fastai.ipynb)
@@ -86,17 +86,17 @@ toc: true
 ### Text to Text
 - [2020 August 29 - Forensic Writer Identification Using Microblogging Texts ](https://arxiv.org/abs/2008.01533)
 - [2020 August 29 - Explore and Visualize your LinkedIn Network with Python and Sentiment Analysis ](https://towardsdatascience.com/sentiment-analysis-of-linkedin-messages-3bb152307f84)
-- 2020 August 28 {% twitter https://twitter.com/jmhessel/status/1289284128718893056?s=12 %}
-- 2020 August 28 {% twitter https://twitter.com/jayalammar/status/1295269021840023558?s=12 %}
-- 2020 August 28 {% twitter https://twitter.com/joeddav/status/1295361743322062848?s=12 %}
+{% twitter https://twitter.com/jmhessel/status/1289284128718893056?s=12 %}
+{% twitter https://twitter.com/jayalammar/status/1295269021840023558?s=12 %}
+{% twitter https://twitter.com/joeddav/status/1295361743322062848?s=12 %}
 - [2020 August 28 - Fine-tuning with custom datasets — transformers 3.0.2 documentation ](https://huggingface.co/transformers/master/custom_datasets.html)
-- 2020 August 28 {% twitter https://twitter.com/mrm8488/status/1295680004039344135?s=12 %}
+{% twitter https://twitter.com/mrm8488/status/1295680004039344135?s=12 %}
 - [2020 August 28 - Build GPT-3-like Language Model on Google Colab with minGPT [PyTorch] ](https://m.youtube.com/watch?v=UNxQmfqHycQ)
 - [2020 August 28 - Building AGI Using Language Models ](https://leogao.dev/2020/08/17/Building-AGI-Using-Language-Models/)
-- 2020 August 28 {% twitter https://twitter.com/jxmorris12/status/1295735705709293570?s=12 %}
+{% twitter https://twitter.com/jxmorris12/status/1295735705709293570?s=12 %}
 - [2020 August 28 - Object Detection — Document Layout Analysis Using Monk AI ](https://medium.com/towards-artificial-intelligence/object-detection-document-layout-analysis-using-monk-object-detection-toolkit-6c57200bde5?source=rss----98111c9905da---4)
-- 2020 August 28 {% twitter https://twitter.com/akaagar/status/1295688008071618562?s=12 %}
-- 2020 August 28 {% twitter https://twitter.com/jonassaa/status/1295980263684571136?s=12 %}
+{% twitter https://twitter.com/akaagar/status/1295688008071618562?s=12 %}
+{% twitter https://twitter.com/jonassaa/status/1295980263684571136?s=12 %}
 - [2020 August 28 - Reformer, the efficient Transformer, in Pytorch<a class="github-button" href="https://github.com/lucidrains/reformer-pytorch" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/lucidrains/reformer-pytorch)
 - [2020 August 28 - A flexible free and unlimited python tool to translate between different languages in a simple way using multiple translators.<a class="github-button" href="https://github.com/nidhaloff/deep_translator" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/nidhaloff/deep_translator)
 - [2020 August 28 - Chains.ipynb](https://colab.research.google.com/drive/1Py7nyJO_sgOYf8Fh-2Dcn1JmxEJyUUor?usp=sharing) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Py7nyJO_sgOYf8Fh-2Dcn1JmxEJyUUor?usp=sharing)
@@ -160,7 +160,7 @@ toc: true
 ### Sound to Sound
 - [2020 August 28 - A Speaker Diarization on Google Cloud machine learning project with Ted Bundy Audio Data<a class="github-button" href="https://github.com/acheamponge/Bundy-ML" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/acheamponge/Bundy-ML)
 - [2020 August 29 - Manipulate your tabular data responsively and effectively within JupyterLab.<a class="github-button" href="https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor)
-- 2020 August 29 {% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
+{% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
 - [2020 August 29 - XGBoost with Python -- Part 0 ](https://www.datasciencecentral.com/profiles/blogs/xgboost-with-python-part-0)
 - [2020 August 29 - ICML 2020 |
            ](https://slideslive.com/icml-2020/selfsupervision-in-audio-and-speech)
@@ -173,11 +173,11 @@ toc: true
 - [2020 August 28 - Model-Logger is a Python library for storing model's profile and rapid inter model comparison.<a class="github-button" href="https://github.com/SohamPathak/modellogger.github.io" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/SohamPathak/modellogger.github.io)
 - [2020 August 28 - Model Serving Made Easy<a class="github-button" href="https://github.com/bentoml/BentoML" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/bentoml/BentoML)
 - [2020 August 28 - Monte Carlo simulation on Dice Battles: RISK, 80 Attackers vs. 20 Defenders ](https://medium.com/towards-artificial-intelligence/monte-carlo-simulation-on-dice-battles-risk-80-attackers-vs-20-defenders-df6700e44763)
-- 2020 August 28 {% twitter https://twitter.com/omarsar0/status/1295317099196407809?s=12 %}
+{% twitter https://twitter.com/omarsar0/status/1295317099196407809?s=12 %}
 - [2020 August 28 - TensorFlow Object Detection on iOS ](https://www.youtube.com/watch?v=0uXMgLIlXoE)
 - [2020 August 28 - CoreML: Real Time Camera Object Detection with Machine Learning - Swift 4 ](https://www.youtube.com/watch?v=p6GA8ODlnX0&feature=share)
 - [2020 August 29 - Manipulate your tabular data responsively and effectively within JupyterLab.<a class="github-button" href="https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor)
-- 2020 August 29 {% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
+{% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
 - [2020 August 29 - XGBoost with Python -- Part 0 ](https://www.datasciencecentral.com/profiles/blogs/xgboost-with-python-part-0)
 - [2020 August 29 - ICML 2020 |
            ](https://slideslive.com/icml-2020/selfsupervision-in-audio-and-speech)
@@ -217,7 +217,7 @@ toc: true
 
 ## Machine Learning
 - [2020 August 29 - Manipulate your tabular data responsively and effectively within JupyterLab.<a class="github-button" href="https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor)
-- 2020 August 29 {% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
+{% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
 - [2020 August 29 - XGBoost with Python -- Part 0 ](https://www.datasciencecentral.com/profiles/blogs/xgboost-with-python-part-0)
 - [2020 August 29 - ICML 2020 |
            ](https://slideslive.com/icml-2020/selfsupervision-in-audio-and-speech)
@@ -230,11 +230,11 @@ toc: true
 - [2020 August 28 - Model-Logger is a Python library for storing model's profile and rapid inter model comparison.<a class="github-button" href="https://github.com/SohamPathak/modellogger.github.io" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/SohamPathak/modellogger.github.io)
 - [2020 August 28 - Model Serving Made Easy<a class="github-button" href="https://github.com/bentoml/BentoML" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/bentoml/BentoML)
 - [2020 August 28 - Monte Carlo simulation on Dice Battles: RISK, 80 Attackers vs. 20 Defenders ](https://medium.com/towards-artificial-intelligence/monte-carlo-simulation-on-dice-battles-risk-80-attackers-vs-20-defenders-df6700e44763)
-- 2020 August 28 {% twitter https://twitter.com/omarsar0/status/1295317099196407809?s=12 %}
+{% twitter https://twitter.com/omarsar0/status/1295317099196407809?s=12 %}
 - [2020 August 28 - TensorFlow Object Detection on iOS ](https://www.youtube.com/watch?v=0uXMgLIlXoE)
 - [2020 August 28 - CoreML: Real Time Camera Object Detection with Machine Learning - Swift 4 ](https://www.youtube.com/watch?v=p6GA8ODlnX0&feature=share)
 - [2020 August 29 - Manipulate your tabular data responsively and effectively within JupyterLab.<a class="github-button" href="https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor)
-- 2020 August 29 {% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
+{% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
 - [2020 August 29 - XGBoost with Python -- Part 0 ](https://www.datasciencecentral.com/profiles/blogs/xgboost-with-python-part-0)
 - [2020 August 29 - ICML 2020 |
            ](https://slideslive.com/icml-2020/selfsupervision-in-audio-and-speech)
@@ -252,13 +252,13 @@ toc: true
 - [2020 August 28 - Training CoreML Object Detection model from scratch using CreateML ](https://www.youtube.com/watch?v=3MXYwpifQOM&feature=share)
 - [2020 August 28 - FastAI to CoreML ](https://forums.fast.ai/t/fastai-to-coreml/43100/2)
 - [2020 August 28 - Helpers to convert Fast.ai models to CoreML<a class="github-button" href="https://github.com/deepinsand/fastai_to_coreml" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/deepinsand/fastai_to_coreml)
-- 2020 August 28 {% twitter https://twitter.com/madewithml/status/1295716197162336256?s=12 %}
-- 2020 August 28 {% twitter https://twitter.com/bastings_nlp/status/1295822652318392322?s=12 %}
-- 2020 August 28 {% twitter https://twitter.com/quantinsti/status/1295971265535066112?s=12 %}
-- 2020 August 28 {% twitter https://twitter.com/gp_pulipaka/status/1292553854022758400?s=12 %}
-- 2020 August 28 {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
+{% twitter https://twitter.com/madewithml/status/1295716197162336256?s=12 %}
+{% twitter https://twitter.com/bastings_nlp/status/1295822652318392322?s=12 %}
+{% twitter https://twitter.com/quantinsti/status/1295971265535066112?s=12 %}
+{% twitter https://twitter.com/gp_pulipaka/status/1292553854022758400?s=12 %}
+{% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
 - [2020 August 28 - PAIR-code/lit ](https://t.co/4CCWiAMPMk?amp=1)
-- 2020 August 28 {% twitter https://twitter.com/bastings_nlp/status/1295822652318392322?s=12 %}
+{% twitter https://twitter.com/bastings_nlp/status/1295822652318392322?s=12 %}
 - [2020 August 28 - Open a shell session in Colab notebooks using Python and JQuery<a class="github-button" href="https://github.com/alessandrobessi/colab-shell" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/alessandrobessi/colab-shell)
 - [2020 August 28 - Python datetimes made easy<a class="github-button" href="https://github.com/sdispater/pendulum" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/sdispater/pendulum)
 - [2020 August 28 - A comprehensive reference for all topics related to Natural Language Processing<a class="github-button" href="https://github.com/ivan-bilan/The-NLP-Pandect" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/ivan-bilan/The-NLP-Pandect)
@@ -285,7 +285,7 @@ toc: true
 - [2020 August 27 - ivan-bilan/The-NLP-Pandect](https://github.com/ivan-bilan/The-NLP-Pandect)
 - [2020 August 27 - What I learned from looking at 200 machine learning tools - KDnuggets](https://www.kdnuggets.com/2020/07/200-machine-learning-tools.html)
 - [2020 August 29 - Manipulate your tabular data responsively and effectively within JupyterLab.<a class="github-button" href="https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor)
-- 2020 August 29 {% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
+{% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
 - [2020 August 29 - XGBoost with Python -- Part 0 ](https://www.datasciencecentral.com/profiles/blogs/xgboost-with-python-part-0)
 - [2020 August 29 - ICML 2020 |
            ](https://slideslive.com/icml-2020/selfsupervision-in-audio-and-speech)
@@ -298,11 +298,11 @@ toc: true
 - [2020 August 28 - Model-Logger is a Python library for storing model's profile and rapid inter model comparison.<a class="github-button" href="https://github.com/SohamPathak/modellogger.github.io" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/SohamPathak/modellogger.github.io)
 - [2020 August 28 - Model Serving Made Easy<a class="github-button" href="https://github.com/bentoml/BentoML" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/bentoml/BentoML)
 - [2020 August 28 - Monte Carlo simulation on Dice Battles: RISK, 80 Attackers vs. 20 Defenders ](https://medium.com/towards-artificial-intelligence/monte-carlo-simulation-on-dice-battles-risk-80-attackers-vs-20-defenders-df6700e44763)
-- 2020 August 28 {% twitter https://twitter.com/omarsar0/status/1295317099196407809?s=12 %}
+{% twitter https://twitter.com/omarsar0/status/1295317099196407809?s=12 %}
 - [2020 August 28 - TensorFlow Object Detection on iOS ](https://www.youtube.com/watch?v=0uXMgLIlXoE)
 - [2020 August 28 - CoreML: Real Time Camera Object Detection with Machine Learning - Swift 4 ](https://www.youtube.com/watch?v=p6GA8ODlnX0&feature=share)
 - [2020 August 29 - Manipulate your tabular data responsively and effectively within JupyterLab.<a class="github-button" href="https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor)
-- 2020 August 29 {% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
+{% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
 - [2020 August 29 - XGBoost with Python -- Part 0 ](https://www.datasciencecentral.com/profiles/blogs/xgboost-with-python-part-0)
 - [2020 August 29 - ICML 2020 |
            ](https://slideslive.com/icml-2020/selfsupervision-in-audio-and-speech)
@@ -315,16 +315,16 @@ toc: true
 - [2020 August 28 - Model-Logger is a Python library for storing model's profile and rapid inter model comparison.<a class="github-button" href="https://github.com/SohamPathak/modellogger.github.io" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/SohamPathak/modellogger.github.io)
 - [2020 August 28 - Model Serving Made Easy<a class="github-button" href="https://github.com/bentoml/BentoML" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/bentoml/BentoML)
 - [2020 August 28 - Monte Carlo simulation on Dice Battles: RISK, 80 Attackers vs. 20 Defenders ](https://medium.com/towards-artificial-intelligence/monte-carlo-simulation-on-dice-battles-risk-80-attackers-vs-20-defenders-df6700e44763)
-- 2020 August 28 {% twitter https://twitter.com/omarsar0/status/1295317099196407809?s=12 %}
+{% twitter https://twitter.com/omarsar0/status/1295317099196407809?s=12 %}
 - [2020 August 28 - TensorFlow Object Detection on iOS ](https://www.youtube.com/watch?v=0uXMgLIlXoE)
 - [2020 August 28 - Training CoreML Object Detection model from scratch using CreateML ](https://www.youtube.com/watch?v=3MXYwpifQOM&feature=share)
 - [2020 August 28 - FastAI to CoreML ](https://forums.fast.ai/t/fastai-to-coreml/43100/2)
 - [2020 August 28 - Helpers to convert Fast.ai models to CoreML<a class="github-button" href="https://github.com/deepinsand/fastai_to_coreml" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/deepinsand/fastai_to_coreml)
-- 2020 August 28 {% twitter https://twitter.com/madewithml/status/1295716197162336256?s=12 %}
-- 2020 August 28 {% twitter https://twitter.com/bastings_nlp/status/1295822652318392322?s=12 %}
-- 2020 August 28 {% twitter https://twitter.com/quantinsti/status/1295971265535066112?s=12 %}
-- 2020 August 28 {% twitter https://twitter.com/gp_pulipaka/status/1292553854022758400?s=12 %}
-- 2020 August 28 {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
+{% twitter https://twitter.com/madewithml/status/1295716197162336256?s=12 %}
+{% twitter https://twitter.com/bastings_nlp/status/1295822652318392322?s=12 %}
+{% twitter https://twitter.com/quantinsti/status/1295971265535066112?s=12 %}
+{% twitter https://twitter.com/gp_pulipaka/status/1292553854022758400?s=12 %}
+{% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
 - [2020 August 28 - PAIR-code/lit ](https://t.co/4CCWiAMPMk?amp=1)
 - 2020 August 28 {% twitter https://twitter.com/bastings_nlp/status/1295822652318392322?s=12 %}
 - [2020 August 28 - Open a shell session in Colab notebooks using Python and JQuery<a class="github-button" href="https://github.com/alessandrobessi/colab-shell" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/alessandrobessi/colab-shell)
@@ -340,7 +340,7 @@ toc: true
 - [2020 August 27 - Five books every data scientist should read that are not about data science](https://towardsdatascience.com/five-books-every-data-scientist-should-read-that-are-not-about-data-science-f7335fb1f84f)
 - [2020 August 27 - Machine Learning Tokyo](https://github.com/Machine-Learning-Tokyo)
 - [2020 August 29 - Manipulate your tabular data responsively and effectively within JupyterLab.<a class="github-button" href="https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor)
-- 2020 August 29 {% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
+{% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
 - [2020 August 29 - XGBoost with Python -- Part 0 ](https://www.datasciencecentral.com/profiles/blogs/xgboost-with-python-part-0)
 - [2020 August 29 - ICML 2020 |
            ](https://slideslive.com/icml-2020/selfsupervision-in-audio-and-speech)
@@ -353,11 +353,11 @@ toc: true
 - [2020 August 28 - Model-Logger is a Python library for storing model's profile and rapid inter model comparison.<a class="github-button" href="https://github.com/SohamPathak/modellogger.github.io" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/SohamPathak/modellogger.github.io)
 - [2020 August 28 - Model Serving Made Easy<a class="github-button" href="https://github.com/bentoml/BentoML" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/bentoml/BentoML)
 - [2020 August 28 - Monte Carlo simulation on Dice Battles: RISK, 80 Attackers vs. 20 Defenders ](https://medium.com/towards-artificial-intelligence/monte-carlo-simulation-on-dice-battles-risk-80-attackers-vs-20-defenders-df6700e44763)
-- 2020 August 28 {% twitter https://twitter.com/omarsar0/status/1295317099196407809?s=12 %}
+{% twitter https://twitter.com/omarsar0/status/1295317099196407809?s=12 %}
 - [2020 August 28 - TensorFlow Object Detection on iOS ](https://www.youtube.com/watch?v=0uXMgLIlXoE)
 - [2020 August 28 - CoreML: Real Time Camera Object Detection with Machine Learning - Swift 4 ](https://www.youtube.com/watch?v=p6GA8ODlnX0&feature=share)
 - [2020 August 29 - Manipulate your tabular data responsively and effectively within JupyterLab.<a class="github-button" href="https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor)
-- 2020 August 29 {% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
+{% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
 - [2020 August 29 - XGBoost with Python -- Part 0 ](https://www.datasciencecentral.com/profiles/blogs/xgboost-with-python-part-0)
 - [2020 August 29 - ICML 2020 |
            ](https://slideslive.com/icml-2020/selfsupervision-in-audio-and-speech)
@@ -370,18 +370,18 @@ toc: true
 - [2020 August 28 - Model-Logger is a Python library for storing model's profile and rapid inter model comparison.<a class="github-button" href="https://github.com/SohamPathak/modellogger.github.io" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/SohamPathak/modellogger.github.io)
 - [2020 August 28 - Model Serving Made Easy<a class="github-button" href="https://github.com/bentoml/BentoML" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/bentoml/BentoML)
 - [2020 August 28 - Monte Carlo simulation on Dice Battles: RISK, 80 Attackers vs. 20 Defenders ](https://medium.com/towards-artificial-intelligence/monte-carlo-simulation-on-dice-battles-risk-80-attackers-vs-20-defenders-df6700e44763)
-- 2020 August 28 {% twitter https://twitter.com/omarsar0/status/1295317099196407809?s=12 %}
+{% twitter https://twitter.com/omarsar0/status/1295317099196407809?s=12 %}
 - [2020 August 28 - TensorFlow Object Detection on iOS ](https://www.youtube.com/watch?v=0uXMgLIlXoE)
 - [2020 August 28 - Training CoreML Object Detection model from scratch using CreateML ](https://www.youtube.com/watch?v=3MXYwpifQOM&feature=share)
 - [2020 August 28 - FastAI to CoreML ](https://forums.fast.ai/t/fastai-to-coreml/43100/2)
 - [2020 August 28 - Helpers to convert Fast.ai models to CoreML<a class="github-button" href="https://github.com/deepinsand/fastai_to_coreml" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/deepinsand/fastai_to_coreml)
-- 2020 August 28 {% twitter https://twitter.com/madewithml/status/1295716197162336256?s=12 %}
-- 2020 August 28 {% twitter https://twitter.com/bastings_nlp/status/1295822652318392322?s=12 %}
-- 2020 August 28 {% twitter https://twitter.com/quantinsti/status/1295971265535066112?s=12 %}
-- 2020 August 28 {% twitter https://twitter.com/gp_pulipaka/status/1292553854022758400?s=12 %}
-- 2020 August 28 {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
+{% twitter https://twitter.com/madewithml/status/1295716197162336256?s=12 %}
+{% twitter https://twitter.com/bastings_nlp/status/1295822652318392322?s=12 %}
+{% twitter https://twitter.com/quantinsti/status/1295971265535066112?s=12 %}
+{% twitter https://twitter.com/gp_pulipaka/status/1292553854022758400?s=12 %}
+{% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
 - [2020 August 28 - PAIR-code/lit ](https://t.co/4CCWiAMPMk?amp=1)
-- 2020 August 28 {% twitter https://twitter.com/bastings_nlp/status/1295822652318392322?s=12 %}
+{% twitter https://twitter.com/bastings_nlp/status/1295822652318392322?s=12 %}
 - [2020 August 28 - Open a shell session in Colab notebooks using Python and JQuery<a class="github-button" href="https://github.com/alessandrobessi/colab-shell" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/alessandrobessi/colab-shell)
 - [2020 August 28 - Python datetimes made easy<a class="github-button" href="https://github.com/sdispater/pendulum" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/sdispater/pendulum)
 - [2020 August 28 - A comprehensive reference for all topics related to Natural Language Processing<a class="github-button" href="https://github.com/ivan-bilan/The-NLP-Pandect" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/ivan-bilan/The-NLP-Pandect)
@@ -426,9 +426,10 @@ toc: true
 - [2020 August 27 - The matrix calculus you need for deep learning](https://explained.ai/matrix-calculus/index.html)
 
 ## Others
+- [2020 August 29 - A light-weight, extendable, high level, universal code parser built on top of tree-sitter<a class="github-button" href="https://github.com/autosoft-dev/tree-hugger" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/autosoft-dev/tree-hugger)
 - [2020 August 28 - https://www.cloudera.com/tutorials.html ](https://www.cloudera.com/tutorials.html)
-- 2020 August 28 {% twitter https://twitter.com/ak92501/status/1295617835205615617?s=12 %}
-- 2020 August 28 {% twitter https://twitter.com/intersystems_fr/status/1295980130175770624?s=12 %}
+{% twitter https://twitter.com/ak92501/status/1295617835205615617?s=12 %}
+{% twitter https://twitter.com/intersystems_fr/status/1295980130175770624?s=12 %}
 - [2020 August 28 - Nous attaquons la reconnaissance faciale dans le TAJ ](https://www.laquadrature.net/2020/08/07/nous-attaquons-la-reconnaissance-faciale-dans-le-taj/)
 - [2020 August 28 - L'intelligence artificielle, qu'est ce que c'est ? Data Insights#1 ](https://m.youtube.com/watch?feature=youtu.be&v=r2M8pgrf3T0)
 - [2020 August 28 - Non, le CLOUD Act n'est pas ce que vous croyez. Vraiment pas. ](https://francoischarlet.ch/2020/cloud-act-pas-ce-que-vous-croyez/)
@@ -452,7 +453,7 @@ toc: true
 - [2020 August 27 - microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes)
 - [2020 August 27 - Machine Learning India on LinkedIn: Pandas Library in 8 pages! | 20 comments](https://www.linkedin.com/posts/mlindia_pandas-library-in-8-pages-ugcPost-6704010710990553090-WkFc)
 - [2020 August 29 - Manipulate your tabular data responsively and effectively within JupyterLab.<a class="github-button" href="https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor)
-- 2020 August 29 {% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
+{% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
 - [2020 August 29 - XGBoost with Python -- Part 0 ](https://www.datasciencecentral.com/profiles/blogs/xgboost-with-python-part-0)
 - [2020 August 29 - ICML 2020 |
            ](https://slideslive.com/icml-2020/selfsupervision-in-audio-and-speech)
@@ -465,11 +466,11 @@ toc: true
 - [2020 August 28 - Model-Logger is a Python library for storing model's profile and rapid inter model comparison.<a class="github-button" href="https://github.com/SohamPathak/modellogger.github.io" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/SohamPathak/modellogger.github.io)
 - [2020 August 28 - Model Serving Made Easy<a class="github-button" href="https://github.com/bentoml/BentoML" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/bentoml/BentoML)
 - [2020 August 28 - Monte Carlo simulation on Dice Battles: RISK, 80 Attackers vs. 20 Defenders ](https://medium.com/towards-artificial-intelligence/monte-carlo-simulation-on-dice-battles-risk-80-attackers-vs-20-defenders-df6700e44763)
-- 2020 August 28 {% twitter https://twitter.com/omarsar0/status/1295317099196407809?s=12 %}
+{% twitter https://twitter.com/omarsar0/status/1295317099196407809?s=12 %}
 - [2020 August 28 - TensorFlow Object Detection on iOS ](https://www.youtube.com/watch?v=0uXMgLIlXoE)
 - [2020 August 28 - CoreML: Real Time Camera Object Detection with Machine Learning - Swift 4 ](https://www.youtube.com/watch?v=p6GA8ODlnX0&feature=share)
 - [2020 August 29 - Manipulate your tabular data responsively and effectively within JupyterLab.<a class="github-button" href="https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor)
-- 2020 August 29 {% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
+{% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
 - [2020 August 29 - XGBoost with Python -- Part 0 ](https://www.datasciencecentral.com/profiles/blogs/xgboost-with-python-part-0)
 - [2020 August 29 - ICML 2020 |
            ](https://slideslive.com/icml-2020/selfsupervision-in-audio-and-speech)
@@ -482,18 +483,18 @@ toc: true
 - [2020 August 28 - Model-Logger is a Python library for storing model's profile and rapid inter model comparison.<a class="github-button" href="https://github.com/SohamPathak/modellogger.github.io" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/SohamPathak/modellogger.github.io)
 - [2020 August 28 - Model Serving Made Easy<a class="github-button" href="https://github.com/bentoml/BentoML" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/bentoml/BentoML)
 - [2020 August 28 - Monte Carlo simulation on Dice Battles: RISK, 80 Attackers vs. 20 Defenders ](https://medium.com/towards-artificial-intelligence/monte-carlo-simulation-on-dice-battles-risk-80-attackers-vs-20-defenders-df6700e44763)
-- 2020 August 28 {% twitter https://twitter.com/omarsar0/status/1295317099196407809?s=12 %}
+{% twitter https://twitter.com/omarsar0/status/1295317099196407809?s=12 %}
 - [2020 August 28 - TensorFlow Object Detection on iOS ](https://www.youtube.com/watch?v=0uXMgLIlXoE)
 - [2020 August 28 - Training CoreML Object Detection model from scratch using CreateML ](https://www.youtube.com/watch?v=3MXYwpifQOM&feature=share)
 - [2020 August 28 - FastAI to CoreML ](https://forums.fast.ai/t/fastai-to-coreml/43100/2)
 - [2020 August 28 - Helpers to convert Fast.ai models to CoreML<a class="github-button" href="https://github.com/deepinsand/fastai_to_coreml" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/deepinsand/fastai_to_coreml)
-- 2020 August 28 {% twitter https://twitter.com/madewithml/status/1295716197162336256?s=12 %}
-- 2020 August 28 {% twitter https://twitter.com/bastings_nlp/status/1295822652318392322?s=12 %}
-- 2020 August 28 {% twitter https://twitter.com/quantinsti/status/1295971265535066112?s=12 %}
-- 2020 August 28 {% twitter https://twitter.com/gp_pulipaka/status/1292553854022758400?s=12 %}
-- 2020 August 28 {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
+{% twitter https://twitter.com/madewithml/status/1295716197162336256?s=12 %}
+{% twitter https://twitter.com/bastings_nlp/status/1295822652318392322?s=12 %}
+{% twitter https://twitter.com/quantinsti/status/1295971265535066112?s=12 %}
+{% twitter https://twitter.com/gp_pulipaka/status/1292553854022758400?s=12 %}
+{% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
 - [2020 August 28 - PAIR-code/lit ](https://t.co/4CCWiAMPMk?amp=1)
-- 2020 August 28 {% twitter https://twitter.com/bastings_nlp/status/1295822652318392322?s=12 %}
+{% twitter https://twitter.com/bastings_nlp/status/1295822652318392322?s=12 %}
 - [2020 August 28 - Open a shell session in Colab notebooks using Python and JQuery<a class="github-button" href="https://github.com/alessandrobessi/colab-shell" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/alessandrobessi/colab-shell)
 - [2020 August 28 - Python datetimes made easy<a class="github-button" href="https://github.com/sdispater/pendulum" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/sdispater/pendulum)
 - [2020 August 28 - A comprehensive reference for all topics related to Natural Language Processing<a class="github-button" href="https://github.com/ivan-bilan/The-NLP-Pandect" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/ivan-bilan/The-NLP-Pandect)
@@ -505,7 +506,7 @@ toc: true
 - [2020 August 28 - Quick, visual, principled introduction to pytorch code through five colab notebooks.<a class="github-button" href="https://github.com/davidbau/how-to-read-pytorch" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/davidbau/how-to-read-pytorch)
 - [2020 August 28 - Bishop - Pattern Recognition And Machine Learning - Springer 2006](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 - [2020 August 29 - Manipulate your tabular data responsively and effectively within JupyterLab.<a class="github-button" href="https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor)
-- 2020 August 29 {% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
+{% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
 - [2020 August 29 - XGBoost with Python -- Part 0 ](https://www.datasciencecentral.com/profiles/blogs/xgboost-with-python-part-0)
 - [2020 August 29 - ICML 2020 |
            ](https://slideslive.com/icml-2020/selfsupervision-in-audio-and-speech)
@@ -518,11 +519,11 @@ toc: true
 - [2020 August 28 - Model-Logger is a Python library for storing model's profile and rapid inter model comparison.<a class="github-button" href="https://github.com/SohamPathak/modellogger.github.io" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/SohamPathak/modellogger.github.io)
 - [2020 August 28 - Model Serving Made Easy<a class="github-button" href="https://github.com/bentoml/BentoML" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/bentoml/BentoML)
 - [2020 August 28 - Monte Carlo simulation on Dice Battles: RISK, 80 Attackers vs. 20 Defenders ](https://medium.com/towards-artificial-intelligence/monte-carlo-simulation-on-dice-battles-risk-80-attackers-vs-20-defenders-df6700e44763)
-- 2020 August 28 {% twitter https://twitter.com/omarsar0/status/1295317099196407809?s=12 %}
+{% twitter https://twitter.com/omarsar0/status/1295317099196407809?s=12 %}
 - [2020 August 28 - TensorFlow Object Detection on iOS ](https://www.youtube.com/watch?v=0uXMgLIlXoE)
 - [2020 August 28 - CoreML: Real Time Camera Object Detection with Machine Learning - Swift 4 ](https://www.youtube.com/watch?v=p6GA8ODlnX0&feature=share)
 - [2020 August 29 - Manipulate your tabular data responsively and effectively within JupyterLab.<a class="github-button" href="https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/jupytercalpoly/jupyterlab-tabular-data-editor)
-- 2020 August 29 {% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
+{% twitter https://twitter.com/mcgenergy/status/1290738392809050120?s=12 %}
 - [2020 August 29 - XGBoost with Python -- Part 0 ](https://www.datasciencecentral.com/profiles/blogs/xgboost-with-python-part-0)
 - [2020 August 29 - ICML 2020 |
            ](https://slideslive.com/icml-2020/selfsupervision-in-audio-and-speech)
@@ -535,18 +536,18 @@ toc: true
 - [2020 August 28 - Model-Logger is a Python library for storing model's profile and rapid inter model comparison.<a class="github-button" href="https://github.com/SohamPathak/modellogger.github.io" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/SohamPathak/modellogger.github.io)
 - [2020 August 28 - Model Serving Made Easy<a class="github-button" href="https://github.com/bentoml/BentoML" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/bentoml/BentoML)
 - [2020 August 28 - Monte Carlo simulation on Dice Battles: RISK, 80 Attackers vs. 20 Defenders ](https://medium.com/towards-artificial-intelligence/monte-carlo-simulation-on-dice-battles-risk-80-attackers-vs-20-defenders-df6700e44763)
-- 2020 August 28 {% twitter https://twitter.com/omarsar0/status/1295317099196407809?s=12 %}
+{% twitter https://twitter.com/omarsar0/status/1295317099196407809?s=12 %}
 - [2020 August 28 - TensorFlow Object Detection on iOS ](https://www.youtube.com/watch?v=0uXMgLIlXoE)
 - [2020 August 28 - Training CoreML Object Detection model from scratch using CreateML ](https://www.youtube.com/watch?v=3MXYwpifQOM&feature=share)
 - [2020 August 28 - FastAI to CoreML ](https://forums.fast.ai/t/fastai-to-coreml/43100/2)
 - [2020 August 28 - Helpers to convert Fast.ai models to CoreML<a class="github-button" href="https://github.com/deepinsand/fastai_to_coreml" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/deepinsand/fastai_to_coreml)
-- 2020 August 28 {% twitter https://twitter.com/madewithml/status/1295716197162336256?s=12 %}
-- 2020 August 28 {% twitter https://twitter.com/bastings_nlp/status/1295822652318392322?s=12 %}
-- 2020 August 28 {% twitter https://twitter.com/quantinsti/status/1295971265535066112?s=12 %}
-- 2020 August 28 {% twitter https://twitter.com/gp_pulipaka/status/1292553854022758400?s=12 %}
-- 2020 August 28 {% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
+{% twitter https://twitter.com/madewithml/status/1295716197162336256?s=12 %}
+{% twitter https://twitter.com/bastings_nlp/status/1295822652318392322?s=12 %}
+{% twitter https://twitter.com/quantinsti/status/1295971265535066112?s=12 %}
+{% twitter https://twitter.com/gp_pulipaka/status/1292553854022758400?s=12 %}
+{% twitter https://twitter.com/omarsar0/status/1297132902476587008?s=12 %}
 - [2020 August 28 - PAIR-code/lit ](https://t.co/4CCWiAMPMk?amp=1)
-- 2020 August 28 {% twitter https://twitter.com/bastings_nlp/status/1295822652318392322?s=12 %}
+{% twitter https://twitter.com/bastings_nlp/status/1295822652318392322?s=12 %}
 - [2020 August 28 - Open a shell session in Colab notebooks using Python and JQuery<a class="github-button" href="https://github.com/alessandrobessi/colab-shell" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/alessandrobessi/colab-shell)
 - [2020 August 28 - Python datetimes made easy<a class="github-button" href="https://github.com/sdispater/pendulum" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/sdispater/pendulum)
 - [2020 August 28 - A comprehensive reference for all topics related to Natural Language Processing<a class="github-button" href="https://github.com/ivan-bilan/The-NLP-Pandect" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/ivan-bilan/The-NLP-Pandect)
