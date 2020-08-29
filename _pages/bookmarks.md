@@ -86,6 +86,7 @@ toc: true
 ### Text to Image
 
 ### Text to Text
+- [2020 August 29 - Easy Data Augmentation for Text Classification ](https://www.youtube.com/watch?v=3w92peJtYNQ)
 - [2020 August 29 - Forensic Writer Identification Using Microblogging Texts ](https://arxiv.org/abs/2008.01533)
 - [2020 August 29 - Explore and Visualize your LinkedIn Network with Python and Sentiment Analysis ](https://towardsdatascience.com/sentiment-analysis-of-linkedin-messages-3bb152307f84)
 {% twitter https://twitter.com/jmhessel/status/1289284128718893056?s=12 %}
