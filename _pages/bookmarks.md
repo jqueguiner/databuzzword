@@ -15,6 +15,7 @@ toc: true
 ## Image 
 
 ### Image to Image
+- 2020 August 29 {% twitter https://twitter.com/ak92501/status/1291775907175309313?s=12 %}
 - [2020 August 29 - [Open Source]. The improved version of AnimeGAN. Landscape photos/videos to anime<a class="github-button" href="https://github.com/TachibanaYoshino/AnimeGANv2" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/TachibanaYoshino/AnimeGANv2)
 - [2020 August 29 - Speedup End-to-End Vision AI Using Transfer Learning Toolkit 2.0 & DeepStream SDK 5.0 – NVIDIA Developer News Center ](https://news.developer.nvidia.com/deepstream-5-0-tlt-2-0-ga/)
 - [2020 August 29 - Camera localization and video stabilization component. Fixed coordinates system. Using Python and OpenCV.<a class="github-button" href="https://github.com/RnD-Oxagile/EvenVizion" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/RnD-Oxagile/EvenVizion)
