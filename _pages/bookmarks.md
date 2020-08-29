@@ -15,6 +15,7 @@ toc: true
 ## Image 
 
 ### Image to Image
+- [2020 August 29 - Speedup End-to-End Vision AI Using Transfer Learning Toolkit 2.0 & DeepStream SDK 5.0 – NVIDIA Developer News Center ](https://news.developer.nvidia.com/deepstream-5-0-tlt-2-0-ga/)
 - [2020 August 29 - Camera localization and video stabilization component. Fixed coordinates system. Using Python and OpenCV.<a class="github-button" href="https://github.com/RnD-Oxagile/EvenVizion" data-size="large" data-show-count="true" aria-label="Star">Star</a>](https://github.com/RnD-Oxagile/EvenVizion)
 - [2020 August 28 - These photorealistic portraits of ancient Roman emperors were created using old statues and AI ](https://www.theverge.com/2020/8/21/21395115/roman-emperors-photorealistic-portraits-ai-artbreeder-dan-voshart)
 - 2020 August 28 {% twitter https://twitter.com/ak92501/status/1295527690435530752?s=12 %}
