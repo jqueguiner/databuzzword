@@ -27,10 +27,8 @@ Il nous explique les enjeux ainsi que les principes des technos utilisées.
 # Social Networks
 
 ## Charles Cohen
-
 - [Charles Cohen on Twitter @charleschn7](https://twitter.com/charleschn7)
-- [Charles Cohen on GitHub](https://github.com/youenchene)
-- [Charles Cohen on LinkedIn](https://www.linkedin.com/in/youenchene/)
+- [Charles Cohen on LinkedIn](https://www.linkedin.com/in/cohen-charles/)
 
 ## Jean-Louis Queguiner
 - [Jean-Louis Queguiner on Youtube](https://www.youtube.com/channel/UCVso5UVvQeGAuwbksmA95iA)
