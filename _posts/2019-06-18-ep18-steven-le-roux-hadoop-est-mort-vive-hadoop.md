@@ -27,14 +27,15 @@ Cette semaine dans Databuzzword nous recevons Steven Le Roux pour faire une anal
 
 # Social Networks
 
-## Charles Cohen
 
-- [Charles Cohen on Twitter @charleschn7](https://twitter.com/charleschn7)
-- [Charles Cohen on GitHub](https://github.com/youenchene)
-- [Charles Cohen on LinkedIn](https://www.linkedin.com/in/youenchene/)
+## Steven Le-Roux
+- [Steven Le-Roux on Twitter @StevenLeRoux](https://twitter.com/StevenLeRoux)
+- [Steven Le-Roux on GitHub](https://github.com/StevenLeRoux)
+- [Steven Le-Roux on LinkedIn](https://www.linkedin.com/in/stevenleroux/)
 
 ## Jean-Louis Queguiner
 - [Jean-Louis Queguiner on Youtube](https://www.youtube.com/channel/UCVso5UVvQeGAuwbksmA95iA)
 - [Jean-Louis Queguiner on Twitter @JiliJeanlouis](https://twitter.com/JiliJeanlouis)
 - [Jean-Louis Queguiner on Github](https://github.com/jqueguiner)
 - [Jean-Louis Queguiner on LinkedIn](https://fr.linkedin.com/in/jlqueguiner)
+
