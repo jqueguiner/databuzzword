@@ -18,9 +18,9 @@ Cette semaine Marc Audefroy nous explique comment fonctionne les noms de domaine
 # Social Networks
 
 ## Marc Audefroy
-- [Youen Chéné's on Twitter @marcaudefroy](https://twitter.com/marcaudefroy)
-- [Youen Chéné's on GitHub](https://github.com/marcaudefroy)
-- [Youen Chéné's on LinkedIn](https://www.linkedin.com/in/marc-audefroy-b62b9b36/)
+- [Marc Audefroy's on Twitter @marcaudefroy](https://twitter.com/marcaudefroy)
+- [Marc Audefroy's on GitHub](https://github.com/marcaudefroy)
+- [Marc Audefroy's on LinkedIn](https://www.linkedin.com/in/marc-audefroy-b62b9b36/)
 
 ## Jean-Louis Queguiner
 - [Jean-Louis Queguiner on Youtube](https://www.youtube.com/channel/UCVso5UVvQeGAuwbksmA95iA)
