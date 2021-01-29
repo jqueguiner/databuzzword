@@ -27,7 +27,7 @@ Dans cet épisode on parle d'éthique sur l'IA et des enjeux encore plus larges 
 - [Irénée Régnauld on LinkedIn](https://www.linkedin.com/in/ireneeregnauld/)
 
 ## Jean-Louis Queguiner
-- [Jean-Louis Queguiner on Youtube](https://www.youtube.com/channel/UCVso5UVvQeGAuwbksmA95iA)
+- [Jean-Louis Queguiner on Youtube](https://www.youtube.com/channel/databuzzword)
 - [Jean-Louis Queguiner on Twitter @JiliJeanlouis](https://twitter.com/JiliJeanlouis)
 - [Jean-Louis Queguiner on Github](https://github.com/jqueguiner)
 - [Jean-Louis Queguiner on LinkedIn](https://fr.linkedin.com/in/jlqueguiner)
