@@ -26,7 +26,7 @@ Cette semaine nous rencontrons Thibault Neveu Youtubeur sur le sujet de l'Intell
 - [Thibault Neveu on LinkedIn](https://www.linkedin.com/in/thibaultneveu/)
 
 ## Jean-Louis Queguiner
-- [Jean-Louis Queguiner on Youtube](https://www.youtube.com/channel/UCVso5UVvQeGAuwbksmA95iA)
+- [Jean-Louis Queguiner on Youtube](https://www.youtube.com/channel/databuzzword)
 - [Jean-Louis Queguiner on Twitter @JiliJeanlouis](https://twitter.com/JiliJeanlouis)
 - [Jean-Louis Queguiner on Github](https://github.com/jqueguiner)
 - [Jean-Louis Queguiner on LinkedIn](https://fr.linkedin.com/in/jlqueguiner)
