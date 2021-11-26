@@ -77,7 +77,7 @@ $ sudo service slurmd start
 
 ```console
 # start the master deamon
-$ sudo service slurmctld start. 
+$ sudo service slurmctld start
 ```
 
 
