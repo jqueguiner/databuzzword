@@ -30,5 +30,56 @@ Slurm allow you to run a coordinated workload on multiple workers.
 ## Installing slurm on Linux / Ubuntu 20.04
 
 ```console
-
+# checking OS version
+$ cat /etc/os-release
 ```
+
+```console
+# updating package index
+$ sudo apt update
+```
+
+
+```console
+# installing slurm
+$ sudo apt-get install -y slurm-wlm
+```
+
+You have now installed :
+- slurmctld : the central management daemon of Slurm
+- slurmd : the compute node daemon of Slurm
+
+The central management daemon coordinates the jobs, accept the jobs, schedule/allocate the resources and monitor the job status.
+The compute node daemon monitors and managed all jobs running on the compute node.
+
+slurmctld is basically the master.
+slurmd are basically the workers.
+
+see slurm architecture : 
+[Slurm course](http://skutnik.iiens.net/cours/2A/LC/Batch%20Scheduling/Cours%202.pdf)
+
+Both of them should be install in /usr/sbin/
+
+## configuring slurm
+We will serve the slurm configurator page to port 8000.
+This will allow use to use and HTML interface for configuration that will then create a /etc/slurm-llnl/slurm.config config file.
+
+```console
+$ chmod +r $(dpkg -L slurmctld | grep slurm-wlm-configurator.html) &&  \
+python3 -m http.server --directory $(dirname $(dpkg -L slurmctld | grep slurm-wlm-configurator.html))
+```
+
+## starting slurm
+```console
+# start the worker deamon
+$ sudo service slurmd start
+```
+
+```console
+# start the master deamon
+$ sudo service slurmctld start. 
+```
+
+
+
+
