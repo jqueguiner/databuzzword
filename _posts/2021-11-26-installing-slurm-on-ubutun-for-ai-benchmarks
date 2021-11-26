@@ -1,0 +1,34 @@
+---
+title: "Installing Slurm on Ubuntu to run AI benchmarks"
+categories: [GPU, AI, HPC, Slurm]
+badges: true
+toc: true
+comments: true
+layout: post
+author: Jean-Louis Queguiner
+---
+
+# Context
+When running benchmarks you need to find the appropriate library to compete with.
+When it comes to AI the standard is [ML commons](https://mlcommons.org) created in 2019 to ease benchmark reproductibility in Machine Learning and AI.
+
+I did a Youtube video regarding this subject explaining ML commons and how benchmarks work:
+[![Doing AI GPU Benchmarks with ML commons (Part1)](http://img.youtube.com/vi/L9qbVfQWf_8/0.jpg)](https://www.youtube.com/watch?v=L9qbVfQWf_8 "Doing AI GPU Benchmarks with ML commons (Part1)")
+
+
+# Slurm to the rescure
+When performing benchmarks is often that you want to test the scale of the GPU, then the machine using multiple GPU then the whole system using mutliple Nodes.
+
+This is where distributed computing comes into play with 2 main components:
+- the software libs : Torch distributed/horovod 
+- the orchestration : slurm
+
+Slurm was introduced in 2010 for scientific High Performance Computing (HPC).
+
+Slurm allow you to run a coordinated workload on multiple workers.
+
+## Installing slurm on Linux / Ubuntu 20.04
+
+```console
+
+```
