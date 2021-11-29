@@ -69,6 +69,39 @@ $ chmod +r $(dpkg -L slurmctld | grep slurm-wlm-configurator.html) &&  \
 python3 -m http.server --directory $(dirname $(dpkg -L slurmctld | grep slurm-wlm-configurator.html))
 ```
 
+```console
+# getting the current host name
+$ hostnamectl
+
+root@gpu-client-1:~# hostnamectl
+   Static hostname: gpu-client-1
+         Icon name: computer-server
+           Chassis: server
+        Machine ID: XXXX
+           Boot ID: XXXX
+  Operating System: Ubuntu 20.04.3 LTS
+            Kernel: Linux 5.4.0-88-generic
+      Architecture: x86-64
+```
+
+```console
+# getting the current host configuration
+$ lscpu | grep -E '^Thread|^Core|^Socket|^CPU\('
+
+CPU(s):                          32
+Thread(s) per core:              2
+Core(s) per socket:              8
+Socket(s):                       2
+```
+
+```console
+# getting the memory.
+$ free -m
+              total        used        free      shared  buff/cache   available
+Mem:         192077        1647       47100           2      143329      189014
+Swap:          2047          26        2021
+`````
+
 ## starting slurm
 ```console
 # start the worker deamon
@@ -79,6 +112,28 @@ $ sudo service slurmd start
 # start the master deamon
 $ sudo service slurmctld start
 ```
+
+need to set the list of host in all nodes in the /etc/hosts
+
+The resolvers must be also
+
+10.100.10.11  hostname for instance.
+add private IP of gateway in /etc/hosts
+
+create pk
+add pk to ansible playbook
+
+set the defautl /mnt/ share storage
+
+set ntp servers for config/synchro in /cluster/defaults
+add nodes in ansible-slurm/environments/prod/hosts
+et le group vars
+
+partition = groups of machines with rules => a bit like queue and hardware idealy / same contraints.
+
+
+
+
 
 
 
